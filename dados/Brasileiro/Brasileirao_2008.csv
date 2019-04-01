@@ -1,0 +1,381 @@
+ano;date;hour;round;home_team;score;away_team;placar_casa;placar_visitante;resultado;arena;state
+2008;11/05/2008;16h00;1;Ipatinga-MG;0 x 1;Atlético-PR;0.0;1.0;3;Ipatingão;Ipatinga
+2008;11/05/2008;16h00;1;Coritiba;2 x 0;Palmeiras;2.0;0.0;1;Couto Pereira;Curitiba
+2008;11/05/2008;16h00;1;Internacional;1 x 0;Vasco;1.0;0.0;1;Beira-Rio;Porto Alegre
+2008;11/05/2008;16h00;1;Botafogo;2 x 0;Sport;2.0;0.0;1;Engenhão;Rio de Janeiro
+2008;10/05/2008;18h10;1;São Paulo;0 x 1;Grêmio;0.0;1.0;3;Morumbi;São Paulo
+2008;10/05/2008;18h10;1;Náutico;2 x 1;Goiás;2.0;1.0;1;Aflitos;Recife
+2008;10/05/2008;18h10;1;Vitória;0 x 2;Cruzeiro;0.0;2.0;3;Barradão;Salvador
+2008;11/05/2008;18h10;1;Atlético-MG;0 x 0;Fluminense;0.0;0.0;2;Mineirão;Belo Horizonte
+2008;11/05/2008;18h10;1;Flamengo;3 x 1;Santos;3.0;1.0;1;Maracanã;Rio de Janeiro
+2008;11/05/2008;18h10;1;Portuguesa;5 x 5;Figueirense;5.0;5.0;2;Canindé;São Paulo
+2008;18/05/2008;16h00;2;Atlético-PR;1 x 1;São Paulo;1.0;1.0;2;Arena da Baixada;Curitiba
+2008;18/05/2008;16h00;2;Goiás;1 x 1;Atlético-MG;1.0;1.0;2;Serra Dourada;Goiânia
+2008;18/05/2008;16h00;2;Grêmio;0 x 0;Flamengo;0.0;0.0;2;Olímpico Monumental;Porto Alegre
+2008;18/05/2008;16h00;2;Fluminense;0 x 2;Náutico;0.0;2.0;3;Maracanã;Rio de Janeiro
+2008;17/05/2008;18h10;2;Cruzeiro;1 x 0;Botafogo;1.0;0.0;1;Mineirão;Belo Horizonte
+2008;17/05/2008;18h10;2;Vasco;3 x 1;Portuguesa;3.0;1.0;1;São Januário;Rio de Janeiro
+2008;17/05/2008;18h10;2;Sport;0 x 0;Vitória;0.0;0.0;2;Ilha do Retiro;Recife
+2008;18/05/2008;18h10;2;Palmeiras;2 x 1;Internacional;2.0;1.0;1;Parque Antarctica;São Paulo
+2008;18/05/2008;18h10;2;Figueirense;2 x 1;Coritiba;2.0;1.0;1;Orlando Scarpelli;Florianópolis
+2008;18/05/2008;18h10;2;Santos;4 x 0;Ipatinga-MG;4.0;0.0;1;Vila Belmiro;Santos
+2008;25/05/2008;16h00;3;São Paulo;1 x 1;Coritiba;1.0;1.0;2;Morumbi;São Paulo
+2008;25/05/2008;16h00;3;Cruzeiro;4 x 0;Santos;4.0;0.0;1;Mineirão;Belo Horizonte
+2008;25/05/2008;16h00;3;Goiás;1 x 1;Ipatinga-MG;1.0;1.0;2;Serra Dourada;Goiânia
+2008;25/05/2008;16h00;3;Sport;2 x 1;Fluminense;2.0;1.0;1;Ilha do Retiro;Recife
+2008;24/05/2008;18h10;3;Flamengo;2 x 1;Internacional;2.0;1.0;1;Maracanã;Rio de Janeiro
+2008;24/05/2008;18h10;3;Vitória;4 x 0;Figueirense;4.0;0.0;1;Barradão;Salvador
+2008;24/05/2008;18h10;3;Grêmio;2 x 0;Náutico;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2008;25/05/2008;18h10;3;Atlético-PR;1 x 1;Atlético-MG;1.0;1.0;2;Arena da Baixada;Curitiba
+2008;25/05/2008;18h10;3;Portuguesa;1 x 1;Palmeiras;1.0;1.0;2;Pacaembu;São Paulo
+2008;25/05/2008;18h10;3;Botafogo;1 x 1;Vasco;1.0;1.0;2;Engenhão;Rio de Janeiro
+2008;01/06/2008;16h00;4;Ipatinga-MG;2 x 0;Vitória;2.0;0.0;1;Ipatingão;Ipatinga
+2008;01/06/2008;16h00;4;Náutico;3 x 0;Botafogo;3.0;0.0;1;Aflitos;Recife
+2008;01/06/2008;16h00;4;Coritiba;1 x 1;Cruzeiro;1.0;1.0;2;Couto Pereira;Curitiba
+2008;01/06/2008;16h00;4;Santos;0 x 0;São Paulo;0.0;0.0;2;Vila Belmiro;Santos
+2008;31/05/2008;18h10;4;Vasco;2 x 1;Grêmio;2.0;1.0;1;São Januário;Rio de Janeiro
+2008;31/05/2008;18h10;4;Figueirense;0 x 0;Goiás;0.0;0.0;2;Orlando Scarpelli;Florianópolis
+2008;31/05/2008;18h10;4;Internacional;1 x 1;Sport;1.0;1.0;2;Beira-Rio;Porto Alegre
+2008;01/06/2008;18h10;4;Palmeiras;1 x 0;Atlético-PR;1.0;0.0;1;Parque Antarctica;São Paulo
+2008;01/06/2008;18h10;4;Atlético-MG;2 x 0;Portuguesa;2.0;0.0;1;Mineirão;Belo Horizonte
+2008;01/06/2008;18h10;4;Fluminense;0 x 1;Flamengo;0.0;1.0;3;Maracanã;Rio de Janeiro
+2008;08/06/2008;16h00;5;Grêmio;2 x 1;Fluminense;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2008;08/06/2008;16h00;5;Portuguesa;3 x 1;Internacional;3.0;1.0;1;Canindé;São Paulo
+2008;08/06/2008;16h00;5;Atlético-PR;5 x 0;Goiás;5.0;0.0;1;Arena da Baixada;Curitiba
+2008;08/06/2008;16h00;5;Sport;2 x 0;Palmeiras;2.0;0.0;1;Ilha do Retiro;Recife
+2008;08/06/2008;18h10;5;Botafogo;2 x 1;Coritiba;2.0;1.0;1;Engenhão;Rio de Janeiro
+2008;08/06/2008;18h10;5;Vitória;1 x 0;Santos;1.0;0.0;1;Barradão;Salvador
+2008;08/06/2008;18h10;5;Cruzeiro;1 x 0;Vasco;1.0;0.0;1;Mineirão;Belo Horizonte
+2008;07/06/2008;18h20;5;Flamengo;5 x 0;Figueirense;5.0;0.0;1;Maracanã;Rio de Janeiro
+2008;07/06/2008;18h20;5;Ipatinga-MG;0 x 0;Náutico;0.0;0.0;2;Ipatingão;Ipatinga
+2008;07/06/2008;18h20;5;São Paulo;5 x 1;Atlético-MG;5.0;1.0;1;Morumbi;São Paulo
+2008;14/06/2008;16h10;6;Internacional;2 x 1;Botafogo;2.0;1.0;1;Beira-Rio;Porto Alegre
+2008;14/06/2008;16h10;6;Flamengo;2 x 4;São Paulo;2.0;4.0;3;Maracanã;Rio de Janeiro
+2008;14/06/2008;16h10;6;Figueirense;3 x 1;Sport;3.0;1.0;1;Orlando Scarpelli;Florianópolis
+2008;14/06/2008;18h20;6;Goiás;0 x 3;Grêmio;0.0;3.0;3;Serra Dourada;Goiânia
+2008;14/06/2008;18h20;6;Portuguesa;1 x 0;Atlético-PR;1.0;0.0;1;Canindé;São Paulo
+2008;14/06/2008;18h20;6;Coritiba;0 x 0;Vitória;0.0;0.0;2;Couto Pereira;Curitiba
+2008;14/06/2008;18h20;6;Náutico;1 x 1;Vasco;1.0;1.0;2;Arruda;Recife
+2008;12/06/2008;20h30;6;Fluminense;1 x 1;Santos;1.0;1.0;2;Maracanã;Rio de Janeiro
+2008;12/06/2008;20h30;6;Atlético-MG;4 x 2;Ipatinga-MG;4.0;2.0;1;Mineirão;Belo Horizonte
+2008;12/06/2008;20h30;6;Palmeiras;5 x 2;Cruzeiro;5.0;2.0;1;Parque Antarctica;São Paulo
+2008;22/06/2008;16h00;7;Vitória;2 x 1;Internacional;2.0;1.0;1;Barradão;Salvador
+2008;22/06/2008;16h00;7;Vasco;0 x 2;Palmeiras;0.0;2.0;3;São Januário;Rio de Janeiro
+2008;22/06/2008;16h00;7;Ipatinga-MG;1 x 3;Flamengo;1.0;3.0;3;Ipatingão;Ipatinga
+2008;22/06/2008;18h10;7;Grêmio;3 x 0;Atlético-PR;3.0;0.0;1;Olímpico Monumental;Porto Alegre
+2008;22/06/2008;18h10;7;Santos;0 x 4;Goiás;0.0;4.0;3;Vila Belmiro;Santos
+2008;22/06/2008;18h10;7;Náutico;2 x 1;Atlético-MG;2.0;1.0;1;Arruda;Recife
+2008;21/06/2008;18h20;7;Botafogo;0 x 1;Portuguesa;0.0;1.0;3;Engenhão;Rio de Janeiro
+2008;21/06/2008;18h20;7;Coritiba;2 x 1;Fluminense;2.0;1.0;1;Couto Pereira;Curitiba
+2008;21/06/2008;18h20;7;Cruzeiro;3 x 0;Figueirense;3.0;0.0;1;Mineirão;Belo Horizonte
+2008;21/06/2008;18h20;7;São Paulo;1 x 0;Sport;1.0;0.0;1;Morumbi;São Paulo
+2008;29/06/2008;16h00;8;Atlético-PR;1 x 1;Coritiba;1.0;1.0;2;Arena da Baixada;Curitiba
+2008;29/06/2008;16h00;8;Sport;1 x 2;Flamengo;1.0;2.0;3;Ilha do Retiro;Recife
+2008;29/06/2008;16h00;8;Figueirense;1 x 1;Atlético-MG;1.0;1.0;2;Orlando Scarpelli;Florianópolis
+2008;29/06/2008;16h00;8;Cruzeiro;1 x 1;São Paulo;1.0;1.0;2;Mineirão;Belo Horizonte
+2008;29/06/2008;18h10;8;Fluminense;0 x 0;Botafogo;0.0;0.0;2;Maracanã;Rio de Janeiro
+2008;29/06/2008;18h10;8;Grêmio;1 x 1;Internacional;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2008;29/06/2008;18h10;8;Palmeiras;2 x 0;Náutico;2.0;0.0;1;Parque Antarctica;São Paulo
+2008;28/06/2008;18h20;8;Vitória;3 x 0;Goiás;3.0;0.0;1;Barradão;Salvador
+2008;28/06/2008;18h20;8;Portuguesa;0 x 0;Santos;0.0;0.0;2;Canindé;São Paulo
+2008;28/06/2008;18h20;8;Vasco;4 x 2;Ipatinga-MG;4.0;2.0;1;São Januário;Rio de Janeiro
+2008;06/07/2008;16h00;9;Internacional;3 x 0;Coritiba;3.0;0.0;1;Beira-Rio;Porto Alegre
+2008;06/07/2008;16h00;9;Portuguesa;1 x 2;Vitória;1.0;2.0;3;Canindé;São Paulo
+2008;06/07/2008;16h00;9;Figueirense;2 x 1;Vasco;2.0;1.0;1;Orlando Scarpelli;Florianópolis
+2008;06/07/2008;16h00;9;Atlético-MG;1 x 1;Palmeiras;1.0;1.0;2;Mineirão;Belo Horizonte
+2008;06/07/2008;18h10;9;Botafogo;2 x 0;Grêmio;2.0;0.0;1;Engenhão;Rio de Janeiro
+2008;06/07/2008;18h10;9;Goiás;1 x 0;Fluminense;1.0;0.0;1;Serra Dourada;Goiânia
+2008;06/07/2008;18h10;9;São Paulo;1 x 1;Ipatinga-MG;1.0;1.0;2;Morumbi;São Paulo
+2008;05/07/2008;18h20;9;Atlético-PR;1 x 0;Santos;1.0;0.0;1;Arena da Baixada;Curitiba
+2008;05/07/2008;18h20;9;Sport;1 x 0;Cruzeiro;1.0;0.0;1;Ilha do Retiro;Recife
+2008;05/07/2008;18h20;9;Flamengo;3 x 0;Náutico;3.0;0.0;1;Maracanã;Rio de Janeiro
+2008;09/07/2008;19h30;10;Internacional;1 x 0;Goiás;1.0;0.0;1;Beira-Rio;Porto Alegre
+2008;09/07/2008;19h30;10;Coritiba;4 x 0;Portuguesa;4.0;0.0;1;Couto Pereira;Curitiba
+2008;09/07/2008;20h30;10;Fluminense;3 x 0;Atlético-PR;3.0;0.0;1;Maracanã;Rio de Janeiro
+2008;09/07/2008;20h30;10;Vitória;5 x 2;Botafogo;5.0;2.0;1;Barradão;Salvador
+2008;10/07/2008;20h30;10;Vasco;4 x 0;Sport;4.0;0.0;1;São Januário;Rio de Janeiro
+2008;10/07/2008;20h30;10;Ipatinga-MG;2 x 2;Cruzeiro;2.0;2.0;2;Ipatingão;Ipatinga
+2008;10/07/2008;20h30;10;Palmeiras;1 x 1;Figueirense;1.0;1.0;2;Parque Antarctica;São Paulo
+2008;09/07/2008;21h45;10;Santos;1 x 1;Grêmio;1.0;1.0;2;Vila Belmiro;Santos
+2008;09/07/2008;21h45;10;Náutico;2 x 1;São Paulo;2.0;1.0;1;Aflitos;Recife
+2008;09/07/2008;21h45;10;Atlético-MG;1 x 1;Flamengo;1.0;1.0;2;Mineirão;Belo Horizonte
+2008;13/07/2008;16h00;11;Santos;2 x 2;Botafogo;2.0;2.0;2;Vila Belmiro;Santos
+2008;13/07/2008;16h00;11;Atlético-PR;1 x 1;Internacional;1.0;1.0;2;Arena da Baixada;Curitiba
+2008;13/07/2008;16h00;11;Ipatinga-MG;0 x 1;Figueirense;0.0;1.0;3;Ipatingão;Ipatinga
+2008;13/07/2008;16h00;11;Cruzeiro;2 x 1;Atlético-MG;2.0;1.0;1;Mineirão;Belo Horizonte
+2008;13/07/2008;16h00;11;São Paulo;2 x 1;Palmeiras;2.0;1.0;1;Morumbi;São Paulo
+2008;13/07/2008;18h10;11;Grêmio;2 x 1;Portuguesa;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2008;13/07/2008;18h10;11;Náutico;0 x 2;Sport;0.0;2.0;3;Aflitos;Recife
+2008;13/07/2008;18h10;11;Flamengo;3 x 1;Vasco;3.0;1.0;1;Maracanã;Rio de Janeiro
+2008;12/07/2008;18h20;11;Fluminense;2 x 1;Vitória;2.0;1.0;1;Maracanã;Rio de Janeiro
+2008;12/07/2008;18h20;11;Goiás;2 x 2;Coritiba;2.0;2.0;2;Serra Dourada;Goiânia
+2008;16/07/2008;19h30;12;Botafogo;4 x 0;Ipatinga-MG;4.0;0.0;1;Engenhão;Rio de Janeiro
+2008;16/07/2008;19h30;12;Sport;2 x 2;Grêmio;2.0;2.0;2;Ilha do Retiro;Recife
+2008;16/07/2008;20h30;12;Portuguesa;3 x 2;Náutico;3.0;2.0;1;Canindé;São Paulo
+2008;16/07/2008;20h30;12;Figueirense;3 x 0;Santos;3.0;0.0;1;Orlando Scarpelli;Florianópolis
+2008;17/07/2008;20h30;12;Internacional;1 x 0;Atlético-MG;1.0;0.0;1;Beira-Rio;Porto Alegre
+2008;17/07/2008;20h30;12;Coritiba;1 x 0;Flamengo;1.0;0.0;1;Couto Pereira;Curitiba
+2008;17/07/2008;20h30;12;Vasco;1 x 1;Goiás;1.0;1.0;2;São Januário;Rio de Janeiro
+2008;16/07/2008;21h45;12;Vitória;1 x 3;São Paulo;1.0;3.0;3;Barradão;Salvador
+2008;16/07/2008;21h45;12;Cruzeiro;1 x 0;Atlético-PR;1.0;0.0;1;Mineirão;Belo Horizonte
+2008;16/07/2008;21h45;12;Palmeiras;3 x 1;Fluminense;3.0;1.0;1;Parque Antarctica;São Paul
+2008;20/07/2008;16h00;13;Goiás;3 x 2;Palmeiras;3.0;2.0;1;Serra Dourada;Goiânia
+2008;20/07/2008;16h00;13;Santos;1 x 0;Sport;1.0;0.0;1;Vila Belmiro;Santos
+2008;20/07/2008;16h00;13;Atlético-PR;3 x 1;Vasco;3.0;1.0;1;Arena da Baixada;Curitiba
+2008;20/07/2008;16h00;13;Náutico;1 x 1;Internacional;1.0;1.0;2;Aflitos;Recife
+2008;20/07/2008;18h10;13;Flamengo;0 x 1;Vitória;0.0;1.0;3;Maracanã;Rio de Janeiro
+2008;20/07/2008;18h10;13;Atlético-MG;3 x 2;Coritiba;3.0;2.0;1;Mineirão;Belo Horizonte
+2008;20/07/2008;18h10;13;São Paulo;2 x 1;Botafogo;2.0;1.0;1;Morumbi;São Paulo
+2008;19/07/2008;18h20;13;Fluminense;1 x 0;Figueirense;1.0;0.0;1;Maracanã;Rio de Janeiro
+2008;19/07/2008;18h20;13;Grêmio;1 x 0;Cruzeiro;1.0;0.0;1;Olímpico Monumental;Porto Alegre
+2008;19/07/2008;18h20;13;Ipatinga-MG;4 x 1;Portuguesa;4.0;1.0;1;Ipatingão;Ipatinga
+2008;23/07/2008;19h30;14;Coritiba;1 x 0;Ipatinga-MG;1.0;0.0;1;Couto Pereira;Curitiba
+2008;23/07/2008;19h30;14;Cruzeiro;0 x 1;Goiás;0.0;1.0;3;Mineirão;Belo Horizonte
+2008;23/07/2008;20h30;14;Vitória;2 x 0;Náutico;2.0;0.0;1;Barradão;Salvador
+2008;24/07/2008;20h30;14;Sport;1 x 0;Atlético-PR;1.0;0.0;1;Ilha do Retiro;Recife
+2008;24/07/2008;20h30;14;Figueirense;1 x 7;Grêmio;1.0;7.0;3;Orlando Scarpelli;Florianópolis
+2008;24/07/2008;20h30;14;Palmeiras;4 x 2;Santos;4.0;2.0;1;Parque Antarctica;São Paulo
+2008;23/07/2008;21h45;14;Botafogo;4 x 0;Atlético-MG;4.0;0.0;1;Engenhão;Rio de Janeiro
+2008;23/07/2008;21h45;14;Internacional;2 x 0;São Paulo;2.0;0.0;1;Beira-Rio;Porto Alegre
+2008;23/07/2008;21h45;14;Portuguesa;2 x 2;Flamengo;2.0;2.0;2;Canindé;São Paulo
+2008;23/07/2008;21h45;14;Vasco;3 x 3;Fluminense;3.0;3.0;2;Maracanã;Rio de Janeiro
+2008;27/07/2008;16h00;15;Grêmio;1 x 1;Palmeiras;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2008;27/07/2008;16h00;15;Goiás;1 x 2;Sport;1.0;2.0;3;Serra Dourada;Goiânia
+2008;27/07/2008;16h00;15;Santos;5 x 2;Vasco;5.0;2.0;1;Vila Belmiro;Santos
+2008;27/07/2008;16h00;15;Atlético-PR;0 x 0;Figueirense;0.0;0.0;2;Arena da Baixada;Curitiba
+2008;27/07/2008;18h10;15;Flamengo;0 x 0;Botafogo;0.0;0.0;2;Maracanã;Rio de Janeiro
+2008;27/07/2008;18h10;15;Atlético-MG;2 x 1;Vitória;2.0;1.0;1;Mineirão;Belo Horizonte
+2008;27/07/2008;18h10;15;São Paulo;3 x 1;Portuguesa;3.0;1.0;1;Morumbi;São Paulo
+2008;26/07/2008;18h20;15;Fluminense;1 x 3;Cruzeiro;1.0;3.0;3;Maracanã;Rio de Janeiro
+2008;26/07/2008;18h20;15;Náutico;1 x 2;Coritiba;1.0;2.0;3;Aflitos;Recife
+2008;26/07/2008;18h20;15;Ipatinga-MG;1 x 0;Internacional;1.0;0.0;1;Ipatingão;Ipatinga
+2008;30/07/2008;19h30;16;Vitória;2 x 1;Atlético-PR;2.0;1.0;1;Barradão;Salvador
+2008;30/07/2008;19h30;16;Cruzeiro;4 x 2;Náutico;4.0;2.0;1;Mineirão;Belo Horizonte
+2008;30/07/2008;20h30;16;Botafogo;2 x 0;Goiás;2.0;0.0;1;Engenhão;Rio de Janeiro
+2008;30/07/2008;20h30;16;Portuguesa;3 x 1;Fluminense;3.0;1.0;1;Canindé;São Paulo
+2008;31/07/2008;20h30;16;Coritiba;0 x 1;Grêmio;0.0;1.0;3;Couto Pereira;Curitiba
+2008;31/07/2008;20h30;16;Sport;3 x 1;Ipatinga-MG;3.0;1.0;1;Ilha do Retiro;Recife
+2008;31/07/2008;20h30;16;Vasco;6 x 1;Atlético-MG;6.0;1.0;1;São Januário;Rio de Janeiro
+2008;30/07/2008;21h45;16;Internacional;0 x 1;Santos;0.0;1.0;3;Beira-Rio;Porto Alegre
+2008;30/07/2008;21h45;16;Figueirense;1 x 1;São Paulo;1.0;1.0;2;Orlando Scarpelli;Florianópolis
+2008;30/07/2008;21h45;16;Palmeiras;1 x 0;Flamengo;1.0;0.0;1;Parque Antarctica;São Paulo
+2008;03/08/2008;16h00;17;Grêmio;2 x 0;Vitória;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2008;03/08/2008;16h00;17;Flamengo;1 x 2;Cruzeiro;1.0;2.0;3;Maracanã;Rio de Janeiro
+2008;03/08/2008;16h00;17;Ipatinga-MG;1 x 2;Palmeiras;1.0;2.0;3;Ipatingão;Ipatinga
+2008;03/08/2008;16h00;17;São Paulo;4 x 0;Vasco;4.0;0.0;1;Morumbi;São Paulo
+2008;03/08/2008;18h10;17;Santos;1 x 3;Coritiba;1.0;3.0;3;Vila Belmiro;Santos
+2008;03/08/2008;18h10;17;Atlético-PR;0 x 3;Botafogo;0.0;3.0;3;Arena da Baixada;Curitiba
+2008;03/08/2008;18h10;17;Atlético-MG;2 x 1;Sport;2.0;1.0;1;Mineirão;Belo Horizonte
+2008;02/08/2008;18h20;17;Fluminense;1 x 2;Internacional;1.0;2.0;3;Maracanã;Rio de Janeiro
+2008;02/08/2008;18h20;17;Goiás;4 x 0;Portuguesa;4.0;0.0;1;Serra Dourada;Goiânia
+2008;02/08/2008;18h20;17;Náutico;1 x 2;Figueirense;1.0;2.0;3;Aflitos;Recife
+2008;06/08/2008;19h30;18;Grêmio;1 x 0;Ipatinga-MG;1.0;0.0;1;Olímpico Monumental;Porto Alegre
+2008;06/08/2008;19h30;18;Vasco;0 x 2;Coritiba;0.0;2.0;3;São Januário;Rio de Janeiro
+2008;06/08/2008;20h30;18;Atlético-PR;2 x 0;Náutico;2.0;0.0;1;Arena da Baixada;Curitiba
+2008;06/08/2008;20h30;18;Sport;2 x 0;Portuguesa;2.0;0.0;1;Ilha do Retiro;Recife
+2008;07/08/2008;20h30;18;Figueirense;1 x 2;Botafogo;1.0;2.0;3;Orlando Scarpelli;Florianópolis
+2008;07/08/2008;20h30;18;Cruzeiro;2 x 0;Internacional;2.0;0.0;1;Mineirão;Belo Horizonte
+2008;07/08/2008;20h30;18;Palmeiras;3 x 0;Vitória;3.0;0.0;1;Parque Antarctica;São Paulo
+2008;06/08/2008;21h45;18;Fluminense;3 x 1;São Paulo;3.0;1.0;1;Maracanã;Rio de Janeiro
+2008;06/08/2008;21h45;18;Goiás;2 x 1;Flamengo;2.0;1.0;1;Serra Dourada;Goiânia
+2008;06/08/2008;21h45;18;Santos;2 x 3;Atlético-MG;2.0;3.0;3;Vila Belmiro;Santos
+2008;10/08/2008;16h00;19;Botafogo;1 x 0;Palmeiras;1.0;0.0;1;Engenhão;Rio de Janeiro
+2008;10/08/2008;16h00;19;Vitória;5 x 0;Vasco;5.0;0.0;1;Barradão;Salvador
+2008;10/08/2008;16h00;19;Portuguesa;2 x 1;Cruzeiro;2.0;1.0;1;Canindé;São Paulo
+2008;10/08/2008;16h00;19;Coritiba;3 x 0;Sport;3.0;0.0;1;Couto Pereira;Curitiba
+2008;10/08/2008;18h10;19;Internacional;1 x 1;Figueirense;1.0;1.0;2;Beira-Rio;Porto Alegre
+2008;10/08/2008;18h10;19;Náutico;1 x 0;Santos;1.0;0.0;1;Aflitos;Recife
+2008;10/08/2008;18h10;19;Ipatinga-MG;2 x 1;Fluminense;2.0;1.0;1;Ipatingão;Ipatinga
+2008;09/08/2008;18h20;19;Flamengo;1 x 0;Atlético-PR;1.0;0.0;1;Maracanã;Rio de Janeiro
+2008;09/08/2008;18h20;19;Atlético-MG;0 x 4;Grêmio;0.0;4.0;3;Mineirão;Belo Horizonte
+2008;09/08/2008;18h20;19;São Paulo;2 x 1;Goiás;2.0;1.0;1;Morumbi;São Paulo
+2008;17/08/2008;16h00;20;Grêmio;1 x 0;São Paulo;1.0;0.0;1;Olímpico Monumental;Porto Alegre
+2008;17/08/2008;16h00;20;Goiás;3 x 0;Náutico;3.0;0.0;1;Serra Dourada;Goiânia
+2008;17/08/2008;16h00;20;Santos;2 x 2;Flamengo;2.0;2.0;2;Vila Belmiro;Santos
+2008;17/08/2008;16h00;20;Vasco;4 x 0;Internacional;4.0;0.0;1;São Januário;Rio de Janeiro
+2008;17/08/2008;18h10;20;Fluminense;1 x 0;Atlético-MG;1.0;0.0;1;Maracanã;Rio de Janeiro
+2008;17/08/2008;18h10;20;Sport;0 x 1;Botafogo;0.0;1.0;3;Ilha do Retiro;Recife
+2008;17/08/2008;18h10;20;Palmeiras;1 x 0;Coritiba;1.0;0.0;1;Parque Antarctica;São Paulo
+2008;16/08/2008;18h20;20;Atlético-PR;5 x 0;Ipatinga-MG;5.0;0.0;1;Arena da Baixada;Curitiba
+2008;16/08/2008;18h20;20;Figueirense;2 x 1;Portuguesa;2.0;1.0;1;Orlando Scarpelli;Florianópolis
+2008;16/08/2008;18h20;20;Cruzeiro;2 x 1;Vitória;2.0;1.0;1;Mineirão;Belo Horizonte
+2008;20/08/2008;19h30;21;Vitória;0 x 0;Sport;0.0;0.0;2;Barradão;Salvador
+2008;20/08/2008;19h30;21;Coritiba;3 x 0;Figueirense;3.0;0.0;1;Couto Pereira;Curitiba
+2008;20/08/2008;20h30;21;Botafogo;1 x 0;Cruzeiro;1.0;0.0;1;Engenhão;Rio de Janeiro
+2008;20/08/2008;20h30;21;São Paulo;3 x 1;Atlético-PR;3.0;1.0;1;Morumbi;São Paulo
+2008;21/08/2008;20h30;21;Portuguesa;0 x 1;Vasco;0.0;1.0;3;Canindé;São Paulo
+2008;21/08/2008;20h30;21;Flamengo;2 x 1;Grêmio;2.0;1.0;1;Maracanã;Rio de Janeiro
+2008;21/08/2008;20h30;21;Atlético-MG;1 x 1;Goiás;1.0;1.0;2;Mineirão;Belo Horizonte
+2008;20/08/2008;22h00;21;Internacional;4 x 1;Palmeiras;4.0;1.0;1;Beira-Rio;Porto Alegre
+2008;20/08/2008;22h00;21;Náutico;1 x 3;Fluminense;1.0;3.0;3;Aflitos;Recife
+2008;20/08/2008;22h00;21;Ipatinga-MG;1 x 1;Santos;1.0;1.0;2;Ipatingão;Ipatinga
+2008;24/08/2008;16h00;22;Internacional;1 x 1;Flamengo;1.0;1.0;2;Beira-Rio;Porto Alegre
+2008;24/08/2008;16h00;22;Santos;2 x 0;Cruzeiro;2.0;0.0;1;Vila Belmiro;Santos
+2008;24/08/2008;16h00;22;Coritiba;2 x 2;São Paulo;2.0;2.0;2;Couto Pereira;Curitiba
+2008;24/08/2008;16h00;22;Ipatinga-MG;1 x 0;Goiás;1.0;0.0;1;Ipatingão;Ipatinga
+2008;24/08/2008;16h00;22;Palmeiras;4 x 2;Portuguesa;4.0;2.0;1;Pacaembu;São Paulo
+2008;24/08/2008;18h10;22;Náutico;1 x 1;Grêmio;1.0;1.0;2;Aflitos;Recife
+2008;24/08/2008;18h10;22;Vasco;1 x 1;Botafogo;1.0;1.0;2;São Januário;Rio de Janeiro
+2008;24/08/2008;18h10;22;Atlético-MG;4 x 0;Atlético-PR;4.0;0.0;1;Mineirão;Belo Horizonte
+2008;23/08/2008;18h20;22;Fluminense;1 x 1;Sport;1.0;1.0;2;Maracanã;Rio de Janeiro
+2008;23/08/2008;18h20;22;Figueirense;1 x 2;Vitória;1.0;2.0;3;Orlando Scarpelli;Florianópolis
+2008;31/08/2008;16h00;23;Grêmio;2 x 1;Vasco;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2008;31/08/2008;16h00;23;Atlético-PR;1 x 2;Palmeiras;1.0;2.0;3;Arena da Baixada;Curitiba
+2008;31/08/2008;16h00;23;Sport;1 x 0;Internacional;1.0;0.0;1;Ilha do Retiro;Recife
+2008;31/08/2008;16h00;23;São Paulo;0 x 0;Santos;0.0;0.0;2;Morumbi;São Paulo
+2008;31/08/2008;18h10;23;Portuguesa;1 x 1;Atlético-MG;1.0;1.0;2;Canindé;São Paulo
+2008;31/08/2008;18h10;23;Flamengo;2 x 2;Fluminense;2.0;2.0;2;Maracanã;Rio de Janeiro
+2008;31/08/2008;18h10;23;Cruzeiro;1 x 1;Coritiba;1.0;1.0;2;Mineirão;Belo Horizonte
+2008;30/08/2008;18h20;23;Botafogo;1 x 1;Náutico;1.0;1.0;2;Engenhão;Rio de Janeiro
+2008;30/08/2008;18h20;23;Vitória;0 x 0;Ipatinga-MG;0.0;0.0;2;Barradão;Salvador
+2008;30/08/2008;18h20;23;Goiás;2 x 0;Figueirense;2.0;0.0;1;Serra Dourada;Goiânia
+2008;06/09/2008;18h20;24;Fluminense;0 x 0;Grêmio;0.0;0.0;2;Maracanã;Rio de Janeiro
+2008;06/09/2008;18h20;24;Internacional;1 x 0;Portuguesa;1.0;0.0;1;Beira-Rio;Porto Alegre
+2008;06/09/2008;18h20;24;Coritiba;0 x 1;Botafogo;0.0;1.0;3;Couto Pereira;Curitiba
+2008;06/09/2008;18h20;24;Náutico;2 x 0;Ipatinga-MG;2.0;0.0;1;Aflitos;Recife
+2008;03/09/2008;19h30;24;Goiás;4 x 0;Atlético-PR;4.0;0.0;1;Serra Dourada;Goiânia
+2008;04/09/2008;20h30;24;Vasco;1 x 3;Cruzeiro;1.0;3.0;3;São Januário;Rio de Janeiro
+2008;04/09/2008;20h30;24;Palmeiras;0 x 3;Sport;0.0;3.0;3;Parque Antarctica;São Paulo
+2008;03/09/2008;22h00;24;Santos;2 x 0;Vitória;2.0;0.0;1;Vila Belmiro;Santos
+2008;03/09/2008;22h00;24;Figueirense;2 x 3;Flamengo;2.0;3.0;3;Orlando Scarpelli;Florianópolis
+2008;03/09/2008;22h00;24;Atlético-MG;1 x 1;São Paulo;1.0;1.0;2;Mineirão;Belo Horizonte
+2008;14/09/2008;16h00;25;Sport;5 x 0;Figueirense;5.0;0.0;1;Ilha do Retiro;Recife
+2008;14/09/2008;16h00;25;Vasco;1 x 3;Náutico;1.0;3.0;3;São Januário;Rio de Janeiro
+2008;14/09/2008;16h00;25;Cruzeiro;0 x 1;Palmeiras;0.0;1.0;3;Mineirão;Belo Horizonte
+2008;14/09/2008;16h00;25;São Paulo;2 x 0;Flamengo;2.0;0.0;1;Morumbi;São Paulo
+2008;14/09/2008;18h10;25;Botafogo;1 x 2;Internacional;1.0;2.0;3;Engenhão;Rio de Janeiro
+2008;14/09/2008;18h10;25;Vitória;1 x 0;Coritiba;1.0;0.0;1;Barradão;Salvador
+2008;14/09/2008;18h10;25;Santos;2 x 1;Fluminense;2.0;1.0;1;Vila Belmiro;Santos
+2008;13/09/2008;18h20;25;Grêmio;1 x 2;Goiás;1.0;2.0;3;Olímpico Monumental;Porto Alegre
+2008;13/09/2008;18h20;25;Atlético-PR;2 x 0;Portuguesa;2.0;0.0;1;Arena da Baixada;Curitiba
+2008;13/09/2008;18h20;25;Ipatinga-MG;3 x 2;Atlético-MG;3.0;2.0;1;Ipatingão;Ipatinga
+2008;21/09/2008;16h00;26;Portuguesa;3 x 1;Botafogo;3.0;1.0;1;Canindé;São Paulo
+2008;21/09/2008;16h00;26;Atlético-PR;0 x 0;Grêmio;0.0;0.0;2;Arena da Baixada;Curitiba
+2008;21/09/2008;16h00;26;Sport;0 x 0;São Paulo;0.0;0.0;2;Ilha do Retiro;Recife
+2008;21/09/2008;16h00;26;Figueirense;3 x 4;Cruzeiro;3.0;4.0;3;Orlando Scarpelli;Florianópolis
+2008;21/09/2008;18h10;26;Internacional;1 x 0;Vitória;1.0;0.0;1;Beira-Rio;Porto Alegre
+2008;21/09/2008;18h10;26;Flamengo;1 x 0;Ipatinga-MG;1.0;0.0;1;Maracanã;Rio de Janeiro
+2008;21/09/2008;18h10;26;Palmeiras;2 x 0;Vasco;2.0;0.0;1;Parque Antarctica;São Paulo
+2008;20/09/2008;18h20;26;Fluminense;2 x 3;Coritiba;2.0;3.0;3;Maracanã;Rio de Janeiro
+2008;20/09/2008;18h20;26;Goiás;4 x 1;Santos;4.0;1.0;1;Serra Dourada;Goiânia
+2008;20/09/2008;18h20;26;Atlético-MG;2 x 1;Náutico;2.0;1.0;1;Mineirão;Belo Horizonte
+2008;28/09/2008;16h00;27;Coritiba;1 x 1;Atlético-PR;1.0;1.0;2;Couto Pereira;Curitiba
+2008;28/09/2008;16h00;27;Náutico;0 x 0;Palmeiras;0.0;0.0;2;Aflitos;Recife
+2008;28/09/2008;16h00;27;Ipatinga-MG;3 x 1;Vasco;3.0;1.0;1;Ipatingão;Ipatinga
+2008;28/09/2008;16h00;27;São Paulo;2 x 0;Cruzeiro;2.0;0.0;1;Morumbi;São Paulo
+2008;28/09/2008;18h10;27;Botafogo;1 x 1;Fluminense;1.0;1.0;2;Engenhão;Rio de Janeiro
+2008;28/09/2008;18h10;27;Internacional;4 x 1;Grêmio;4.0;1.0;1;Beira-Rio;Porto Alegre
+2008;28/09/2008;18h10;27;Santos;1 x 1;Portuguesa;1.0;1.0;2;Vila Belmiro;Santos
+2008;27/09/2008;18h20;27;Goiás;3 x 0;Vitória;3.0;0.0;1;Serra Dourada;Goiânia
+2008;27/09/2008;18h20;27;Flamengo;2 x 1;Sport;2.0;1.0;1;Maracanã;Rio de Janeiro
+2008;27/09/2008;18h20;27;Atlético-MG;0 x 0;Figueirense;0.0;0.0;2;Mineirão;Belo Horizonte
+2008;04/10/2008;16h00;28;Grêmio;2 x 1;Botafogo;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2008;04/10/2008;16h00;28;Ipatinga-MG;1 x 3;São Paulo;1.0;3.0;3;Ipatingão;Ipatinga
+2008;04/10/2008;16h00;28;Palmeiras;3 x 1;Atlético-MG;3.0;1.0;1;Parque Antarctica;São Paulo
+2008;04/10/2008;18h20;28;Santos;4 x 0;Atlético-PR;4.0;0.0;1;Vila Belmiro;Santos
+2008;04/10/2008;18h20;28;Coritiba;4 x 2;Internacional;4.0;2.0;1;Couto Pereira;Curitiba
+2008;04/10/2008;18h20;28;Náutico;0 x 2;Flamengo;0.0;2.0;3;Aflitos;Recife
+2008;04/10/2008;18h20;28;Vasco;2 x 4;Figueirense;2.0;4.0;3;São Januário;Rio de Janeiro
+2008;01/10/2008;20h30;28;Fluminense;1 x 1;Goiás;1.0;1.0;2;Maracanã;Rio de Janeiro
+2008;02/10/2008;20h30;28;Vitória;3 x 1;Portuguesa;3.0;1.0;1;Barradão;Salvador
+2008;02/10/2008;20h30;28;Cruzeiro;1 x 0;Sport;1.0;0.0;1;Mineirão;Belo Horizonte
+2008;11/10/2008;18h20;29;Goiás;1 x 1;Internacional;1.0;1.0;2;Serra Dourada;Goiânia
+2008;11/10/2008;18h20;29;Portuguesa;0 x 0;Coritiba;0.0;0.0;2;Canindé;São Paulo
+2008;11/10/2008;18h20;29;Atlético-PR;1 x 3;Fluminense;1.0;3.0;3;Arena da Baixada;Curitiba
+2008;11/10/2008;18h20;29;Flamengo;0 x 3;Atlético-MG;0.0;3.0;3;Maracanã;Rio de Janeiro
+2008;09/10/2008;20h30;29;Botafogo;3 x 1;Vitória;3.0;1.0;1;Engenhão;Rio de Janeiro
+2008;09/10/2008;20h30;29;Cruzeiro;1 x 0;Ipatinga-MG;1.0;0.0;1;Mineirão;Belo Horizonte
+2008;09/10/2008;20h30;29;São Paulo;1 x 0;Náutico;1.0;0.0;1;Morumbi;São Paulo
+2008;08/10/2008;22h00;29;Grêmio;2 x 0;Santos;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2008;08/10/2008;22h00;29;Sport;2 x 2;Vasco;2.0;2.0;2;Ilha do Retiro;Recife
+2008;08/10/2008;22h00;29;Figueirense;0 x 0;Palmeiras;0.0;0.0;2;Orlando Scarpelli;Florianópolis
+2008;19/10/2008;16h00;30;Vitória;2 x 2;Fluminense;2.0;2.0;2;Barradão;Salvador
+2008;19/10/2008;16h00;30;Coritiba;1 x 1;Goiás;1.0;1.0;2;Couto Pereira;Curitiba
+2008;19/10/2008;16h00;30;Atlético-MG;0 x 2;Cruzeiro;0.0;2.0;3;Mineirão;Belo Horizonte
+2008;19/10/2008;16h00;30;Palmeiras;2 x 2;São Paulo;2.0;2.0;2;Parque Antarctica;São Paulo
+2008;19/10/2008;18h10;30;Portuguesa;2 x 0;Grêmio;2.0;0.0;1;Canindé;São Paulo
+2008;19/10/2008;18h10;30;Sport;2 x 2;Náutico;2.0;2.0;2;Ilha do Retiro;Recife
+2008;19/10/2008;18h10;30;Vasco;0 x 1;Flamengo;0.0;1.0;3;Maracanã;Rio de Janeiro
+2008;18/10/2008;18h20;30;Botafogo;0 x 1;Santos;0.0;1.0;3;Engenhão;Rio de Janeiro
+2008;18/10/2008;18h20;30;Internacional;2 x 1;Atlético-PR;2.0;1.0;1;Beira-Rio;Porto Alegre
+2008;18/10/2008;18h20;30;Figueirense;1 x 1;Ipatinga-MG;1.0;1.0;2;Orlando Scarpelli;Florianópolis
+2008;25/10/2008;16h00;31;Fluminense;3 x 0;Palmeiras;3.0;0.0;1;Maracanã;Rio de Janeiro
+2008;25/10/2008;16h00;31;Ipatinga-MG;0 x 3;Botafogo;0.0;3.0;3;Ipatingão;Ipatinga
+2008;25/10/2008;18h20;31;Santos;3 x 0;Figueirense;3.0;0.0;1;Vila Belmiro;Santos
+2008;25/10/2008;18h20;31;Atlético-PR;1 x 0;Cruzeiro;1.0;0.0;1;Arena da Baixada;Curitiba
+2008;25/10/2008;18h20;31;Náutico;1 x 1;Portuguesa;1.0;1.0;2;Aflitos;Recife
+2008;25/10/2008;18h20;31;Atlético-MG;2 x 2;Internacional;2.0;2.0;2;Mineirão;Belo Horizonte
+2008;23/10/2008;20h30;31;Grêmio;1 x 0;Sport;1.0;0.0;1;Olímpico Monumental;Porto Alegre
+2008;23/10/2008;20h30;31;Flamengo;5 x 0;Coritiba;5.0;0.0;1;Maracanã;Rio de Janeiro
+2008;23/10/2008;20h30;31;São Paulo;2 x 1;Vitória;2.0;1.0;1;Morumbi;São Paulo
+2008;22/10/2008;22h00;31;Goiás;2 x 4;Vasco;2.0;4.0;3;Serra Dourada;Goiânia
+2008;29/10/2008;19h30;32;Portuguesa;2 x 0;Ipatinga-MG;2.0;0.0;1;Canindé;São Paulo
+2008;29/10/2008;19h30;32;Coritiba;2 x 1;Atlético-MG;2.0;1.0;1;Couto Pereira;Curitiba
+2008;05/11/2008;20h00;32;Figueirense;0 x 1;Fluminense;0.0;1.0;3;Orlando Scarpelli;Florianópolis
+2008;29/10/2008;20h30;32;Internacional;1 x 1;Náutico;1.0;1.0;2;Beira-Rio;Porto Alegre
+2008;29/10/2008;20h30;32;Palmeiras;1 x 0;Goiás;1.0;0.0;1;Parque Antarctica;São Paulo
+2008;30/10/2008;20h30;32;Sport;1 x 1;Santos;1.0;1.0;2;Ilha do Retiro;Recife
+2008;30/10/2008;20h30;32;Vasco;2 x 2;Atlético-PR;2.0;2.0;2;São Januário;Rio de Janeiro
+2008;29/10/2008;21h50;32;Botafogo;1 x 2;São Paulo;1.0;2.0;3;Engenhão;Rio de Janeiro
+2008;29/10/2008;21h50;32;Vitória;0 x 0;Flamengo;0.0;0.0;2;Barradão;Salvador
+2008;29/10/2008;21h50;32;Cruzeiro;3 x 0;Grêmio;3.0;0.0;1;Mineirão;Belo Horizonte
+2008;02/11/2008;17h00;33;Goiás;3 x 0;Cruzeiro;3.0;0.0;1;Serra Dourada;Goiânia
+2008;02/11/2008;17h00;33;Santos;1 x 2;Palmeiras;1.0;2.0;3;Vila Belmiro;Santos
+2008;02/11/2008;17h00;33;Atlético-PR;1 x 0;Sport;1.0;0.0;1;Arena da Baixada;Curitiba
+2008;02/11/2008;17h00;33;Atlético-MG;2 x 1;Botafogo;2.0;1.0;1;Mineirão;Belo Horizonte
+2008;01/11/2008;18h30;33;Náutico;1 x 0;Vitória;1.0;0.0;1;Aflitos;Recife
+2008;01/11/2008;18h30;33;Flamengo;2 x 2;Portuguesa;2.0;2.0;2;Maracanã;Rio de Janeiro
+2008;01/11/2008;18h30;33;Ipatinga-MG;2 x 0;Coritiba;2.0;0.0;1;Ipatingão;Ipatinga
+2008;02/11/2008;19h10;33;Fluminense;0 x 1;Vasco;0.0;1.0;3;Maracanã;Rio de Janeiro
+2008;02/11/2008;19h10;33;Grêmio;1 x 1;Figueirense;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2008;02/11/2008;19h10;33;São Paulo;3 x 0;Internacional;3.0;0.0;1;Morumbi;São Paulo
+2008;09/11/2008;17h00;34;Coritiba;0 x 0;Náutico;0.0;0.0;2;Couto Pereira;Curitiba
+2008;09/11/2008;17h00;34;Sport;2 x 1;Goiás;2.0;1.0;1;Ilha do Retiro;Recife
+2008;09/11/2008;17h00;34;Cruzeiro;1 x 0;Fluminense;1.0;0.0;1;Mineirão;Belo Horizonte
+2008;09/11/2008;17h00;34;Palmeiras;0 x 1;Grêmio;0.0;1.0;3;Parque Antarctica;São Paulo
+2008;08/11/2008;18h30;34;Portuguesa;2 x 3;São Paulo;2.0;3.0;3;Canindé;São Paulo
+2008;08/11/2008;18h30;34;Vasco;1 x 0;Santos;1.0;0.0;1;São Januário;Rio de Janeiro
+2008;08/11/2008;18h30;34;Figueirense;0 x 2;Atlético-PR;0.0;2.0;3;Orlando Scarpelli;Florianópol
+2008;09/11/2008;19h10;34;Botafogo;0 x 1;Flamengo;0.0;1.0;3;Maracanã;Rio de Janeiro
+2008;09/11/2008;19h10;34;Internacional;4 x 0;Ipatinga-MG;4.0;0.0;1;Beira-Rio;Porto Alegre
+2008;09/11/2008;19h10;34;Vitória;0 x 1;Atlético-MG;0.0;1.0;3;Barradão;Salvador
+2008;16/11/2008;17h00;35;Goiás;3 x 1;Botafogo;3.0;1.0;1;Juscelino Kubitschek;Itumbiara
+2008;16/11/2008;17h00;35;Flamengo;5 x 2;Palmeiras;5.0;2.0;1;Maracanã;Rio de Janeiro
+2008;16/11/2008;17h00;35;São Paulo;3 x 1;Figueirense;3.0;1.0;1;Morumbi;São Paulo
+2008;15/11/2008;18h30;35;Fluminense;3 x 1;Portuguesa;3.0;1.0;1;Maracanã;Rio de Janeiro
+2008;15/11/2008;18h30;35;Náutico;5 x 2;Cruzeiro;5.0;2.0;1;Aflitos;Recife
+2008;15/11/2008;18h30;35;Ipatinga-MG;3 x 0;Sport;3.0;0.0;1;Ipatingão;Ipatinga
+2008;16/11/2008;19h10;35;Grêmio;2 x 1;Coritiba;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2008;16/11/2008;19h10;35;Santos;1 x 0;Internacional;1.0;0.0;1;Vila Belmiro;Santos
+2008;16/11/2008;19h10;35;Atlético-PR;2 x 1;Vitória;2.0;1.0;1;Arena da Baixada;Curitiba
+2008;12/11/2008;22h00;35;Atlético-MG;4 x 1;Vasco;4.0;1.0;1;Mineirão;Belo Horizonte
+2008;23/11/2008;17h00;36;Vitória;4 x 2;Grêmio;4.0;2.0;1;Barradão;Salvador
+2008;23/11/2008;17h00;36;Vasco;1 x 2;São Paulo;1.0;2.0;3;São Januário;Rio de Janeiro
+2008;23/11/2008;17h00;36;Cruzeiro;3 x 2;Flamengo;3.0;2.0;1;Mineirão;Belo Horizonte
+2008;22/11/2008;18h30;36;Botafogo;2 x 2;Atlético-PR;2.0;2.0;2;Engenhão;Rio de Janeiro
+2008;22/11/2008;18h30;36;Portuguesa;0 x 0;Goiás;0.0;0.0;2;Canindé;São Paulo
+2008;22/11/2008;18h30;36;Coritiba;5 x 1;Santos;5.0;1.0;1;Couto Pereira;Curitiba
+2008;23/11/2008;19h10;36;Internacional;0 x 2;Fluminense;0.0;2.0;3;Beira-Rio;Porto Alegre
+2008;23/11/2008;19h10;36;Sport;3 x 0;Atlético-MG;3.0;0.0;1;Ilha do Retiro;Recife
+2008;23/11/2008;19h10;36;Palmeiras;2 x 0;Ipatinga-MG;2.0;0.0;1;Parque Antarctica;São Paulo
+2008;20/11/2008;20h30;36;Figueirense;4 x 3;Náutico;4.0;3.0;1;Orlando Scarpelli;Florianópolis
+2008;30/11/2008;17h00;37;Botafogo;1 x 3;Figueirense;1.0;3.0;3;Engenhão;Rio de Janeiro
+2008;30/11/2008;17h00;37;Internacional;1 x 0;Cruzeiro;1.0;0.0;1;Beira-Rio;Porto Alegre
+2008;30/11/2008;17h00;37;Vitória;0 x 0;Palmeiras;0.0;0.0;2;Barradão;Salvador
+2008;30/11/2008;17h00;37;Portuguesa;2 x 2;Sport;2.0;2.0;2;Canindé;São Paulo
+2008;30/11/2008;17h00;37;Coritiba;0 x 2;Vasco;0.0;2.0;3;Couto Pereira;Curitiba
+2008;30/11/2008;17h00;37;Náutico;2 x 1;Atlético-PR;2.0;1.0;1;Aflitos;Recife
+2008;30/11/2008;17h00;37;Flamengo;3 x 3;Goiás;3.0;3.0;2;Maracanã;Rio de Janeiro
+2008;30/11/2008;17h00;37;Ipatinga-MG;1 x 4;Grêmio;1.0;4.0;3;Ipatingão;Ipatinga
+2008;30/11/2008;17h00;37;Atlético-MG;0 x 0;Santos;0.0;0.0;2;Mineirão;Belo Horizonte
+2008;30/11/2008;17h00;37;São Paulo;1 x 1;Fluminense;1.0;1.0;2;Morumbi;São Paulo
+2008;07/12/2008;17h00;38;Fluminense;1 x 1;Ipatinga-MG;1.0;1.0;2;Maracanã;Rio de Janeiro
+2008;07/12/2008;17h00;38;Grêmio;2 x 0;Atlético-MG;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2008;07/12/2008;17h00;38;Goiás;0 x 1;São Paulo;0.0;1.0;3;Bezerrão;Gama
+2008;07/12/2008;17h00;38;Santos;0 x 0;Náutico;0.0;0.0;2;Vila Belmiro;Santos
+2008;07/12/2008;17h00;38;Atlético-PR;5 x 3;Flamengo;5.0;3.0;1;Arena da Baixada;Curitiba
+2008;07/12/2008;17h00;38;Sport;4 x 3;Coritiba;4.0;3.0;1;Ilha do Retiro;Recife
+2008;07/12/2008;17h00;38;Vasco;0 x 2;Vitória;0.0;2.0;3;São Januário;Rio de Janeiro
+2008;07/12/2008;17h00;38;Figueirense;3 x 1;Internacional;3.0;1.0;1;Orlando Scarpelli;Florianópolis
+2008;07/12/2008;17h00;38;Cruzeiro;4 x 1;Portuguesa;4.0;1.0;1;Mineirão;Belo Horizonte
+2008;07/12/2008;17h00;38;Palmeiras;0 x 1;Botafogo;0.0;1.0;3;Parque Antarctica;São Paulo

@@ -1,0 +1,5 @@
+
+#gitignore
+
+src/python/.ipynb_checkpoints/*
+.git

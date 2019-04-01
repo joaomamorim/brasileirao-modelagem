@@ -1,0 +1,381 @@
+ano;date;hour;round;home_team;score;away_team;placar_casa;placar_visitante;resultado;arena;state
+2011;22/05/2011;16h00;1;Palmeiras;1 x 0;Botafogo;1.0;0.0;1;Teixeirão;São José do Rio Preto
+2011;22/05/2011;16h00;1;Grêmio;1 x 2;Corinthians;1.0;2.0;3;Olímpico Monumental;Porto Alegre
+2011;22/05/2011;16h00;1;Coritiba;0 x 1;Atlético-GO;0.0;1.0;3;Couto Pereira;Curitiba
+2011;22/05/2011;16h00;1;Figueirense;1 x 0;Cruzeiro;1.0;0.0;1;Orlando Scarpelli;Florianópolis
+2011;21/05/2011;18h30;1;Atlético-MG;3 x 0;Atlético-PR;3.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2011;21/05/2011;18h30;1;Ceará;1 x 3;Vasco;1.0;3.0;3;Presidente Vargas;Fortaleza
+2011;21/05/2011;18h30;1;Flamengo;4 x 0;Avaí;4.0;0.0;1;Cláudio Moacir Azevedo;Macaé
+2011;22/05/2011;18h30;1;Fluminense;0 x 2;São Paulo;0.0;2.0;3;São Januário;Rio de Janeiro
+2011;22/05/2011;18h30;1;América-MG;2 x 1;Bahia;2.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;21/05/2011;21h00;1;Santos;1 x 1;Internacional;1.0;1.0;2;Vila Belmiro;Santos
+2011;29/05/2011;16h00;2;Corinthians;2 x 1;Coritiba;2.0;1.0;1;Arena da Fonte;Araraquara
+2011;29/05/2011;16h00;2;Bahia;3 x 3;Flamengo;3.0;3.0;2;Pituaçu;Salvador
+2011;29/05/2011;16h00;2;Atlético-PR;0 x 1;Grêmio;0.0;1.0;3;Arena da Baixada;Curitiba
+2011;29/05/2011;16h00;2;Cruzeiro;1 x 1;Palmeiras;1.0;1.0;2;Arena do Jacaré;Sete Lagoas
+2011;28/05/2011;18h30;2;Internacional;0 x 1;Ceará;0.0;1.0;3;Beira-Rio;Porto Alegre
+2011;28/05/2011;18h30;2;Botafogo;1 x 0;Santos;1.0;0.0;1;Engenhão;Rio De Janeiro
+2011;28/05/2011;18h30;2;Avaí;1 x 3;Atlético-MG;1.0;3.0;3;Ressacada;Florianópolis
+2011;29/05/2011;18h30;2;Vasco;3 x 0;América-MG;3.0;0.0;1;São Januário;Rio De Janeiro
+2011;29/05/2011;18h30;2;Atlético-GO;0 x 1;Fluminense;0.0;1.0;3;Serra Dourada;Goiânia
+2011;28/05/2011;21h00;2;São Paulo;1 x 0;Figueirense;1.0;0.0;1;Morumbi;São Paulo
+2011;05/06/2011;16h00;3;Flamengo;1 x 1;Corinthians;1.0;1.0;2;Engenhão;Rio De Janeiro
+2011;05/06/2011;16h00;3;Grêmio;2 x 0;Bahia;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2011;05/06/2011;16h00;3;Coritiba;5 x 1;Vasco;5.0;1.0;1;Couto Pereira;Curitiba
+2011;04/06/2011;18h30;3;Ceará;2 x 2;Botafogo;2.0;2.0;2;Presidente Vargas;Fortaleza
+2011;04/06/2011;18h30;3;Fluminense;2 x 1;Cruzeiro;2.0;1.0;1;Engenhão;Rio De Janeiro
+2011;04/06/2011;18h30;3;Palmeiras;1 x 0;Atlético-PR;1.0;0.0;1;Canindé;São Paulo
+2011;05/06/2011;18h30;3;América-MG;2 x 4;Internacional;2.0;4.0;3;Morenão;Campo Grande
+2011;05/06/2011;18h30;3;Santos;3 x 1;Avaí;3.0;1.0;1;Vila Belmiro;Santos
+2011;04/06/2011;21h00;3;Figueirense;2 x 0;Atlético-GO;2.0;0.0;1;Orlando Scarpelli;Florianópolis
+2011;08/06/2011;21h50;3;Atlético-MG;0 x 1;São Paulo;0.0;1.0;3;Arena do Jacaré;Sete Lagoas
+2011;12/06/2011;16h00;4;Bahia;1 x 1;Atlético-MG;1.0;1.0;2;Pituaçu;Salvador
+2011;12/06/2011;16h00;4;Atlético-GO;4 x 1;Ceará;4.0;1.0;1;Serra Dourada;Goiânia
+2011;12/06/2011;16h00;4;Internacional;2 x 2;Palmeiras;2.0;2.0;2;Beira-Rio;Porto Alegre
+2011;12/06/2011;16h00;4;Corinthians;2 x 0;Fluminense;2.0;0.0;1;Pacaembu;São Paulo
+2011;11/06/2011;18h30;4;Cruzeiro;1 x 1;Santos;1.0;1.0;2;Arena do Jacaré;Sete Lagoas
+2011;11/06/2011;18h30;4;Avaí;2 x 2;América-MG;2.0;2.0;2;Ressacada;Florianópolis
+2011;11/06/2011;18h30;4;São Paulo;3 x 1;Grêmio;3.0;1.0;1;Morumbi;São Paulo
+2011;12/06/2011;18h30;4;Atlético-PR;1 x 1;Flamengo;1.0;1.0;2;Arena da Baixada;Curitiba
+2011;12/06/2011;18h30;4;Botafogo;3 x 1;Coritiba;3.0;1.0;1;Engenhão;Rio De Janeiro
+2011;11/06/2011;21h00;4;Vasco;1 x 1;Figueirense;1.0;1.0;2;São Januário;Rio De Janeiro
+2011;19/06/2011;16h00;5;Palmeiras;5 x 0;Avaí;5.0;0.0;1;Canindé;São Paulo
+2011;19/06/2011;16h00;5;Grêmio;1 x 1;Vasco;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2011;19/06/2011;16h00;5;Figueirense;2 x 0;Atlético-PR;2.0;0.0;1;Orlando Scarpelli;Florianópolis
+2011;19/06/2011;16h00;5;Flamengo;0 x 0;Botafogo;0.0;0.0;2;Engenhão;Rio De Janeiro
+2011;19/06/2011;16h00;5;Ceará;0 x 2;São Paulo;0.0;2.0;3;Presidente Vargas;Fortaleza
+2011;19/06/2011;18h30;5;Atlético-MG;2 x 2;Atlético-GO;2.0;2.0;2;Arena do Jacaré;Sete Lagoas
+2011;19/06/2011;18h30;5;Coritiba;1 x 1;Internacional;1.0;1.0;2;Couto Pereira;Curitiba
+2011;18/06/2011;21h00;5;Fluminense;0 x 1;Bahia;0.0;1.0;3;Engenhão;Rio De Janeiro
+2011;18/06/2011;21h00;5;América-MG;1 x 1;Cruzeiro;1.0;1.0;2;Arena do Jacaré;Sete Lagoas
+2011;10/08/2011;21h50;5;Santos;0 x 0;Corinthians;0.0;0.0;2;Vila Belmiro;Santos
+2011;26/06/2011;16h00;6;Corinthians;5 x 0;São Paulo;5.0;0.0;1;Pacaembu;São Paulo
+2011;26/06/2011;16h00;6;Botafogo;2 x 1;Grêmio;2.0;1.0;1;Engenhão;Rio De Janeiro
+2011;26/06/2011;16h00;6;Ceará;2 x 0;Palmeiras;2.0;0.0;1;Presidente Vargas;Fortaleza
+2011;26/06/2011;16h00;6;Avaí;0 x 1;Fluminense;0.0;1.0;3;Ressacada;Florianópolis
+2011;25/06/2011;18h30;6;Flamengo;4 x 1;Atlético-MG;4.0;1.0;1;Engenhão;Rio De Janeiro
+2011;25/06/2011;18h30;6;Atlético-PR;0 x 2;Bahia;0.0;2.0;3;Arena da Baixada;Curitiba
+2011;26/06/2011;18h30;6;Atlético-GO;0 x 1;Vasco;0.0;1.0;3;Serra Dourada;Goiânia
+2011;26/06/2011;18h30;6;Internacional;4 x 1;Figueirense;4.0;1.0;1;Beira-Rio;Porto Alegre
+2011;02/07/2011;18h30;6;Santos;1 x 0;América-MG;1.0;0.0;1;Pacaembu;São Paulo
+2011;25/06/2011;21h00;6;Cruzeiro;2 x 1;Coritiba;2.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;29/06/2011;19h30;7;Vasco;0 x 3;Cruzeiro;0.0;3.0;3;São Januário;Rio De Janeiro
+2011;29/06/2011;19h30;7;Grêmio;2 x 2;Avaí;2.0;2.0;2;Olímpico Monumental;Porto Alegre
+2011;29/06/2011;19h30;7;América-MG;2 x 3;Flamengo;2.0;3.0;3;Arena do Jacaré;Sete Lagoas
+2011;30/06/2011;19h30;7;Palmeiras;2 x 0;Atlético-GO;2.0;0.0;1;Canindé;São Paulo
+2011;30/06/2011;19h30;7;Coritiba;3 x 1;Ceará;3.0;1.0;1;Couto Pereira;Curitiba
+2011;30/06/2011;21h00;7;Fluminense;3 x 1;Atlético-PR;3.0;1.0;1;Engenhão;Rio De Janeiro
+2011;30/06/2011;21h00;7;Atlético-MG;0 x 4;Internacional;0.0;4.0;3;Arena do Jacaré;Sete Lagoas
+2011;29/06/2011;21h50;7;Figueirense;2 x 1;Santos;2.0;1.0;1;Orlando Scarpelli;Florianópolis
+2011;29/06/2011;21h50;7;Bahia;0 x 1;Corinthians;0.0;1.0;3;Pituaçu;Salvador
+2011;29/06/2011;21h50;7;São Paulo;0 x 2;Botafogo;0.0;2.0;3;Morumbi;São Paulo
+2011;06/07/2011;19h30;8;Internacional;1 x 0;Atlético-PR;1.0;0.0;1;Beira-Rio;Porto Alegre
+2011;06/07/2011;19h30;8;Cruzeiro;2 x 0;Grêmio;2.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2011;06/07/2011;19h30;8;Avaí;2 x 2;Bahia;2.0;2.0;2;Ressacada;Florianópolis
+2011;07/07/2011;19h30;8;Botafogo;1 x 1;Atlético-GO;1.0;1.0;2;Engenhão;Rio De Janeiro
+2011;07/07/2011;19h30;8;Coritiba;3 x 0;Figueirense;3.0;0.0;1;Couto Pereira;Curitiba
+2011;24/08/2011;20h30;8;Santos;2 x 1;Fluminense;2.0;1.0;1;Vila Belmiro;Santos
+2011;07/07/2011;21h00;8;América-MG;1 x 1;Palmeiras;1.0;1.0;2;Arena do Jacaré;Sete Lagoas
+2011;06/07/2011;21h50;8;Corinthians;2 x 1;Vasco;2.0;1.0;1;Pacaembu;São Paulo
+2011;06/07/2011;21h50;8;Flamengo;1 x 0;São Paulo;1.0;0.0;1;Engenhão;Rio De Janeiro
+2011;06/07/2011;21h50;8;Ceará;3 x 0;Atlético-MG;3.0;0.0;1;Presidente Vargas;Fortaleza
+2011;10/07/2011;16h00;9;Grêmio;2 x 0;Coritiba;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2011;10/07/2011;16h00;9;Atlético-GO;0 x 1;Corinthians;0.0;1.0;3;Serra Dourada;Goiânia
+2011;10/07/2011;16h00;9;Bahia;1 x 1;Botafogo;1.0;1.0;2;Pituaçu;Salvador
+2011;10/07/2011;16h00;9;Fluminense;0 x 1;Flamengo;0.0;1.0;3;Engenhão;Rio De Janeiro
+2011;09/07/2011;18h30;9;Vasco;2 x 0;Internacional;2.0;0.0;1;São Januário;Rio De Janeiro
+2011;09/07/2011;18h30;9;São Paulo;2 x 1;Cruzeiro;2.0;1.0;1;Morumbi;São Paulo
+2011;10/07/2011;18h30;9;Figueirense;1 x 1;Ceará;1.0;1.0;2;Orlando Scarpelli;Florianópolis
+2011;10/07/2011;18h30;9;Palmeiras;3 x 0;Santos;3.0;0.0;1;Pacaembu;São Paulo
+2011;10/07/2011;18h30;9;Atlético-MG;2 x 0;América-MG;2.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2011;09/07/2011;21h00;9;Atlético-PR;0 x 0;Avaí;0.0;0.0;2;Arena da Baixada;Curitiba
+2011;16/07/2011;18h30;10;Vasco;2 x 1;Atlético-PR;2.0;1.0;1;São Januário;Rio de Janeiro
+2011;16/07/2011;18h30;10;Coritiba;3 x 1;Fluminense;3.0;1.0;1;Couto Pereira;Curitiba
+2011;16/07/2011;18h30;10;Atlético-GO;0 x 1;Avaí;0.0;1.0;3;Serra Dourada;Goiânia
+2011;17/07/2011;18h30;10;Ceará;4 x 0;América-MG;4.0;0.0;1;Presidente Vargas;Fortaleza
+2011;17/07/2011;18h30;10;Cruzeiro;2 x 1;Bahia;2.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;17/07/2011;18h30;10;Internacional;0 x 3;São Paulo;0.0;3.0;3;Beira-Rio;Porto Alegre
+2011;16/07/2011;21h00;10;Santos;2 x 1;Atlético-MG;2.0;1.0;1;Vila Belmiro;Santos
+2011;20/07/2011;21h50;10;Palmeiras;0 x 0;Flamengo;0.0;0.0;2;Pacaembu;São Paulo
+2011;20/07/2011;21h50;10;Botafogo;0 x 2;Corinthians;0.0;2.0;3;São Januário;Rio de Janeiro
+2011;20/07/2011;21h50;10;Figueirense;0 x 0;Grêmio;0.0;0.0;2;Orlando Scarpelli;Florianópolis
+2011;24/07/2011;16h00;11;Fluminense;1 x 0;Palmeiras;1.0;0.0;1;Raulino de Oliveira;Volta Redonda
+2011;24/07/2011;16h00;11;Corinthians;0 x 1;Cruzeiro;0.0;1.0;3;Pacaembu;São Paulo
+2011;24/07/2011;16h00;11;Atlético-MG;1 x 2;Vasco;1.0;2.0;3;Ipatingão;Ipatinga
+2011;24/07/2011;16h00;11;Bahia;0 x 0;Coritiba;0.0;0.0;2;Pituaçu;Salvador
+2011;23/07/2011;18h30;11;Atlético-PR;2 x 1;Botafogo;2.0;1.0;1;Arena da Baixada;Curitiba
+2011;23/07/2011;18h30;11;São Paulo;2 x 2;Atlético-GO;2.0;2.0;2;Morumbi;São Paulo
+2011;23/07/2011;18h30;11;América-MG;0 x 0;Figueirense;0.0;0.0;2;Arena do Jacaré;Sete Lagoas
+2011;21/07/2011;19h30;11;Avaí;1 x 3;Internacional;1.0;3.0;3;Ressacada;Florianópolis
+2011;05/10/2011;20h30;11;Grêmio;1 x 0;Santos;1.0;0.0;1;Olímpico Monumental;Porto Alegre
+2011;23/07/2011;21h00;11;Flamengo;1 x 1;Ceará;1.0;1.0;2;Cláudio Moacir Azevedo;Macaé
+2011;27/07/2011;19h30;12;Botafogo;2 x 1;Avaí;2.0;1.0;1;Engenhão;Rio de Janeiro
+2011;27/07/2011;19h30;12;Grêmio;1 x 1;América-MG;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2011;27/07/2011;19h30;12;Atlético-MG;1 x 0;Fluminense;1.0;0.0;1;Ipatingão;Ipatinga
+2011;27/07/2011;19h30;12;Atlético-GO;2 x 0;Cruzeiro;2.0;0.0;1;Serra Dourada;Goiânia
+2011;28/07/2011;19h30;12;Vasco;1 x 1;Bahia;1.0;1.0;2;São Januário;Rio de Janeiro
+2011;14/07/2011;21h00;12;Corinthians;1 x 0;Internacional;1.0;0.0;1;Pacaembu;São Paulo
+2011;28/07/2011;21h00;12;Ceará;2 x 1;Atlético-PR;2.0;1.0;1;Presidente Vargas;Fortaleza
+2011;27/07/2011;21h50;12;Santos;4 x 5;Flamengo;4.0;5.0;3;Vila Belmiro;Santos
+2011;27/07/2011;21h50;12;Figueirense;0 x 1;Palmeiras;0.0;1.0;3;Orlando Scarpelli;Florianópolis
+2011;27/07/2011;21h50;12;Coritiba;3 x 4;São Paulo;3.0;4.0;3;Couto Pereira;Curitiba
+2011;31/07/2011;16h00;13;São Paulo;0 x 2;Vasco;0.0;2.0;3;Morumbi;São Paulo
+2011;31/07/2011;16h00;13;Fluminense;4 x 0;Ceará;4.0;0.0;1;Engenhão;Rio de Janeiro
+2011;31/07/2011;16h00;13;Internacional;0 x 0;Atlético-GO;0.0;0.0;2;Beira-Rio;Porto Alegre
+2011;31/07/2011;16h00;13;Avaí;3 x 2;Corinthians;3.0;2.0;1;Ressacada;Florianópolis
+2011;30/07/2011;18h30;13;Flamengo;2 x 0;Grêmio;2.0;0.0;1;Engenhão;Rio de Janeiro
+2011;30/07/2011;18h30;13;Cruzeiro;0 x 1;Botafogo;0.0;1.0;3;Arena do Jacaré;Sete Lagoas
+2011;31/07/2011;18h30;13;América-MG;1 x 3;Coritiba;1.0;3.0;3;Arena do Jacaré;Sete Lagoas
+2011;31/07/2011;18h30;13;Atlético-PR;3 x 2;Santos;3.0;2.0;1;Arena da Baixada;Curitiba
+2011;31/07/2011;18h30;13;Bahia;3 x 1;Figueirense;3.0;1.0;1;Pituaçu;Salvador
+2011;30/07/2011;21h00;13;Palmeiras;3 x 2;Atlético-MG;3.0;2.0;1;Canindé;São Paulo
+2011;03/08/2011;19h30;14;Corinthians;2 x 1;América-MG;2.0;1.0;1;Pacaembu;São Paulo
+2011;03/08/2011;19h30;14;Grêmio;2 x 2;Atlético-MG;2.0;2.0;2;Olímpico Monumental;Porto Alegre
+2011;03/08/2011;19h30;14;Figueirense;2 x 0;Botafogo;2.0;0.0;1;Orlando Scarpelli;Florianópolis
+2011;03/08/2011;19h30;14;Ceará;0 x 3;Avaí;0.0;3.0;3;Presidente Vargas;Fortaleza
+2011;04/08/2011;21h00;14;São Paulo;3 x 0;Bahia;3.0;0.0;1;Morumbi;São Paulo
+2011;04/08/2011;21h00;14;Fluminense;2 x 0;Internacional;2.0;0.0;1;Engenhão;Rio de Janeiro
+2011;04/08/2011;21h00;14;Atlético-GO;0 x 3;Atlético-PR;0.0;3.0;3;Serra Dourada;Goiânia
+2011;03/08/2011;21h50;14;Vasco;2 x 0;Santos;2.0;0.0;1;São Januário;Rio de Janeiro
+2011;03/08/2011;21h50;14;Cruzeiro;0 x 1;Flamengo;0.0;1.0;3;Arena do Jacaré;Sete Lagoas
+2011;03/08/2011;21h50;14;Coritiba;1 x 1;Palmeiras;1.0;1.0;2;Couto Pereira;Curitiba
+2011;07/08/2011;16h00;15;Internacional;3 x 2;Cruzeiro;3.0;2.0;1;Beira-Rio;Porto Alegre
+2011;07/08/2011;16h00;15;Santos;1 x 0;Ceará;1.0;0.0;1;Pacaembu;Santos
+2011;07/08/2011;16h00;15;Atlético-PR;1 x 1;Corinthians;1.0;1.0;2;Arena da Baixada;Curitiba
+2011;07/08/2011;16h00;15;América-MG;3 x 0;Fluminense;3.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2011;06/08/2011;18h30;15;Flamengo;1 x 0;Coritiba;1.0;0.0;1;Engenhão;Rio De Janeiro
+2011;06/08/2011;18h30;15;Palmeiras;0 x 0;Grêmio;0.0;0.0;2;Canindé;São Paulo
+2011;07/08/2011;18h30;15;Botafogo;4 x 0;Vasco;4.0;0.0;1;Engenhão;Rio De Janeiro
+2011;07/08/2011;18h30;15;Avaí;1 x 2;São Paulo;1.0;2.0;3;Ressacada;Florianópolis
+2011;07/08/2011;18h30;15;Bahia;2 x 1;Atlético-GO;2.0;1.0;1;Pituaçu;Salvador
+2011;06/08/2011;21h00;15;Atlético-MG;1 x 2;Figueirense;1.0;2.0;3;Ipatingão;Ipatinga
+2011;14/08/2011;16h00;16;Corinthians;2 x 2;Ceará;2.0;2.0;2;Pacaembu;São Paulo
+2011;14/08/2011;16h00;16;Vasco;1 x 0;Palmeiras;1.0;0.0;1;São Januário;Rio de Janeiro
+2011;14/08/2011;16h00;16;Figueirense;2 x 2;Flamengo;2.0;2.0;2;Orlando Scarpelli;Florianópolis
+2011;14/08/2011;16h00;16;Coritiba;3 x 0;Atlético-MG;3.0;0.0;1;Couto Pereira;Curitiba
+2011;13/08/2011;18h30;16;São Paulo;2 x 2;Atlético-PR;2.0;2.0;2;Morumbi;São Paulo
+2011;13/08/2011;18h30;16;Atlético-GO;2 x 0;Santos;2.0;0.0;1;Serra Dourada;Goiânia
+2011;13/08/2011;18h30;16;Cruzeiro;5 x 0;Avaí;5.0;0.0;1;Parque do Sabiá;Uberlândia
+2011;14/08/2011;18h30;16;Grêmio;2 x 1;Fluminense;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2011;14/08/2011;18h30;16;Bahia;1 x 1;Internacional;1.0;1.0;2;Pituaçu;Salvador
+2011;13/08/2011;21h00;16;Botafogo;4 x 2;América-MG;4.0;2.0;1;Engenhão;Rio de Janeiro
+2011;17/08/2011;19h30;17;Fluminense;3 x 0;Figueirense;3.0;0.0;1;Engenhão;Rio de Janeiro
+2011;17/08/2011;19h30;17;Atlético-PR;2 x 1;Cruzeiro;2.0;1.0;1;Arena da Baixada;Curitiba
+2011;17/08/2011;19h30;17;Ceará;3 x 0;Grêmio;3.0;0.0;1;Presidente Vargas;Fortaleza
+2011;17/08/2011;19h30;17;Avaí;0 x 2;Vasco;0.0;2.0;3;Ressacada;Florianópolis
+2011;18/08/2011;21h00;17;Palmeiras;1 x 1;Bahia;1.0;1.0;2;Canindé;São Paulo
+2011;18/08/2011;21h00;17;América-MG;1 x 1;São Paulo;1.0;1.0;2;Arena do Jacaré;Sete Lagoas
+2011;18/08/2011;21h00;17;Flamengo;1 x 4;Atlético-GO;1.0;4.0;3;Engenhão;Rio De Janeiro
+2011;17/08/2011;21h50;17;Internacional;1 x 0;Botafogo;1.0;0.0;1;Beira-Rio;Porto Alegre
+2011;17/08/2011;21h50;17;Santos;2 x 3;Coritiba;2.0;3.0;3;Vila Belmiro;Santos
+2011;17/08/2011;21h50;17;Atlético-MG;2 x 3;Corinthians;2.0;3.0;3;Ipatingão;Ipatinga
+2011;21/08/2011;16h00;18;Internacional;2 x 2;Flamengo;2.0;2.0;2;Beira-Rio;Porto Alegre
+2011;21/08/2011;16h00;18;Avaí;0 x 0;Coritiba;0.0;0.0;2;Ressacada;Florianópolis
+2011;21/08/2011;16h00;18;São Paulo;1 x 1;Palmeiras;1.0;1.0;2;Morumbi;São Paulo
+2011;21/08/2011;16h00;18;Atlético-GO;1 x 0;Grêmio;1.0;0.0;1;Serra Dourada;Goiânia
+2011;20/08/2011;18h00;18;Cruzeiro;1 x 0;Ceará;1.0;0.0;1;Parque do Sabiá;Uberlândia
+2011;20/08/2011;18h00;18;Botafogo;3 x 1;Atlético-MG;3.0;1.0;1;Engenhão;Rio De Janeiro
+2011;20/08/2011;18h00;18;Corinthians;0 x 2;Figueirense;0.0;2.0;3;Pacaembu;São Paulo
+2011;21/08/2011;18h00;18;Atlético-PR;2 x 2;América-MG;2.0;2.0;2;Arena da Baixada;Curitiba
+2011;21/08/2011;18h00;18;Vasco;1 x 1;Fluminense;1.0;1.0;2;Engenhão;Rio De Janeiro
+2011;21/08/2011;18h00;18;Bahia;1 x 2;Santos;1.0;2.0;3;Pituaçu;Salvador
+2011;28/08/2011;16h00;19;Palmeiras;2 x 1;Corinthians;2.0;1.0;1;Prudentão;Presidente Prudente (SP)
+2011;28/08/2011;16h00;19;Santos;1 x 1;São Paulo;1.0;1.0;2;Vila Belmiro;Santos
+2011;28/08/2011;16h00;19;Flamengo;0 x 0;Vasco;0.0;0.0;2;Engenhão;Rio de Janeiro
+2011;28/08/2011;16h00;19;Grêmio;2 x 1;Internacional;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2011;28/08/2011;16h00;19;Ceará;3 x 0;Bahia;3.0;0.0;1;Presidente Vargas;Fortaleza
+2011;27/08/2011;18h00;19;Coritiba;1 x 1;Atlético-PR;1.0;1.0;2;Couto Pereira;Curitiba
+2011;27/08/2011;18h00;19;América-MG;1 x 2;Atlético-GO;1.0;2.0;3;Arena do Jacaré;Sete Lagoas
+2011;27/08/2011;18h00;19;Fluminense;1 x 2;Botafogo;1.0;2.0;3;Engenhão;Rio de Janeiro
+2011;28/08/2011;18h00;19;Atlético-MG;1 x 2;Cruzeiro;1.0;2.0;3;Arena do Jacaré;Sete Lagoas
+2011;28/08/2011;18h00;19;Figueirense;2 x 3;Avaí;2.0;3.0;3;Orlando Scarpelli;Florianópolis
+2011;31/08/2011;18h00;20;Corinthians;3 x 2;Grêmio;3.0;2.0;1;Pacaembu;São Paulo
+2011;31/08/2011;18h00;20;Vasco;3 x 1;Ceará;3.0;1.0;1;São Januário;Rio De Janeiro
+2011;31/08/2011;20h30;20;Cruzeiro;2 x 4;Figueirense;2.0;4.0;3;Arena do Jacaré;Sete Lagoas
+2011;31/08/2011;20h30;20;Atlético-GO;3 x 1;Coritiba;3.0;1.0;1;Serra Dourada;Goiânia
+2011;31/08/2011;20h30;20;Atlético-PR;0 x 1;Atlético-MG;0.0;1.0;3;Arena da Baixada;Curitiba
+2011;01/09/2011;20h30;20;Bahia;0 x 0;América-MG;0.0;0.0;2;Pituaçu;Salvador
+2011;31/08/2011;21h50;20;São Paulo;1 x 2;Fluminense;1.0;2.0;3;Morumbi;São Paulo
+2011;31/08/2011;21h50;20;Botafogo;3 x 1;Palmeiras;3.0;1.0;1;Engenhão;Rio De Janeiro
+2011;31/08/2011;21h50;20;Internacional;3 x 3;Santos;3.0;3.0;2;Beira-Rio;Porto Alegre
+2011;31/08/2011;21h50;20;Avaí;3 x 2;Flamengo;3.0;2.0;1;Ressacada;Florianópolis
+2011;04/09/2011;16h00;21;Palmeiras;1 x 1;Cruzeiro;1.0;1.0;2;Pacaembu;São Paulo
+2011;04/09/2011;16h00;21;Flamengo;1 x 3;Bahia;1.0;3.0;3;Engenhão;Rio de Janeiro
+2011;04/09/2011;16h00;21;Grêmio;4 x 0;Atlético-PR;4.0;0.0;1;Olímpico Monumental;Porto Alegre
+2011;04/09/2011;16h00;21;Coritiba;1 x 0;Corinthians;1.0;0.0;1;Couto Pereira;Curitiba
+2011;04/09/2011;16h00;21;América-MG;4 x 1;Vasco;4.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;03/09/2011;18h00;21;Fluminense;3 x 2;Atlético-GO;3.0;2.0;1;Raulino de Oliveira;Volta Redonda
+2011;03/09/2011;18h00;21;Atlético-MG;2 x 0;Avaí;2.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2011;03/09/2011;18h00;21;Figueirense;1 x 2;São Paulo;1.0;2.0;3;Orlando Scarpelli;Florianópolis
+2011;04/09/2011;18h00;21;Ceará;1 x 1;Internacional;1.0;1.0;2;Presidente Vargas;Fortaleza
+2011;19/10/2011;20h30;21;Santos;2 x 0;Botafogo;2.0;0.0;1;Vila Belmiro;Santos
+2011;07/09/2011;16h00;22;São Paulo;2 x 1;Atlético-MG;2.0;1.0;1;Morumbi;São Paulo
+2011;07/09/2011;16h00;22;Botafogo;4 x 0;Ceará;4.0;0.0;1;Engenhão;Rio de Janeiro
+2011;07/09/2011;16h00;22;Internacional;4 x 2;América-MG;4.0;2.0;1;Beira-Rio;Porto Alegre
+2011;07/09/2011;16h00;22;Avaí;1 x 2;Santos;1.0;2.0;3;Ressacada;Florianópolis
+2011;08/09/2011;20h30;22;Vasco;2 x 0;Coritiba;2.0;0.0;1;São Januário;Rio de Janeiro
+2011;08/09/2011;20h30;22;Bahia;1 x 2;Grêmio;1.0;2.0;3;Pituaçu;Salvador
+2011;07/09/2011;21h50;22;Cruzeiro;1 x 2;Fluminense;1.0;2.0;3;João Havelange (MG);Uberlândia
+2011;07/09/2011;21h50;22;Atlético-PR;2 x 2;Palmeiras;2.0;2.0;2;Arena da Baixada;Curitiba
+2011;07/09/2011;21h50;22;Atlético-GO;1 x 1;Figueirense;1.0;1.0;2;Serra Dourada;Goiânia
+2011;08/09/2011;21h50;22;Corinthians;2 x 1;Flamengo;2.0;1.0;1;Pacaembu;São Paulo
+2011;11/09/2011;16h00;23;Palmeiras;0 x 3;Internacional;0.0;3.0;3;Pacaembu;São Paulo
+2011;11/09/2011;16h00;23;Fluminense;1 x 0;Corinthians;1.0;0.0;1;Engenhão;Rio de Janeiro
+2011;11/09/2011;16h00;23;Ceará;1 x 1;Atlético-GO;1.0;1.0;2;Presidente Vargas;Fortaleza
+2011;11/09/2011;16h00;23;Coritiba;5 x 0;Botafogo;5.0;0.0;1;Couto Pereira;Curitiba
+2011;11/09/2011;16h00;23;Figueirense;1 x 1;Vasco;1.0;1.0;2;Orlando Scarpelli;Florianópolis
+2011;10/09/2011;18h00;23;Santos;1 x 0;Cruzeiro;1.0;0.0;1;Vila Belmiro;Santos
+2011;10/09/2011;18h00;23;América-MG;2 x 2;Avaí;2.0;2.0;2;Arena do Jacaré;Sete Lagoas
+2011;11/09/2011;18h00;23;Flamengo;1 x 2;Atlético-PR;1.0;2.0;3;Cláudio Moacir Azevedo;Macaé
+2011;11/09/2011;18h00;23;Grêmio;1 x 0;São Paulo;1.0;0.0;1;Olímpico Monumental;Porto Alegre
+2011;11/09/2011;18h00;23;Atlético-MG;2 x 0;Bahia;2.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2011;18/09/2011;16h00;24;Bahia;3 x 0;Fluminense;3.0;0.0;1;Pituaçu;Salvador
+2011;18/09/2011;16h00;24;Atlético-PR;0 x 0;Figueirense;0.0;0.0;2;Arena da Baixada;Curitiba
+2011;18/09/2011;16h00;24;Avaí;1 x 1;Palmeiras;1.0;1.0;2;Ressacada;Florianópolis
+2011;18/09/2011;16h00;24;Botafogo;1 x 1;Flamengo;1.0;1.0;2;Engenhão;Rio De Janeiro
+2011;18/09/2011;16h00;24;Corinthians;1 x 3;Santos;1.0;3.0;3;Pacaembu;São Paulo
+2011;17/09/2011;18h00;24;Atlético-GO;1 x 0;Atlético-MG;1.0;0.0;1;Serra Dourada;Goiânia
+2011;17/09/2011;18h00;24;Vasco;4 x 0;Grêmio;4.0;0.0;1;São Januário;Rio De Janeiro
+2011;17/09/2011;18h00;24;São Paulo;4 x 0;Ceará;4.0;0.0;1;Morumbi;São Paulo
+2011;18/09/2011;18h00;24;Cruzeiro;0 x 0;América-MG;0.0;0.0;2;Arena do Jacaré;Sete Lagoas
+2011;18/09/2011;18h00;24;Internacional;1 x 1;Coritiba;1.0;1.0;2;Beira-Rio;Porto Alegre
+2011;21/09/2011;20h30;25;Fluminense;3 x 1;Avaí;3.0;1.0;1;Engenhão;Rio de Janeiro
+2011;21/09/2011;20h30;25;Coritiba;2 x 1;Cruzeiro;2.0;1.0;1;Couto Pereira;Curitiba
+2011;21/09/2011;20h30;25;América-MG;1 x 2;Santos;1.0;2.0;3;João Havelange (MG);Uberlândia
+2011;21/09/2011;20h30;25;Bahia;1 x 0;Atlético-PR;1.0;0.0;1;Pituaçu;Salvador
+2011;22/09/2011;20h30;25;Palmeiras;1 x 0;Ceará;1.0;0.0;1;Canindé;São Paulo
+2011;22/09/2011;20h30;25;Vasco;1 x 1;Atlético-GO;1.0;1.0;2;São Januário;Rio de Janeiro
+2011;22/09/2011;20h30;25;Grêmio;0 x 1;Botafogo;0.0;1.0;3;Olímpico Monumental;Porto Alegre
+2011;21/09/2011;21h50;25;São Paulo;0 x 0;Corinthians;0.0;0.0;2;Morumbi;São Paulo
+2011;21/09/2011;21h50;25;Atlético-MG;1 x 1;Flamengo;1.0;1.0;2;Arena do Jacaré;Sete Lagoas
+2011;21/09/2011;21h50;25;Figueirense;1 x 1;Internacional;1.0;1.0;2;Orlando Scarpelli;Florianópolis
+2011;25/09/2011;16h00;26;Corinthians;1 x 0;Bahia;1.0;0.0;1;Pacaembu;São Paulo
+2011;25/09/2011;16h00;26;Botafogo;2 x 2;São Paulo;2.0;2.0;2;Engenhão;Rio de Janeiro
+2011;25/09/2011;16h00;26;Internacional;2 x 1;Atlético-MG;2.0;1.0;1;Beira-Rio;Porto Alegre
+2011;25/09/2011;16h00;26;Cruzeiro;0 x 3;Vasco;0.0;3.0;3;Arena do Jacaré;Sete Lagoas
+2011;25/09/2011;16h00;26;Avaí;1 x 2;Grêmio;1.0;2.0;3;Ressacada;Florianópolis
+2011;24/09/2011;18h00;26;Atlético-PR;1 x 1;Fluminense;1.0;1.0;2;Arena da Baixada;Curitiba
+2011;24/09/2011;18h00;26;Santos;2 x 3;Figueirense;2.0;3.0;3;Vila Belmiro;Santos
+2011;24/09/2011;18h00;26;Flamengo;2 x 1;América-MG;2.0;1.0;1;Engenhão;Rio de Janeiro
+2011;25/09/2011;18h00;26;Atlético-GO;1 x 1;Palmeiras;1.0;1.0;2;Serra Dourada;Goiânia
+2011;25/09/2011;18h00;26;Ceará;3 x 2;Coritiba;3.0;2.0;1;Presidente Vargas;Fortaleza
+2011;02/10/2011;16h00;27;São Paulo;1 x 2;Flamengo;1.0;2.0;3;Morumbi;São Paulo
+2011;02/10/2011;16h00;27;Vasco;2 x 2;Corinthians;2.0;2.0;2;São Januário;Rio De Janeiro
+2011;02/10/2011;16h00;27;Atlético-MG;1 x 1;Ceará;1.0;1.0;2;Arena do Jacaré;Sete Lagoas
+2011;02/10/2011;16h00;27;Figueirense;0 x 0;Coritiba;0.0;0.0;2;Orlando Scarpelli;Florianópolis
+2011;02/10/2011;16h00;27;Atlético-PR;2 x 0;Internacional;2.0;0.0;1;Arena da Baixada;Curitiba
+2011;01/10/2011;18h00;27;Palmeiras;1 x 1;América-MG;1.0;1.0;2;Canindé;São Paulo
+2011;01/10/2011;18h00;27;Fluminense;3 x 2;Santos;3.0;2.0;1;Raulino de Oliveira;Volta Redonda
+2011;01/10/2011;18h00;27;Bahia;3 x 2;Avaí;3.0;2.0;1;Pituaçu;Salvador
+2011;02/10/2011;18h00;27;Grêmio;2 x 0;Cruzeiro;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2011;02/10/2011;18h00;27;Atlético-GO;2 x 0;Botafogo;2.0;0.0;1;Serra Dourada;Goiânia
+2011;09/10/2011;16h00;28;Santos;1 x 0;Palmeiras;1.0;0.0;1;Vila Belmiro;Santos
+2011;09/10/2011;16h00;28;Flamengo;3 x 2;Fluminense;3.0;2.0;1;Engenhão;Rio de Janeiro
+2011;09/10/2011;16h00;28;Internacional;3 x 0;Vasco;3.0;0.0;1;Beira-Rio;Porto Alegre
+2011;08/10/2011;18h00;28;Botafogo;2 x 2;Bahia;2.0;2.0;2;São Januário;Rio de Janeiro
+2011;08/10/2011;18h00;28;Coritiba;2 x 0;Grêmio;2.0;0.0;1;Couto Pereira;Curitiba
+2011;08/10/2011;18h00;28;América-MG;0 x 0;Atlético-MG;0.0;0.0;2;Arena do Jacaré;Sete Lagoas
+2011;09/10/2011;18h00;28;Corinthians;3 x 0;Atlético-GO;3.0;0.0;1;Pacaembu;São Paulo
+2011;09/10/2011;18h00;28;Avaí;3 x 0;Atlético-PR;3.0;0.0;1;Ressacada;Florianópolis
+2011;09/10/2011;18h00;28;Ceará;1 x 1;Figueirense;1.0;1.0;2;Presidente Vargas;Fortaleza
+2011;05/10/2011;21h50;28;Cruzeiro;3 x 3;São Paulo;3.0;3.0;2;Arena do Jacaré;Sete Lagoas
+2011;12/10/2011;16h00;29;São Paulo;0 x 0;Internacional;0.0;0.0;2;Arena Barueri;São Paulo
+2011;12/10/2011;16h00;29;Grêmio;1 x 3;Figueirense;1.0;3.0;3;Olímpico Monumental;Porto Alegre
+2011;12/10/2011;16h00;29;Avaí;2 x 2;Atlético-GO;2.0;2.0;2;Ressacada;Florianópolis
+2011;12/10/2011;16h00;29;América-MG;4 x 1;Ceará;4.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;13/10/2011;20h30;29;Fluminense;3 x 1;Coritiba;3.0;1.0;1;Engenhão;Rio de Janeiro
+2011;13/10/2011;20h30;29;Atlético-MG;2 x 1;Santos;2.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;13/10/2011;20h30;29;Atlético-PR;2 x 2;Vasco;2.0;2.0;2;Arena da Baixada;Curitiba
+2011;12/10/2011;21h50;29;Corinthians;0 x 2;Botafogo;0.0;2.0;3;Pacaembu;São Paulo
+2011;12/10/2011;21h50;29;Flamengo;1 x 1;Palmeiras;1.0;1.0;2;Engenhão;Rio de Janeiro
+2011;12/10/2011;21h50;29;Bahia;0 x 0;Cruzeiro;0.0;0.0;2;Pituaçu;Salvador
+2011;16/10/2011;16h00;30;Palmeiras;1 x 2;Fluminense;1.0;2.0;3;Canindé;São Paulo
+2011;16/10/2011;16h00;30;Santos;0 x 1;Grêmio;0.0;1.0;3;Vila Belmiro;Santos
+2011;16/10/2011;16h00;30;Botafogo;2 x 0;Atlético-PR;2.0;0.0;1;Engenhão;Rio de Janeiro
+2011;16/10/2011;16h00;30;Internacional;4 x 2;Avaí;4.0;2.0;1;Beira-Rio;Porto Alegre
+2011;16/10/2011;16h00;30;Cruzeiro;0 x 1;Corinthians;0.0;1.0;3;Arena do Jacaré;Sete Lagoas
+2011;15/10/2011;18h00;30;Figueirense;2 x 1;América-MG;2.0;1.0;1;Orlando Scarpelli;Florianópolis
+2011;15/10/2011;18h00;30;Ceará;0 x 1;Flamengo;0.0;1.0;3;Presidente Vargas;Fortaleza
+2011;16/10/2011;18h00;30;Vasco;2 x 0;Atlético-MG;2.0;0.0;1;São Januário;Rio de Janeiro
+2011;16/10/2011;18h00;30;Coritiba;0 x 0;Bahia;0.0;0.0;2;Couto Pereira;Curitiba
+2011;16/10/2011;18h00;30;Atlético-GO;3 x 0;São Paulo;3.0;0.0;1;Serra Dourada;Goiânia
+2011;23/10/2011;16h00;31;São Paulo;0 x 0;Coritiba;0.0;0.0;2;Morumbi;São Paulo
+2011;23/10/2011;16h00;31;Internacional;1 x 1;Corinthians;1.0;1.0;2;Beira-Rio;Porto Alegre
+2011;23/10/2011;16h00;31;Atlético-PR;1 x 0;Ceará;1.0;0.0;1;Arena da Baixada;Curitiba
+2011;23/10/2011;16h00;31;Bahia;0 x 2;Vasco;0.0;2.0;3;Pituaçu;Salvador
+2011;22/10/2011;18h00;31;Palmeiras;1 x 2;Figueirense;1.0;2.0;3;Canindé;São Paulo
+2011;22/10/2011;18h00;31;Fluminense;0 x 2;Atlético-MG;0.0;2.0;3;Engenhão;Rio de Janeiro
+2011;22/10/2011;18h00;31;Avaí;3 x 2;Botafogo;3.0;2.0;1;Ressacada;Florianópolis
+2011;22/10/2011;18h00;31;América-MG;2 x 2;Grêmio;2.0;2.0;2;Arena do Jacaré;Sete Lagoas
+2011;23/10/2011;18h00;31;Flamengo;1 x 1;Santos;1.0;1.0;2;Engenhão;Rio de Janeiro
+2011;23/10/2011;18h00;31;Cruzeiro;3 x 2;Atlético-GO;3.0;2.0;1;Arena do Jacaré;Sete Lagoas
+2011;30/10/2011;16h00;32;Corinthians;2 x 1;Avaí;2.0;1.0;1;Pacaembu;São Paulo
+2011;30/10/2011;16h00;32;Vasco;0 x 0;São Paulo;0.0;0.0;2;São Januário;Rio de Janeiro
+2011;30/10/2011;16h00;32;Grêmio;4 x 2;Flamengo;4.0;2.0;1;Olímpico Monumental;Porto Alegre
+2011;30/10/2011;16h00;32;Figueirense;2 x 1;Bahia;2.0;1.0;1;Orlando Scarpelli;Florianópolis
+2011;29/10/2011;18h00;32;Santos;4 x 1;Atlético-PR;4.0;1.0;1;Pacaembu;São Paulo
+2011;29/10/2011;18h00;32;Botafogo;1 x 0;Cruzeiro;1.0;0.0;1;Engenhão;Rio De Janeiro
+2011;29/10/2011;18h00;32;Ceará;1 x 2;Fluminense;1.0;2.0;3;Presidente Vargas;Fortaleza
+2011;30/10/2011;18h00;32;Atlético-MG;2 x 1;Palmeiras;2.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;30/10/2011;18h00;32;Coritiba;3 x 1;América-MG;3.0;1.0;1;Couto Pereira;Curitiba
+2011;30/10/2011;18h00;32;Atlético-GO;0 x 1;Internacional;0.0;1.0;3;Serra Dourada;Goiânia
+2011;06/11/2011;17h00;33;Santos;2 x 0;Vasco;2.0;0.0;1;Vila Belmiro;Santos
+2011;06/11/2011;17h00;33;Flamengo;5 x 1;Cruzeiro;5.0;1.0;1;Engenhão;Rio De Janeiro
+2011;06/11/2011;17h00;33;Avaí;1 x 2;Ceará;1.0;2.0;3;Ressacada;Florianópolis
+2011;06/11/2011;17h00;33;América-MG;2 x 1;Corinthians;2.0;1.0;1;João Havelange (MG);Uberlândia
+2011;05/11/2011;19h00;33;Botafogo;0 x 1;Figueirense;0.0;1.0;3;Engenhão;Rio De Janeiro
+2011;05/11/2011;19h00;33;Atlético-MG;2 x 0;Grêmio;2.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2011;05/11/2011;19h00;33;Bahia;4 x 3;São Paulo;4.0;3.0;1;Pituaçu;Salvador
+2011;06/11/2011;19h00;33;Palmeiras;0 x 2;Coritiba;0.0;2.0;3;Arena Barueri;Barueri
+2011;06/11/2011;19h00;33;Internacional;1 x 2;Fluminense;1.0;2.0;3;Beira-Rio;Porto Alegre
+2011;06/11/2011;19h00;33;Atlético-PR;2 x 1;Atlético-GO;2.0;1.0;1;Arena da Baixada;Curitiba
+2011;13/11/2011;17h00;34;Corinthians;2 x 1;Atlético-PR;2.0;1.0;1;Pacaembu;São Paulo
+2011;13/11/2011;17h00;34;Ceará;2 x 3;Santos;2.0;3.0;3;Presidente Vargas;Fortaleza
+2011;13/11/2011;17h00;34;Coritiba;2 x 0;Flamengo;2.0;0.0;1;Couto Pereira;Curitiba
+2011;13/11/2011;17h00;34;Grêmio;2 x 2;Palmeiras;2.0;2.0;2;Olímpico Monumental;Porto Alegre
+2011;12/11/2011;19h00;34;São Paulo;2 x 0;Avaí;2.0;0.0;1;Morumbi;São Paulo
+2011;12/11/2011;19h00;34;Fluminense;1 x 2;América-MG;1.0;2.0;3;Engenhão;Rio De Janeiro
+2011;12/11/2011;19h00;34;Figueirense;2 x 1;Atlético-MG;2.0;1.0;1;Orlando Scarpelli;Florianópolis
+2011;13/11/2011;19h00;34;Vasco;2 x 0;Botafogo;2.0;0.0;1;Engenhão;Rio de Janeiro
+2011;13/11/2011;19h00;34;Cruzeiro;1 x 0;Internacional;1.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2011;13/11/2011;19h00;34;Atlético-GO;0 x 1;Bahia;0.0;1.0;3;Serra Dourada;Goiânia
+2011;16/11/2011;20h30;35;Fluminense;5 x 4;Grêmio;5.0;4.0;1;Engenhão;Rio De Janeiro
+2011;16/11/2011;20h30;35;Internacional;1 x 0;Bahia;1.0;0.0;1;Beira-Rio;Porto Alegre
+2011;16/11/2011;20h30;35;Atlético-PR;1 x 0;São Paulo;1.0;0.0;1;Arena da Baixada;Curitiba
+2011;16/11/2011;20h30;35;América-MG;2 x 1;Botafogo;2.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;17/11/2011;20h30;35;Santos;1 x 1;Atlético-GO;1.0;1.0;2;Pacaembu;São Paulo
+2011;17/11/2011;20h30;35;Flamengo;0 x 0;Figueirense;0.0;0.0;2;Engenhão;Rio De Janeiro
+2011;17/11/2011;20h30;35;Atlético-MG;2 x 1;Coritiba;2.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;16/11/2011;21h50;35;Palmeiras;1 x 1;Vasco;1.0;1.0;2;Pacaembu;São Paulo
+2011;16/11/2011;21h50;35;Avaí;0 x 0;Cruzeiro;0.0;0.0;2;Ressacada;Florianópolis
+2011;16/11/2011;21h50;35;Ceará;0 x 1;Corinthians;0.0;1.0;3;Presidente Vargas;Fortaleza
+2011;20/11/2011;17h00;36;Corinthians;2 x 1;Atlético-MG;2.0;1.0;1;Pacaembu;São Paulo
+2011;20/11/2011;17h00;36;Botafogo;1 x 2;Internacional;1.0;2.0;3;Engenhão;Rio De Janeiro
+2011;20/11/2011;17h00;36;Cruzeiro;1 x 1;Atlético-PR;1.0;1.0;2;Arena do Jacaré;Sete Lagoas
+2011;20/11/2011;17h00;36;Atlético-GO;0 x 0;Flamengo;0.0;0.0;2;Serra Dourada;Goiânia
+2011;19/11/2011;19h00;36;São Paulo;3 x 1;América-MG;3.0;1.0;1;Morumbi;São Paulo
+2011;19/11/2011;19h00;36;Vasco;2 x 0;Avaí;2.0;0.0;1;São Januário;Rio De Janeiro
+2011;19/11/2011;19h00;36;Grêmio;1 x 3;Ceará;1.0;3.0;3;Olímpico Monumental;Porto Alegre
+2011;20/11/2011;19h00;36;Figueirense;0 x 4;Fluminense;0.0;4.0;3;Orlando Scarpelli;Florianópolis
+2011;20/11/2011;19h00;36;Coritiba;1 x 0;Santos;1.0;0.0;1;Couto Pereira;Curitiba
+2011;20/11/2011;19h00;36;Bahia;0 x 2;Palmeiras;0.0;2.0;3;Pituaçu;Salvador
+2011;27/11/2011;17h00;37;Palmeiras;1 x 0;São Paulo;1.0;0.0;1;Pacaembu;São Paulo
+2011;27/11/2011;17h00;37;Santos;1 x 1;Bahia;1.0;1.0;2;Vila Belmiro;Santos
+2011;27/11/2011;17h00;37;Flamengo;1 x 0;Internacional;1.0;0.0;1;Cláudio Moacir Azevedo;Macaé
+2011;27/11/2011;17h00;37;Fluminense;1 x 2;Vasco;1.0;2.0;3;Engenhão;Rio De Janeiro
+2011;27/11/2011;17h00;37;Grêmio;2 x 2;Atlético-GO;2.0;2.0;2;Olímpico Monumental;Porto Alegre
+2011;27/11/2011;17h00;37;Atlético-MG;4 x 0;Botafogo;4.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2011;27/11/2011;17h00;37;Figueirense;0 x 1;Corinthians;0.0;1.0;3;Orlando Scarpelli;Florianópolis
+2011;27/11/2011;17h00;37;Coritiba;1 x 0;Avaí;1.0;0.0;1;Couto Pereira;Curitiba
+2011;27/11/2011;17h00;37;América-MG;2 x 1;Atlético-PR;2.0;1.0;1;João Havelange (MG);Uberlândia
+2011;27/11/2011;17h00;37;Ceará;2 x 2;Cruzeiro;2.0;2.0;2;Presidente Vargas;Fortaleza
+2011;04/12/2011;17h00;38;Corinthians;0 x 0;Palmeiras;0.0;0.0;2;Pacaembu;São Paulo
+2011;04/12/2011;17h00;38;São Paulo;4 x 1;Santos;4.0;1.0;1;Romildão;Mogi Mirim
+2011;04/12/2011;17h00;38;Internacional;1 x 0;Grêmio;1.0;0.0;1;Beira-Rio;Porto Alegre
+2011;04/12/2011;17h00;38;Cruzeiro;6 x 1;Atlético-MG;6.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2011;04/12/2011;17h00;38;Atlético-GO;5 x 1;América-MG;5.0;1.0;1;Serra Dourada;Goiânia
+2011;04/12/2011;17h00;38;Atlético-PR;1 x 0;Coritiba;1.0;0.0;1;Arena da Baixada;Curitiba
+2011;04/12/2011;17h00;38;Bahia;2 x 1;Ceará;2.0;1.0;1;Pituaçu;Salvador
+2011;04/12/2011;17h00;38;Avaí;1 x 1;Figueirense;1.0;1.0;2;Ressacada;Florianópolis
+2011;04/12/2011;17h00;38;Botafogo;1 x 1;Fluminense;1.0;1.0;2;Raulino de Oliveira;Volta Redonda
+2011;04/12/2011;17h00;38;Vasco;1 x 1;Flamengo;1.0;1.0;2;Engenhão;Rio de Janeiro

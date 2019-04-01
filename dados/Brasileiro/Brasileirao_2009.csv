@@ -1,0 +1,381 @@
+ano;date;hour;round;home_team;score;away_team;placar_casa;placar_visitante;resultado;arena;state
+2009;10/05/2009;16h00;1;Corinthians;0 x 1;Internacional;0.0;1.0;3;Pacaembu;São Paulo
+2009;10/05/2009;16h00;1;Atlético-PR;0 x 2;Vitória;0.0;2.0;3;Arena da Baixada;Curitiba
+2009;10/05/2009;16h00;1;Fluminense;1 x 0;São Paulo;1.0;0.0;1;Maracanã;Rio De Janeiro
+2009;10/05/2009;16h00;1;Cruzeiro;2 x 0;Flamengo;2.0;0.0;1;Mineirão;Belo Horizonte
+2009;09/05/2009;18h30;1;Palmeiras;2 x 1;Coritiba;2.0;1.0;1;Arena Palestra;São Paulo
+2009;09/05/2009;18h30;1;Sport;1 x 1;Grêmio Barueri;1.0;1.0;2;Ilha do Retiro;Recife
+2009;09/05/2009;18h30;1;Avaí;2 x 2;Atlético-MG;2.0;2.0;2;Ressacada;Florianópolis
+2009;10/05/2009;18h30;1;Santo André;1 x 1;Botafogo;1.0;1.0;2;Bruno José Daniel;Santo André
+2009;10/05/2009;18h30;1;Grêmio;1 x 1;Santos;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2009;10/05/2009;18h30;1;Goiás;3 x 3;Náutico;3.0;3.0;2;Serra Dourada;Goiânia
+2009;17/05/2009;16h00;2;São Paulo;2 x 2;Atlético-PR;2.0;2.0;2;Morumbi;São Paulo
+2009;17/05/2009;16h00;2;Santos;3 x 3;Goiás;3.0;3.0;2;Vila Belmiro;Santos
+2009;17/05/2009;16h00;2;Grêmio Barueri;0 x 0;Fluminense;0.0;0.0;2;Arena Barueri;Barueri
+2009;17/05/2009;16h00;2;Internacional;2 x 0;Palmeiras;2.0;0.0;1;Beira-Rio;Porto Alegre
+2009;16/05/2009;18h30;2;Coritiba;2 x 4;Santo André;2.0;4.0;3;Couto Pereira;Curitiba
+2009;16/05/2009;18h30;2;Flamengo;0 x 0;Avaí;0.0;0.0;2;Maracanã;Rio De Janeiro
+2009;16/05/2009;18h30;2;Atlético-MG;2 x 1;Grêmio;2.0;1.0;1;Mineirão;Belo Horizonte
+2009;17/05/2009;18h30;2;Vitória;1 x 0;Sport;1.0;0.0;1;Barradão;Salvador
+2009;17/05/2009;18h30;2;Náutico;2 x 0;Cruzeiro;2.0;0.0;1;Aflitos;Recife
+2009;17/05/2009;18h30;2;Botafogo;0 x 0;Corinthians;0.0;0.0;2;Engenhão;Rio De Janeiro
+2009;24/05/2009;16h00;3;Grêmio;2 x 0  ;Botafogo;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2009;24/05/2009;16h00;3;Fluminense;1 x 4  ;Santos;1.0;4.0;3;Maracanã;Rio De Janeiro
+2009;24/05/2009;16h00;3;Palmeiras;0 x 0  ;São Paulo;0.0;0.0;2;Arena Palestra;São Paulo
+2009;24/05/2009;16h00;3;Atlético-PR;2 x 3  ;Náutico;2.0;3.0;3;Arena da Baixada;Curitiba
+2009;23/05/2009;18h30;3;Goiás;0 x 1  ;Internacional;0.0;1.0;3;Serra Dourada;Goiânia
+2009;23/05/2009;18h30;3;Cruzeiro;2 x 0  ;Vitória;2.0;0.0;1;Mineirão;Belo Horizonte
+2009;23/05/2009;18h30;3;Corinthians;2 x 1  ;Grêmio Barueri;2.0;1.0;1;Pacaembu;São Paulo
+2009;24/05/2009;18h30;3;Sport;2 x 3  ;Atlético-MG;2.0;3.0;3;Ilha do Retiro;Recife
+2009;24/05/2009;18h30;3;Avaí;2 x 2  ;Coritiba;2.0;2.0;2;Ressacada;Florianópolis
+2009;24/05/2009;18h30;3;Santo André;1 x 2  ;Flamengo;1.0;2.0;3;Bruno José Daniel;Santo André
+2009;31/05/2009;16h00;4;São Paulo;3 x 0  ;Cruzeiro;3.0;0.0;1;Morumbi;São Paulo
+2009;31/05/2009;16h00;4;Santos;3 x 1  ;Corinthians;3.0;1.0;1;Vila Belmiro;Santos
+2009;31/05/2009;16h00;4;Flamengo;2 x 1  ;Atlético-PR;2.0;1.0;1;Maracanã;Rio de Janeiro
+2009;31/05/2009;16h00;4;Vitória;1 x 0  ;Grêmio;1.0;0.0;1;Barradão;Salvador
+2009;31/05/2009;16h00;4;Náutico;1 x 1  ;Fluminense;1.0;1.0;2;Aflitos;Recife
+2009;30/05/2009;18h30;4;Coritiba;1 x 3  ;Goiás;1.0;3.0;3;Couto Pereira;Curitiba
+2009;30/05/2009;18h30;4;Atlético-MG;0 x 0  ;Santo André;0.0;0.0;2;Mineirão;Belo Horizonte
+2009;30/05/2009;18h30;4;Botafogo;2 x 2  ;Sport;2.0;2.0;2;Engenhão;Rio de Janeiro
+2009;31/05/2009;18h30;4;Grêmio Barueri;2 x 2  ;Palmeiras;2.0;2.0;2;Arena Barueri;Barueri
+2009;31/05/2009;18h30;4;Internacional;2 x 1  ;Avaí;2.0;1.0;1;Beira-Rio;Porto Alegre
+2009;07/06/2009;16h00;5;Palmeiras;2 x 1  ;Vitória;2.0;1.0;1;Arena Palestra;São Paulo
+2009;07/06/2009;16h00;5;Atlético-PR;0 x 4  ;Atlético-MG;0.0;4.0;3;Arena da Baixada;Curitiba
+2009;07/06/2009;16h00;5;Sport;4 x 2  ;Flamengo;4.0;2.0;1;Ilha do Retiro;Recife
+2009;07/06/2009;16h00;5;Avaí;0 x 0  ;São Paulo;0.0;0.0;2;Ressacada;Florianópolis
+2009;07/06/2009;18h30;5;Fluminense;1 x 0  ;Botafogo;1.0;0.0;1;Maracanã;Rio de Janeiro
+2009;07/06/2009;18h30;5;Goiás;2 x 2  ;Grêmio Barueri;2.0;2.0;2;Serra Dourada;Goiânia
+2009;07/06/2009;18h30;5;Cruzeiro;1 x 1  ;Internacional;1.0;1.0;2;Mineirão;Belo Horizonte
+2009;04/06/2009;21h00;5;Santo André;3 x 3  ;Santos;3.0;3.0;2;Bruno José Daniel;Santo André
+2009;04/06/2009;21h00;5;Grêmio;3 x 0  ;Náutico;3.0;0.0;1;Olímpico Monumental;Porto Alegre
+2009;06/06/2009;21h00;5;Corinthians;2 x 0  ;Coritiba;2.0;0.0;1;Pacaembu;São Paulo
+2009;14/06/2009;16h00;6;Coritiba;5 x 0  ;Flamengo;5.0;0.0;1;Couto Pereira;Curitiba
+2009;14/06/2009;16h00;6;Fluminense;0 x 0  ;Grêmio;0.0;0.0;2;Maracanã;Rio De Janeiro
+2009;14/06/2009;16h00;6;Goiás;0 x 0  ;Corinthians;0.0;0.0;2;Serra Dourada;Goiânia
+2009;14/06/2009;16h00;6;Atlético-MG;3 x 0  ;Náutico;3.0;0.0;1;Mineirão;Belo Horizonte
+2009;13/06/2009;18h30;6;São Paulo;1 x 1  ;Santo André;1.0;1.0;2;Morumbi;São Paulo
+2009;13/06/2009;18h30;6;Sport;0 x 1  ;Atlético-PR;0.0;1.0;3;Ilha do Retiro;Recife
+2009;13/06/2009;18h30;6;Botafogo;2 x 0  ;Santos;2.0;0.0;1;Engenhão;Rio De Janeiro
+2009;14/06/2009;18h30;6;Palmeiras;3 x 1  ;Cruzeiro;3.0;1.0;1;Arena Palestra;São Paulo
+2009;14/06/2009;18h30;6;Grêmio Barueri;3 x 1  ;Avaí;3.0;1.0;1;Arena Barueri;Barueri
+2009;14/06/2009;18h30;6;Internacional;0 x 0  ;Vitória;0.0;0.0;2;Beira-Rio;Porto Alegre
+2009;20/06/2009;16h10;7;Santo André;2 x 1  ;Sport;2.0;1.0;1;Bruno José Daniel;Santo André
+2009;20/06/2009;16h10;7;Atlético-PR;2 x 2  ;Palmeiras;2.0;2.0;2;Arena da Baixada;Curitiba
+2009;20/06/2009;16h10;7;Vitória;4 x 3  ;Botafogo;4.0;3.0;1;Barradão;Salvador
+2009;20/06/2009;18h30;7;Grêmio;2 x 2  ;Goiás;2.0;2.0;2;Olímpico Monumental;Porto Alegre
+2009;20/06/2009;18h30;7;Náutico;0 x 1  ;Coritiba;0.0;1.0;3;Aflitos;Recife
+2009;20/06/2009;18h30;7;Avaí;3 x 2  ;Fluminense;3.0;2.0;1;Ressacada;Florianópolis
+2009;21/06/2009;18h30;7;Corinthians;3 x 1  ;São Paulo;3.0;1.0;1;Pacaembu;São Paulo
+2009;21/06/2009;18h30;7;Santos;2 x 3  ;Atlético-MG;2.0;3.0;3;Vila Belmiro;Santos
+2009;21/06/2009;18h30;7;Flamengo;4 x 0  ;Internacional;4.0;0.0;1;Maracanã;Rio De Janeiro
+2009;21/06/2009;18h30;7;Cruzeiro;2 x 4  ;Grêmio Barueri;2.0;4.0;3;Mineirão;Belo Horizonte
+2009;27/06/2009;16h10;8;São Paulo;2 x 0  ;Náutico;2.0;0.0;1;Morumbi;São Paulo
+2009;27/06/2009;16h10;8;Grêmio Barueri;4 x 2  ;Atlético-MG;4.0;2.0;1;Arena Barueri;Barueri
+2009;27/06/2009;16h10;8;Atlético-PR;1 x 0  ;Corinthians;1.0;0.0;1;Arena da Baixada;Curitiba
+2009;27/06/2009;18h30;8;Cruzeiro;1 x 0  ;Avaí;1.0;0.0;1;Mineirão;Belo Horizonte
+2009;27/06/2009;18h30;8;Botafogo;1 x 4  ;Goiás;1.0;4.0;3;Engenhão;Rio De Janeiro
+2009;28/06/2009;18h30;8;Palmeiras;1 x 1  ;Santos;1.0;1.0;2;Arena Palestra;São Paulo
+2009;28/06/2009;18h30;8;Internacional;3 x 0  ;Coritiba;3.0;0.0;1;Beira-Rio;Porto Alegre
+2009;28/06/2009;18h30;8;Fluminense;0 x 0  ;Flamengo;0.0;0.0;2;Maracanã;Rio De Janeiro
+2009;28/06/2009;18h30;8;Vitória;4 x 1  ;Santo André;4.0;1.0;1;Barradão;Salvador
+2009;28/06/2009;18h30;8;Sport;3 x 1  ;Grêmio;3.0;1.0;1;Ilha do Retiro;Recife
+2009;05/07/2009;16h00;9;Coritiba;2 x 0  ;São Paulo;2.0;0.0;1;Couto Pereira;Curitiba
+2009;05/07/2009;16h00;9;Grêmio;4 x 1  ;Atlético-PR;4.0;1.0;1;Olímpico Monumental;Porto Alegre
+2009;05/07/2009;16h00;9;Goiás;1 x 0  ;Cruzeiro;1.0;0.0;1;Serra Dourada;Goiânia
+2009;05/07/2009;16h00;9;Atlético-MG;1 x 1  ;Botafogo;1.0;1.0;2;Mineirão;Belo Horizonte
+2009;04/07/2009;18h30;9;Santos;1 x 0  ;Sport;1.0;0.0;1;Vila Belmiro;Santos
+2009;04/07/2009;18h30;9;Santo André;1 x 1  ;Grêmio Barueri;1.0;1.0;2;Bruno José Daniel;Santo André
+2009;04/07/2009;18h30;9;Flamengo;2 x 1  ;Vitória;2.0;1.0;1;Engenhão;Rio de Janeiro
+2009;05/07/2009;18h30;9;Náutico;0 x 2  ;Internacional;0.0;2.0;3;Aflitos;Recife
+2009;05/07/2009;18h30;9;Avaí;0 x 3  ;Palmeiras;0.0;3.0;3;Ressacada;Florianópolis
+2009;08/07/2009;21h50;9;Corinthians;4 x 2  ;Fluminense;4.0;2.0;1;Pacaembu;São Paulo
+2009;12/07/2009;16h00;10;São Paulo;2 x 2  ;Flamengo;2.0;2.0;2;Morumbi;São Paulo
+2009;12/07/2009;16h00;10;Atlético-PR;3 x 2  ;Internacional;3.0;2.0;1;Arena da Baixada;Curitiba
+2009;12/07/2009;16h00;10;Grêmio;3 x 0  ;Corinthians;3.0;0.0;1;Olímpico Monumental;Porto Alegre
+2009;12/07/2009;16h00;10;Cruzeiro;0 x 3  ;Atlético-MG;0.0;3.0;3;Mineirão;Belo Horizonte
+2009;11/07/2009;18h30;10;Palmeiras;4 x 1  ;Náutico;4.0;1.0;1;Arena Palestra;São Paulo
+2009;11/07/2009;18h30;10;Grêmio Barueri;3 x 1  ;Coritiba;3.0;1.0;1;Arena Barueri;Barueri
+2009;11/07/2009;18h30;10;Avaí;1 x 2  ;Botafogo;1.0;2.0;3;Ressacada;Florianópolis
+2009;12/07/2009;18h30;10;Fluminense;0 x 1  ;Santo André;0.0;1.0;3;Engenhão;Rio de Janeiro
+2009;12/07/2009;18h30;10;Vitória;6 x 2  ;Santos;6.0;2.0;1;Barradão;Salvador
+2009;12/07/2009;18h30;10;Sport;1 x 0  ;Goiás;1.0;0.0;1;Ilha do Retiro;Recife
+2009;15/07/2009;19h30;11;Coritiba;2 x 1  ;Grêmio;2.0;1.0;1;Couto Pereira;Curitiba
+2009;15/07/2009;19h30;11;Goiás;0 x 2  ;Avaí;0.0;2.0;3;Serra Dourada;Goiânia
+2009;15/07/2009;21h00;11;Santos;3 x 3  ;Grêmio Barueri;3.0;3.0;2;Vila Belmiro;Santos
+2009;15/07/2009;21h00;11;Santo André;1 x 0  ;Atlético-PR;1.0;0.0;1;Bruno José Daniel;Santo André
+2009;16/07/2009;21h00;11;Corinthians;4 x 3  ;Sport;4.0;3.0;1;Pacaembu;São Paulo
+2009;16/07/2009;21h00;11;Náutico;1 x 1  ;Vitória;1.0;1.0;2;Aflitos;Recife
+2009;16/07/2009;21h00;11;Atlético-MG;2 x 0  ;São Paulo;2.0;0.0;1;Mineirão;Belo Horizonte
+2009;27/08/2009;21h00;11;Botafogo;1 x 1  ;Cruzeiro;1.0;1.0;2;Engenhão;Rio de Janeiro
+2009;15/07/2009;21h50;11;Internacional;4 x 2  ;Fluminense;4.0;2.0;1;Beira-Rio;Porto Alegre
+2009;15/07/2009;21h50;11;Flamengo;1 x 2  ;Palmeiras;1.0;2.0;3;Maracanã;Rio De Janeiro
+2009;19/07/2009;16h00;12;São Paulo;2 x 1  ;Santos;2.0;1.0;1;Morumbi;São Paulo
+2009;19/07/2009;16h00;12;Atlético-PR;0 x 0  ;Coritiba;0.0;0.0;2;Arena da Baixada;Curitiba
+2009;19/07/2009;16h00;12;Grêmio;2 x 1  ;Internacional;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2009;19/07/2009;16h00;12;Vitória;0 x 0  ;Atlético-MG;0.0;0.0;2;Barradão;Salvador
+2009;19/07/2009;16h00;12;Cruzeiro;1 x 2  ;Corinthians;1.0;2.0;3;Mineirão;Belo Horizonte
+2009;18/07/2009;18h30;12;Palmeiras;1 x 0  ;Santo André;1.0;0.0;1;Arena Palestra;São Paulo
+2009;18/07/2009;18h30;12;Fluminense;1 x 4  ;Goiás;1.0;4.0;3;Maracanã;Rio De Janeiro
+2009;19/07/2009;18h30;12;Flamengo;2 x 2  ;Botafogo;2.0;2.0;2;Maracanã;Rio de Janeiro
+2009;19/07/2009;18h30;12;Grêmio Barueri;4 x 0  ;Náutico;4.0;0.0;1;Arena Barueri;Barueri
+2009;19/07/2009;18h30;12;Sport;1 x 3  ;Avaí;1.0;3.0;3;Ilha do Retiro;Recife
+2009;22/07/2009;19h30;13;Santo André;0 x 2  ;Cruzeiro;0.0;2.0;3;Bruno José Daniel;Santo André
+2009;22/07/2009;19h30;13;Flamengo;1 x 1  ;Grêmio Barueri;1.0;1.0;2;Maracanã;Rio de Janeiro
+2009;22/07/2009;19h30;13;Avaí;1 x 0  ;Grêmio;1.0;0.0;1;Ressacada;Florianópolis
+2009;22/07/2009;21h00;13;Santos;1 x 0  ;Atlético-PR;1.0;0.0;1;Vila Belmiro;Santos
+2009;23/07/2009;21h00;13;Corinthians;2 x 1  ;Vitória;2.0;1.0;1;Pacaembu;São Paulo
+2009;23/07/2009;21h00;13;Coritiba;1 x 1  ;Sport;1.0;1.0;2;Couto Pereira;Curitiba
+2009;23/07/2009;21h00;13;Atlético-MG;2 x 1  ;Fluminense;2.0;1.0;1;Mineirão;Belo Horizonte
+2009;22/07/2009;21h50;13;Internacional;2 x 2  ;São Paulo;2.0;2.0;2;Beira-Rio;Porto Alegre
+2009;22/07/2009;21h50;13;Goiás;2 x 1  ;Palmeiras;2.0;1.0;1;Serra Dourada;Goiânia
+2009;22/07/2009;21h50;13;Náutico;2 x 2  ;Botafogo;2.0;2.0;2;Aflitos;Recife
+2009;26/07/2009;16h00;14;Corinthians;0 x 3  ;Palmeiras;0.0;3.0;3;Paulo Constantino;Presidente Prudente
+2009;26/07/2009;16h00;14;Santos;1 x 2  ;Flamengo;1.0;2.0;3;Vila Belmiro;Santos
+2009;26/07/2009;16h00;14;Sport;3 x 3  ;Náutico;3.0;3.0;2;Ilha do Retiro;Recife
+2009;26/07/2009;16h00;14;Atlético-MG;0 x 1  ;Goiás;0.0;1.0;3;Mineirão;Belo Horizonte
+2009;25/07/2009;18h30;14;Atlético-PR;1 x 3  ;Avaí;1.0;3.0;3;Arena da Baixada;Curitiba
+2009;25/07/2009;18h30;14;Grêmio;3 x 2  ;Santo André;3.0;2.0;1;Olímpico Monumental;Porto Alegre
+2009;25/07/2009;18h30;14;Botafogo;3 x 2  ;Internacional;3.0;2.0;1;Engenhão;Rio De Janeiro
+2009;26/07/2009;18h30;14;Grêmio Barueri;1 x 2  ;São Paulo;1.0;2.0;3;Arena Barueri;Barueri
+2009;26/07/2009;18h30;14;Fluminense;1 x 1  ;Cruzeiro;1.0;1.0;2;Maracanã;Rio De Janeiro
+2009;26/07/2009;18h30;14;Vitória;1 x 0  ;Coritiba;1.0;0.0;1;Barradão;Salvador
+2009;29/07/2009;19h30;15;Coritiba;2 x 2  ;Botafogo;2.0;2.0;2;Couto Pereira;Curitiba
+2009;29/07/2009;19h30;15;Náutico;1 x 2  ;Santos;1.0;2.0;3;Aflitos;Recife
+2009;29/07/2009;21h00;15;Internacional;3 x 2  ;Grêmio Barueri;3.0;2.0;1;Beira-Rio;Porto Alegre
+2009;29/07/2009;21h00;15;Goiás;3 x 0  ;Atlético-PR;3.0;0.0;1;Serra Dourada;Goiânia
+2009;30/07/2009;21h00;15;São Paulo;2 x 1  ;Grêmio;2.0;1.0;1;Morumbi;São Paulo
+2009;30/07/2009;21h00;15;Flamengo;3 x 1  ;Atlético-MG;3.0;1.0;1;Maracanã;Rio De Janeiro
+2009;30/07/2009;21h00;15;Avaí;4 x 0  ;Vitória;4.0;0.0;1;Ressacada;Florianópolis
+2009;29/07/2009;21h50;15;Palmeiras;1 x 0  ;Fluminense;1.0;0.0;1;Arena Palestra;São Paulo
+2009;29/07/2009;21h50;15;Santo André;1 x 1  ;Corinthians;1.0;1.0;2;Teixeirão;São José do Rio Preto
+2009;29/07/2009;21h50;15;Cruzeiro;1 x 0  ;Sport;1.0;0.0;1;Mineirão;Belo Horizonte
+2009;02/08/2009;16h00;16;Corinthians;0 x 0  ;Avaí;0.0;0.0;2;Pacaembu;São Paulo
+2009;02/08/2009;16h00;16;Atlético-PR;1 x 0  ;Fluminense;1.0;0.0;1;Café;Londrina
+2009;02/08/2009;16h00;16;Flamengo;1 x 1  ;Náutico;1.0;1.0;2;Maracanã;Rio De Janeiro
+2009;02/08/2009;16h00;16;Vitória;0 x 1  ;São Paulo;0.0;1.0;3;Barradão;Salvador
+2009;01/08/2009;18h30;16;Sport;0 x 1  ;Palmeiras;0.0;1.0;3;Ilha do Retiro;Recife
+2009;01/08/2009;18h30;16;Botafogo;2 x 1  ;Grêmio Barueri;2.0;1.0;1;Engenhão;Rio De Janeiro
+2009;02/08/2009;18h30;16;Santo André;1 x 2  ;Goiás;1.0;2.0;3;Anacleto Campanella;São Caetano do Sul
+2009;02/08/2009;18h30;16;Grêmio;4 x 1  ;Cruzeiro;4.0;1.0;1;Olímpico Monumental;Porto Alegre
+2009;02/08/2009;18h30;16;Atlético-MG;3 x 2  ;Coritiba;3.0;2.0;1;Mineirão;Belo Horizonte
+2009;26/08/2009;21h00;16;Santos;3 x 3  ;Internacional;3.0;3.0;2;Vila Belmiro;Santos
+2009;05/08/2009;19h30;17;Cruzeiro;0 x 2  ;Atlético-PR;0.0;2.0;3;Mineirão;Belo Horizonte
+2009;05/08/2009;21h00;17;São Paulo;3 x 1  ;Botafogo;3.0;1.0;1;Morumbi;São Paulo
+2009;05/08/2009;21h00;17;Avaí;1 x 0  ;Santo André;1.0;0.0;1;Ressacada;Florianópolis
+2009;06/08/2009;21h00;17;Palmeiras;1 x 1  ;Grêmio;1.0;1.0;2;Arena Palestra;São Paulo
+2009;06/08/2009;21h00;17;Grêmio Barueri;4 x 0  ;Vitória;4.0;0.0;1;Arena Barueri;Barueri
+2009;06/08/2009;21h00;17;Fluminense;5 x 1  ;Sport;5.0;1.0;1;Maracanã;Rio de Janeiro
+2009;02/09/2009;21h00;17;Internacional;3 x 0  ;Atlético-MG;3.0;0.0;1;Beira-Rio;Porto Alegre
+2009;05/08/2009;21h50;17;Coritiba;0 x 1  ;Santos;0.0;1.0;3;Olímpico Regional;Cascavel
+2009;05/08/2009;21h50;17;Goiás;3 x 2  ;Flamengo;3.0;2.0;1;Serra Dourada;Goiânia
+2009;05/08/2009;21h50;17;Náutico;1 x 0  ;Corinthians;1.0;0.0;1;Aflitos;Recife
+2009;09/08/2009;16h00;18;Flamengo;1 x 0  ;Corinthians;1.0;0.0;1;Maracanã;Rio De Janeiro
+2009;09/08/2009;16h00;18;Vitória;2 x 2  ;Fluminense;2.0;2.0;2;Barradão;Salvador
+2009;08/08/2009;18h30;18;Santos;2 x 2  ;Avaí;2.0;2.0;2;Vila Belmiro;Santos
+2009;08/08/2009;18h30;18;Náutico;2 x 1  ;Santo André;2.0;1.0;1;Lacerdão;Caruaru
+2009;08/08/2009;18h30;18;Botafogo;0 x 1  ;Atlético-PR;0.0;1.0;3;Engenhão;Rio De Janeiro
+2009;09/08/2009;18h30;18;São Paulo;3 x 1  ;Goiás;3.0;1.0;1;Morumbi;São Paulo
+2009;09/08/2009;18h30;18;Grêmio Barueri;1 x 0  ;Grêmio;1.0;0.0;1;Arena Barueri;Barueri
+2009;09/08/2009;18h30;18;Coritiba;1 x 3  ;Cruzeiro;1.0;3.0;3;Couto Pereira;Curitiba
+2009;10/08/2009;21h00;18;Internacional;3 x 0  ;Sport;3.0;0.0;1;Beira-Rio;Porto Alegre
+2009;12/08/2009;21h50;18;Atlético-MG;1 x 1  ;Palmeiras;1.0;1.0;2;Mineirão;Belo Horizonte
+2009;16/08/2009;16h00;19;Corinthians;2 x 0  ;Atlético-MG;2.0;0.0;1;Pacaembu;São Paulo
+2009;16/08/2009;16h00;19;Grêmio;4 x 1  ;Flamengo;4.0;1.0;1;Olímpico Monumental;Porto Alegre
+2009;16/08/2009;16h00;19;Fluminense;1 x 3  ;Coritiba;1.0;3.0;3;Maracanã;Rio De Janeiro
+2009;16/08/2009;16h00;19;Goiás;3 x 2  ;Vitória;3.0;2.0;1;Serra Dourada;Goiânia
+2009;16/08/2009;16h00;19;Sport;1 x 2  ;São Paulo;1.0;2.0;3;Ilha do Retiro;Recife
+2009;15/08/2009;18h30;19;Palmeiras;1 x 1  ;Botafogo;1.0;1.0;2;Arena Palestra;São Paulo
+2009;15/08/2009;18h30;19;Santo André;0 x 2  ;Internacional;0.0;2.0;3;Bruno José Daniel;Santo André
+2009;15/08/2009;18h30;19;Avaí;2 x 1  ;Náutico;2.0;1.0;1;Ressacada;Florianópolis
+2009;16/08/2009;18h30;19;Atlético-PR;3 x 0  ;Grêmio Barueri;3.0;0.0;1;Arena da Baixada;Curitiba
+2009;16/08/2009;18h30;19;Cruzeiro;0 x 0  ;Santos;0.0;0.0;2;Mineirão;Belo Horizonte
+2009;19/08/2009;19h30;20;Santos;1 x 0  ;Grêmio;1.0;0.0;1;Vila Belmiro;Santos
+2009;19/08/2009;19h30;20;Vitória;2 x 1  ;Atlético-PR;2.0;1.0;1;Barradão;Salvador
+2009;19/08/2009;19h30;20;Botafogo;1 x 2  ;Santo André;1.0;2.0;3;Engenhão;Rio de Janeiro
+2009;19/08/2009;21h00;20;Grêmio Barueri;2 x 1  ;Sport;2.0;1.0;1;Arena Barueri;Barueri
+2009;20/08/2009;21h00;20;Flamengo;1 x 2  ;Cruzeiro;1.0;2.0;3;Maracanã;Rio de Janeiro
+2009;20/08/2009;21h00;20;Náutico;2 x 0  ;Goiás;2.0;0.0;1;Aflitos;Recife
+2009;20/08/2009;21h00;20;Atlético-MG;2 x 2  ;Avaí;2.0;2.0;2;Mineirão;Belo Horizonte
+2009;19/08/2009;21h50;20;São Paulo;1 x 0  ;Fluminense;1.0;0.0;1;Morumbi;São Paulo
+2009;19/08/2009;21h50;20;Coritiba;1 x 0  ;Palmeiras;1.0;0.0;1;Couto Pereira;Curitiba
+2009;19/08/2009;21h50;20;Internacional;1 x 2  ;Corinthians;1.0;2.0;3;Beira-Rio;Porto Alegre
+2009;23/08/2009;16h00;21;Corinthians;3 x 3  ;Botafogo;3.0;3.0;2;Pacaembu;São Paulo
+2009;23/08/2009;16h00;21;Atlético-PR;1 x 0  ;São Paulo;1.0;0.0;1;Arena da Baixada;Curitiba
+2009;23/08/2009;16h00;21;Grêmio;4 x 1  ;Atlético-MG;4.0;1.0;1;Olímpico Monumental;Porto Alegre
+2009;23/08/2009;16h00;21;Fluminense;0 x 0  ;Grêmio Barueri;0.0;0.0;2;Maracanã;Rio de Janeiro
+2009;22/08/2009;18h30;21;Palmeiras;2 x 1  ;Internacional;2.0;1.0;1;Arena Palestra;São Paulo
+2009;22/08/2009;18h30;21;Santo André;1 x 0  ;Coritiba;1.0;0.0;1;Bruno José Daniel;Santo André
+2009;22/08/2009;18h30;21;Sport;2 x 0  ;Vitória;2.0;0.0;1;Ilha do Retiro;Recife
+2009;23/08/2009;18h30;21;Goiás;2 x 1  ;Santos;2.0;1.0;1;Serra Dourada;Goiânia
+2009;23/08/2009;18h30;21;Cruzeiro;4 x 2  ;Náutico;4.0;2.0;1;Mineirão;Belo Horizonte
+2009;23/08/2009;18h30;21;Avaí;3 x 0  ;Flamengo;3.0;0.0;1;Ressacada;Florianópolis
+2009;30/08/2009;16h00;22;São Paulo;0 x 0  ;Palmeiras;0.0;0.0;2;Morumbi;São Paulo
+2009;30/08/2009;16h00;22;Santos;2 x 0  ;Fluminense;2.0;0.0;1;Vila Belmiro;Santos
+2009;30/08/2009;16h00;22;Atlético-MG;1 x 1  ;Sport;1.0;1.0;2;Mineirão;Belo Horizonte
+2009;29/08/2009;18h30;22;Coritiba;2 x 0  ;Avaí;2.0;0.0;1;Couto Pereira;Curitiba
+2009;29/08/2009;18h30;22;Flamengo;3 x 0  ;Santo André;3.0;0.0;1;Maracanã;Rio De Janeiro
+2009;29/08/2009;18h30;22;Náutico;3 x 0  ;Atlético-PR;3.0;0.0;1;Aflitos;Recife
+2009;30/08/2009;18h30;22;Internacional;4 x 0  ;Goiás;4.0;0.0;1;Beira-Rio;Porto Alegre
+2009;30/08/2009;18h30;22;Vitória;3 x 3  ;Cruzeiro;3.0;3.0;2;Barradão;Salvador
+2009;30/08/2009;18h30;22;Botafogo;3 x 3  ;Grêmio;3.0;3.0;2;Engenhão;Rio de Janeiro
+2009;26/08/2009;21h50;22;Grêmio Barueri;2 x 2  ;Corinthians;2.0;2.0;2;Arena Barueri;Barueri
+2009;06/09/2009;16h00;23;Atlético-PR;0 x 0  ;Flamengo;0.0;0.0;2;Arena da Baixada;Curitiba
+2009;06/09/2009;16h00;23;Goiás;2 x 2  ;Coritiba;2.0;2.0;2;Serra Dourada;Goiânia
+2009;06/09/2009;16h00;23;Cruzeiro;1 x 2  ;São Paulo;1.0;2.0;3;Mineirão;Belo Horizonte
+2009;05/09/2009;18h30;23;Palmeiras;2 x 1  ;Grêmio Barueri;2.0;1.0;1;Arena Palestra;São Paulo
+2009;05/09/2009;18h30;23;Grêmio;1 x 1  ;Vitória;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2009;05/09/2009;18h30;23;Sport;2 x 1  ;Botafogo;2.0;1.0;1;Ilha do Retiro;Recife
+2009;06/09/2009;18h30;23;Santo André;1 x 2  ;Atlético-MG;1.0;2.0;3;Bruno José Daniel;Santo André
+2009;06/09/2009;18h30;23;Fluminense;1 x 1  ;Náutico;1.0;1.0;2;Maracanã;Rio De Janeiro
+2009;06/09/2009;18h30;23;Avaí;0 x 2  ;Internacional;0.0;2.0;3;Ressacada;Florianópolis
+2009;02/09/2009;21h50;23;Corinthians;2 x 1  ;Santos;2.0;1.0;1;Pacaembu;São Paulo
+2009;13/09/2009;16h00;24;Santos;1 x 0  ;Santo André;1.0;0.0;1;Vila Belmiro;Santos
+2009;13/09/2009;16h00;24;Internacional;2 x 3  ;Cruzeiro;2.0;3.0;3;Beira-Rio;Porto Alegre
+2009;13/09/2009;16h00;24;Vitória;3 x 2  ;Palmeiras;3.0;2.0;1;Barradão;Salvador
+2009;13/09/2009;16h00;24;Atlético-MG;2 x 1  ;Atlético-PR;2.0;1.0;1;Mineirão;Belo Horizonte
+2009;12/09/2009;18h30;24;São Paulo;2 x 0  ;Avaí;2.0;0.0;1;Morumbi;São Paulo
+2009;12/09/2009;18h30;24;Flamengo;3 x 0  ;Sport;3.0;0.0;1;Maracanã;Rio de Janeiro
+2009;13/09/2009;18h30;24;Grêmio Barueri;3 x 1  ;Goiás;3.0;1.0;1;Arena Barueri;Barueri
+2009;13/09/2009;18h30;24;Náutico;0 x 2  ;Grêmio;0.0;2.0;3;Aflitos;Recife
+2009;13/09/2009;18h30;24;Botafogo;0 x 0  ;Fluminense;0.0;0.0;2;Engenhão;Rio de Janeiro
+2009;16/09/2009;21h50;24;Coritiba;1 x 1  ;Corinthians;1.0;1.0;2;Couto Pereira;Curitiba
+2009;20/09/2009;16h00;25;Santo André;1 x 1  ;São Paulo;1.0;1.0;2;Santa Cruz;Ribeirão Preto
+2009;20/09/2009;16h00;25;Grêmio;5 x 1  ;Fluminense;5.0;1.0;1;Olímpico Monumental;Porto Alegre
+2009;20/09/2009;16h00;25;Avaí;4 x 0  ;Grêmio Barueri;4.0;0.0;1;Ressacada;Florianópolis
+2009;19/09/2009;18h30;25;Atlético-PR;1 x 0  ;Sport;1.0;0.0;1;Arena da Baixada;Curitiba
+2009;19/09/2009;18h30;25;Vitória;2 x 0  ;Internacional;2.0;0.0;1;Barradão;Salvador
+2009;19/09/2009;18h30;25;Náutico;0 x 0  ;Atlético-MG;0.0;0.0;2;Aflitos;Recife
+2009;20/09/2009;18h30;25;Corinthians;1 x 4  ;Goiás;1.0;4.0;3;Pacaembu;São Paulo
+2009;20/09/2009;18h30;25;Santos;0 x 0  ;Botafogo;0.0;0.0;2;Vila Belmiro;Santos
+2009;20/09/2009;18h30;25;Flamengo;3 x 0  ;Coritiba;3.0;0.0;1;Maracanã;Rio de Janeiro
+2009;23/09/2009;21h50;25;Cruzeiro;1 x 2  ;Palmeiras;1.0;2.0;3;Mineirão;Belo Horizonte
+2009;27/09/2009;16h00;26;São Paulo;1 x 1  ;Corinthians;1.0;1.0;2;Morumbi;São Paulo
+2009;27/09/2009;16h00;26;Coritiba;2 x 0  ;Náutico;2.0;0.0;1;Couto Pereira;Curitiba
+2009;27/09/2009;16h00;26;Internacional;0 x 0  ;Flamengo;0.0;0.0;2;Beira-Rio;Porto Alegre
+2009;27/09/2009;16h00;26;Fluminense;3 x 2  ;Avaí;3.0;2.0;1;Maracanã;Rio de Janeiro
+2009;27/09/2009;16h00;26;Goiás;2 x 1  ;Grêmio;2.0;1.0;1;Serra Dourada;Goiânia
+2009;26/09/2009;18h30;26;Palmeiras;2 x 1  ;Atlético-PR;2.0;1.0;1;Arena Palestra;São Paulo
+2009;26/09/2009;18h30;26;Grêmio Barueri;0 x 1  ;Cruzeiro;0.0;1.0;3;Arena Barueri;Barueri
+2009;27/09/2009;18h30;26;Sport;2 x 1  ;Santo André;2.0;1.0;1;Ilha do Retiro;Recife
+2009;27/09/2009;18h30;26;Atlético-MG;3 x 1  ;Santos;3.0;1.0;1;Mineirão;Belo Horizonte
+2009;27/09/2009;18h30;26;Botafogo;1 x 3  ;Vitória;1.0;3.0;3;Engenhão;Rio De Janeiro
+2009;04/10/2009;16h00;27;Santos;1 x 3  ;Palmeiras;1.0;3.0;3;Vila Belmiro;Santos
+2009;04/10/2009;16h00;27;Grêmio;3 x 3  ;Sport;3.0;3.0;2;Olímpico Monumental;Porto Alegre
+2009;04/10/2009;16h00;27;Goiás;1 x 3  ;Botafogo;1.0;3.0;3;Serra Dourada;Goiânia
+2009;03/10/2009;18h30;27;Corinthians;1 x 3  ;Atlético-PR;1.0;3.0;3;Pacaembu;São Paulo
+2009;03/10/2009;18h30;27;Santo André;1 x 0  ;Vitória;1.0;0.0;1;Bruno José Daniel;Santo André
+2009;03/10/2009;18h30;27;Atlético-MG;2 x 1  ;Grêmio Barueri;2.0;1.0;1;Mineirão;Belo Horizonte
+2009;04/10/2009;18h30;27;Coritiba;2 x 0  ;Internacional;2.0;0.0;1;Couto Pereira;Curitiba
+2009;04/10/2009;18h30;27;Flamengo;2 x 0  ;Fluminense;2.0;0.0;1;Maracanã;Rio De Janeiro
+2009;04/10/2009;18h30;27;Avaí;2 x 2  ;Cruzeiro;2.0;2.0;2;Ressacada;Florianópolis
+2009;30/09/2009;21h50;27;Náutico;1 x 2  ;São Paulo;1.0;2.0;3;Aflitos;Recife
+2009;07/10/2009;19h30;28;Grêmio Barueri;0 x 0  ;Santo André;0.0;0.0;2;Arena Barueri;Barueri
+2009;07/10/2009;19h30;28;Sport;0 x 1  ;Santos;0.0;1.0;3;Ilha do Retiro;Recife
+2009;07/10/2009;21h00;28;São Paulo;2 x 2  ;Coritiba;2.0;2.0;2;Morumbi;São Paulo
+2009;07/10/2009;21h00;28;Atlético-PR;0 x 0  ;Grêmio;0.0;0.0;2;Arena da Baixada;Curitiba
+2009;08/10/2009;21h00;28;Palmeiras;2 x 2  ;Avaí;2.0;2.0;2;Arena Palestra;São Paulo
+2009;08/10/2009;21h00;28;Cruzeiro;3 x 0  ;Goiás;3.0;0.0;1;Mineirão;Belo Horizonte
+2009;08/10/2009;21h00;28;Botafogo;3 x 1  ;Atlético-MG;3.0;1.0;1;Engenhão;Rio De Janeiro
+2009;07/10/2009;21h50;28;Internacional;3 x 1  ;Náutico;3.0;1.0;1;Beira-Rio;Porto Alegre
+2009;07/10/2009;21h50;28;Fluminense;1 x 1  ;Corinthians;1.0;1.0;2;Maracanã;Rio de Janeiro
+2009;07/10/2009;21h50;28;Vitória;3 x 3  ;Flamengo;3.0;3.0;2;Barradão;Salvador
+2009;12/10/2009;16h00;29;Santos;0 x 0  ;Vitória;0.0;0.0;2;Pacaembu;São Paulo
+2009;12/10/2009;16h00;29;Goiás;1 x 1  ;Sport;1.0;1.0;2;Serra Dourada;Goiânia
+2009;12/10/2009;16h00;29;Náutico;3 x 0  ;Palmeiras;3.0;0.0;1;Aflitos;Recife
+2009;12/10/2009;16h00;29;Atlético-MG;0 x 1  ;Cruzeiro;0.0;1.0;3;Mineirão;Belo Horizonte
+2009;12/10/2009;16h00;29;Botafogo;2 x 2  ;Avaí;2.0;2.0;2;Engenhão;Rio de Janeiro
+2009;10/10/2009;16h10;29;Corinthians;2 x 1  ;Grêmio;2.0;1.0;1;Pacaembu;São Paulo
+2009;10/10/2009;16h10;29;Santo André;1 x 2  ;Fluminense;1.0;2.0;3;Bruno José Daniel;Santo André
+2009;10/10/2009;16h10;29;Flamengo;2 x 1  ;São Paulo;2.0;1.0;1;Maracanã;Rio de Janeiro
+2009;10/10/2009;18h30;29;Coritiba;1 x 2  ;Grêmio Barueri;1.0;2.0;3;Couto Pereira;Curitiba
+2009;10/10/2009;18h30;29;Internacional;1 x 1  ;Atlético-PR;1.0;1.0;2;Beira-Rio;Porto Alegre
+2009;18/10/2009;16h00;30;Palmeiras;0 x 2  ;Flamengo;0.0;2.0;3;Arena Palestra;São Paulo
+2009;18/10/2009;16h00;30;Grêmio;2 x 0  ;Coritiba;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2009;18/10/2009;16h00;30;Fluminense;2 x 2  ;Internacional;2.0;2.0;2;Maracanã;Rio de Janeiro
+2009;18/10/2009;16h00;30;Sport;2 x 0  ;Corinthians;2.0;0.0;1;Ilha do Retiro;Recife
+2009;17/10/2009;18h30;30;São Paulo;0 x 1  ;Atlético-MG;0.0;1.0;3;Morumbi;São Paulo
+2009;17/10/2009;18h30;30;Grêmio Barueri;0 x 0  ;Santos;0.0;0.0;2;Arena Barueri;Barueri
+2009;17/10/2009;18h30;30;Avaí;2 x 1  ;Goiás;2.0;1.0;1;Ressacada;Florianópolis
+2009;18/10/2009;18h30;30;Atlético-PR;3 x 0  ;Santo André;3.0;0.0;1;Arena da Baixada;Curitiba
+2009;18/10/2009;18h30;30;Vitória;3 x 1  ;Náutico;3.0;1.0;1;Barradão;Salvador
+2009;18/10/2009;18h30;30;Cruzeiro;1 x 0  ;Botafogo;1.0;0.0;1;Mineirão;Belo Horizonte
+2009;25/10/2009;16h00;31;Santos;3 x 4  ;São Paulo;3.0;4.0;3;Vila Belmiro;Santos
+2009;25/10/2009;16h00;31;Coritiba;3 x 2  ;Atlético-PR;3.0;2.0;1;Couto Pereira;Curitiba
+2009;25/10/2009;16h00;31;Internacional;1 x 0  ;Grêmio;1.0;0.0;1;Beira-Rio;Porto Alegre
+2009;25/10/2009;16h00;31;Goiás;2 x 2  ;Fluminense;2.0;2.0;2;Serra Dourada;Goiânia
+2009;24/10/2009;18h30;31;Náutico;2 x 1  ;Grêmio Barueri;2.0;1.0;1;Aflitos;Recife
+2009;24/10/2009;18h30;31;Atlético-MG;1 x 0  ;Vitória;1.0;0.0;1;Mineirão;Belo Horizonte
+2009;25/10/2009;18h30;31;Corinthians;0 x 1  ;Cruzeiro;0.0;1.0;3;Pacaembu;São Paulo
+2009;25/10/2009;18h30;31;Avaí;2 x 2  ;Sport;2.0;2.0;2;Ressacada;Florianópolis
+2009;25/10/2009;18h30;31;Botafogo;0 x 1  ;Flamengo;0.0;1.0;3;Engenhão;Rio de Janeiro
+2009;21/10/2009;21h50;31;Santo André;2 x 0  ;Palmeiras;2.0;0.0;1;Bruno José Daniel;Santo André
+2009;28/10/2009;19h30;32;Atlético-PR;1 x 1  ;Santos;1.0;1.0;2;Arena da Baixada;Curitiba
+2009;28/10/2009;19h30;32;Botafogo;1 x 0  ;Náutico;1.0;0.0;1;Engenhão;Rio De Janeiro
+2009;28/10/2009;21h00;32;Grêmio;3 x 1  ;Avaí;3.0;1.0;1;Olímpico Monumental;Porto Alegre
+2009;28/10/2009;21h00;32;Cruzeiro;3 x 2  ;Santo André;3.0;2.0;1;Mineirão;Belo Horizonte
+2009;29/10/2009;21h00;32;Palmeiras;4 x 0  ;Goiás;4.0;0.0;1;Arena Palestra;São Paulo
+2009;29/10/2009;21h00;32;Fluminense;2 x 1  ;Atlético-MG;2.0;1.0;1;Maracanã;Rio de Janeiro
+2009;29/10/2009;21h00;32;Sport;1 x 1  ;Coritiba;1.0;1.0;2;Ilha do Retiro;Recife
+2009;28/10/2009;21h50;32;São Paulo;1 x 0  ;Internacional;1.0;0.0;1;Morumbi;São Paulo
+2009;28/10/2009;21h50;32;Grêmio Barueri;2 x 0  ;Flamengo;2.0;0.0;1;Arena Barueri;Barueri
+2009;28/10/2009;21h50;32;Vitória;0 x 1  ;Corinthians;0.0;1.0;3;Barradão;Salvador
+2009;01/11/2009;16h00;33;Palmeiras;2 x 2  ;Corinthians;2.0;2.0;2;Paulo Constantino;Presidente Prudente
+2009;01/11/2009;16h00;33;Coritiba;1 x 0  ;Vitória;1.0;0.0;1;Couto Pereira;Curitiba
+2009;01/11/2009;16h00;33;Internacional;0 x 1  ;Botafogo;0.0;1.0;3;Beira-Rio;Porto Alegre
+2009;01/11/2009;16h00;33;Goiás;2 x 3  ;Atlético-MG;2.0;3.0;3;Serra Dourada;Goiânia
+2009;31/10/2009;18h30;33;São Paulo;1 x 0  ;Grêmio Barueri;1.0;0.0;1;Morumbi;São Paulo
+2009;31/10/2009;18h30;33;Flamengo;1 x 0  ;Santos;1.0;0.0;1;Maracanã;Rio de Janeiro
+2009;31/10/2009;18h30;33;Avaí;2 x 0  ;Atlético-PR;2.0;0.0;1;Ressacada;Florianópolis
+2009;01/11/2009;18h30;33;Santo André;2 x 0  ;Grêmio;2.0;0.0;1;Bruno José Daniel;Santo André
+2009;01/11/2009;18h30;33;Náutico;3 x 2  ;Sport;3.0;2.0;1;Aflitos;Recife
+2009;01/11/2009;18h30;33;Cruzeiro;2 x 3  ;Fluminense;2.0;3.0;3;Mineirão;Belo Horizonte
+2009;08/11/2009;16h00;34;Corinthians;2 x 0  ;Santo André;2.0;0.0;1;Pacaembu;São Paulo
+2009;08/11/2009;16h00;34;Fluminense;1 x 0  ;Palmeiras;1.0;0.0;1;Maracanã;Rio de Janeiro
+2009;08/11/2009;16h00;34;Atlético-MG;1 x 3  ;Flamengo;1.0;3.0;3;Mineirão;Belo Horizonte
+2009;07/11/2009;18h30;34;Santos;3 x 1  ;Náutico;3.0;1.0;1;Pacaembu;São Paulo
+2009;07/11/2009;18h30;34;Vitória;0 x 1  ;Avaí;0.0;1.0;3;Barradão;Salvador
+2009;07/11/2009;18h30;34;Sport;2 x 3  ;Cruzeiro;2.0;3.0;3;Ilha do Retiro;Recife
+2009;08/11/2009;18h30;34;Grêmio Barueri;1 x 1  ;Internacional;1.0;1.0;2;Arena Barueri;Barueri
+2009;08/11/2009;18h30;34;Atlético-PR;2 x 0  ;Goiás;2.0;0.0;1;Arena da Baixada;Curitiba
+2009;08/11/2009;18h30;34;Botafogo;2 x 0  ;Coritiba;2.0;0.0;1;Engenhão;Rio de Janeiro
+2009;04/11/2009;21h50;34;Grêmio;1 x 1  ;São Paulo;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2009;15/11/2009;17h00;35;Grêmio Barueri;3 x 0  ;Botafogo;3.0;0.0;1;Arena Barueri;Barueri
+2009;15/11/2009;17h00;35;Náutico;0 x 2  ;Flamengo;0.0;2.0;3;Aflitos;Recife
+2009;15/11/2009;17h00;35;Avaí;3 x 1  ;Corinthians;3.0;1.0;1;Ressacada;Florianópolis
+2009;14/11/2009;19h30;35;São Paulo;2 x 0  ;Vitória;2.0;0.0;1;Morumbi;São Paulo
+2009;14/11/2009;19h30;35;Coritiba;2 x 1  ;Atlético-MG;2.0;1.0;1;Couto Pereira;Curitiba
+2009;15/11/2009;19h30;35;Cruzeiro;1 x 1  ;Grêmio;1.0;1.0;2;Mineirão;Belo Horizonte
+2009;15/11/2009;19h30;35;Internacional;3 x 1  ;Santos;3.0;1.0;1;Beira-Rio;Porto Alegre
+2009;15/11/2009;19h30;35;Fluminense;2 x 1  ;Atlético-PR;2.0;1.0;1;Maracanã;Rio de Janeiro
+2009;15/11/2009;19h30;35;Goiás;3 x 1  ;Santo André;3.0;1.0;1;Serra Dourada;Goiânia
+2009;11/11/2009;21h50;35;Palmeiras;2 x 2  ;Sport;2.0;2.0;2;Arena Palestra;São Paulo
+2009;22/11/2009;17h00;36;Santos;4 x 0  ;Coritiba;4.0;0.0;1;Vila Belmiro;Santos
+2009;22/11/2009;17h00;36;Santo André;4 x 2  ;Avaí;4.0;2.0;1;Bruno José Daniel;Santo André
+2009;22/11/2009;17h00;36;Sport;0 x 3  ;Fluminense;0.0;3.0;3;Ilha do Retiro;Recife
+2009;22/11/2009;17h00;36;Botafogo;3 x 2  ;São Paulo;3.0;2.0;1;Engenhão;Rio De Janeiro
+2009;21/11/2009;19h30;36;Corinthians;2 x 3  ;Náutico;2.0;3.0;3;Pacaembu;São Paulo
+2009;21/11/2009;19h30;36;Atlético-PR;1 x 1  ;Cruzeiro;1.0;1.0;2;Arena da Baixada;Curitiba
+2009;22/11/2009;19h30;36;Flamengo;0 x 0  ;Goiás;0.0;0.0;2;Maracanã;Rio De Janeiro
+2009;22/11/2009;19h30;36;Vitória;2 x 1  ;Grêmio Barueri;2.0;1.0;1;Barradão;Salvador
+2009;22/11/2009;19h30;36;Atlético-MG;0 x 1  ;Internacional;0.0;1.0;3;Mineirão;Belo Horizonte
+2009;18/11/2009;21h50;36;Grêmio;2 x 0  ;Palmeiras;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2009;29/11/2009;17h00;37;Corinthians;0 x 2  ;Flamengo;0.0;2.0;3;Brinco de Ouro;Campinas
+2009;29/11/2009;17h00;37;Palmeiras;3 x 1  ;Atlético-MG;3.0;1.0;1;Arena Palestra;São Paulo
+2009;29/11/2009;17h00;37;Santo André;5 x 3  ;Náutico;5.0;3.0;1;Bruno José Daniel;Santo André
+2009;29/11/2009;17h00;37;Atlético-PR;2 x 0  ;Botafogo;2.0;0.0;1;Arena da Baixada;Curitiba
+2009;29/11/2009;17h00;37;Grêmio;4 x 2  ;Grêmio Barueri;4.0;2.0;1;Olímpico Monumental;Porto Alegre
+2009;29/11/2009;17h00;37;Fluminense;4 x 0  ;Vitória;4.0;0.0;1;Maracanã;Rio de Janeiro
+2009;29/11/2009;17h00;37;Goiás;4 x 2  ;São Paulo;4.0;2.0;1;Serra Dourada;Goiânia
+2009;29/11/2009;17h00;37;Sport;1 x 2  ;Internacional;1.0;2.0;3;Ilha do Retiro;Recife
+2009;29/11/2009;17h00;37;Cruzeiro;4 x 1  ;Coritiba;4.0;1.0;1;Mineirão;Belo Horizonte
+2009;29/11/2009;17h00;37;Avaí;2 x 2  ;Santos;2.0;2.0;2;Ressacada;Florianópolis
+2009;06/12/2009;17h00;38;São Paulo;4 x 0  ;Sport;4.0;0.0;1;Morumbi;São Paulo
+2009;06/12/2009;17h00;38;Santos;1 x 2  ;Cruzeiro;1.0;2.0;3;Vila Belmiro;Santos
+2009;06/12/2009;17h00;38;Grêmio Barueri;0 x 0  ;Atlético-PR;0.0;0.0;2;Paulo Constantino;Presidente Prudente
+2009;06/12/2009;17h00;38;Coritiba;1 x 1  ;Fluminense;1.0;1.0;2;Couto Pereira;Curitiba
+2009;06/12/2009;17h00;38;Internacional;4 x 1  ;Santo André;4.0;1.0;1;Beira-Rio;Porto Alegre
+2009;06/12/2009;17h00;38;Flamengo;2 x 1  ;Grêmio;2.0;1.0;1;Maracanã;Rio de Janeiro
+2009;06/12/2009;17h00;38;Vitória;2 x 2  ;Goiás;2.0;2.0;2;Barradão;Salvador
+2009;06/12/2009;17h00;38;Botafogo;2 x 1  ;Palmeiras;2.0;1.0;1;Engenhão;Rio de Janeiro
+2009;05/12/2009;19h30;38;Náutico;0 x 1  ;Avaí;0.0;1.0;3;Aflitos;Recife
+2009;05/12/2009;19h30;38;Atlético-MG;0 x 3  ;Corinthians;0.0;3.0;3;Mineirão;Belo Horizonte

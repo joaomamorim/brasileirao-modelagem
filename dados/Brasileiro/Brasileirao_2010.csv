@@ -1,0 +1,381 @@
+ano;date;hour;round;home_team;score;away_team;placar_casa;placar_visitante;resultado;arena;state
+2010;09/05/2010;16h00;1;Flamengo;1 x 1  ;São Paulo;1.0;1.0;2;Maracanã;Rio de Janeiro
+2010;09/05/2010;16h00;1;Atlético-MG;2 x 1  ;Vasco;2.0;1.0;1;Mineirão;Belo Horizonte
+2010;09/05/2010;16h00;1;Internacional;1 x 2  ;Cruzeiro;1.0;2.0;3;Beira-Rio;Porto Alegre
+2010;09/05/2010;16h00;1;Corinthians;2 x 1  ;Atlético-PR;2.0;1.0;1;Pacaembu;São Paulo
+2010;08/05/2010;18h30;1;Botafogo;3 x 3  ;Santos;3.0;3.0;2;Engenhão;Rio de Janeiro
+2010;08/05/2010;18h30;1;Palmeiras;1 x 0  ;Vitória;1.0;0.0;1;Arena Palestra;São Paulo
+2010;08/05/2010;18h30;1;Atlético-GO;0 x 0  ;Grêmio;0.0;0.0;2;Serra Dourada;Goiânia
+2010;09/05/2010;18h30;1;Ceará;1 x 0  ;Fluminense;1.0;0.0;1;Castelão;Fortaleza
+2010;09/05/2010;18h30;1;Guarani;1 x 0  ;Goiás;1.0;0.0;1;Brinco de Ouro;Campinas
+2010;09/05/2010;18h30;1;Avaí;6 x 1  ;Grêmio Prudente;6.0;1.0;1;Ressacada;Florianópolis
+2010;16/05/2010;16h00;2;São Paulo;1 x 2  ;Botafogo;1.0;2.0;3;Morumbi;São Paulo
+2010;16/05/2010;16h00;2;Grêmio;1 x 2  ;Corinthians;1.0;2.0;3;Olímpico Monumental;Porto Alegre
+2010;16/05/2010;16h00;2;Goiás;2 x 3  ;Internacional;2.0;3.0;3;Serra Dourada;Goiânia
+2010;16/05/2010;16h00;2;Santos;1 x 1  ;Ceará;1.0;1.0;2;Vila Belmiro;Santos
+2010;15/05/2010;18h30;2;Fluminense;1 x 0  ;Atlético-GO;1.0;0.0;1;Maracanã;Rio de Janeiro
+2010;15/05/2010;18h30;2;Grêmio Prudente;4 x 0  ;Atlético-MG;4.0;0.0;1;Prudentão;Presidente Prudente
+2010;15/05/2010;18h30;2;Vitória;1 x 1  ;Flamengo;1.0;1.0;2;Barradão;Salvador
+2010;16/05/2010;18h30;2;Vasco;0 x 0  ;Palmeiras;0.0;0.0;2;São Januário;Rio de Janeiro
+2010;16/05/2010;18h30;2;Cruzeiro;2 x 2  ;Avaí;2.0;2.0;2;Mineirão;Belo Horizonte
+2010;16/05/2010;18h30;2;Atlético-PR;2 x 2  ;Guarani;2.0;2.0;2;Arena da Baixada;Curitiba
+2010;22/05/2010;16h00;3;Botafogo;3 x 0  ;Goiás;3.0;0.0;1;Engenhão;Rio de Janeiro
+2010;23/05/2010;16h00;3;Corinthians;1 x 0  ;Fluminense;1.0;0.0;1;Pacaembu;São Paulo
+2010;23/05/2010;16h00;3;Atlético-MG;3 x 1  ;Atlético-PR;3.0;1.0;1;Mineirão;Belo Horizonte
+2010;23/05/2010;16h00;3;Internacional;0 x 2  ;São Paulo;0.0;2.0;3;Beira-Rio;Porto Alegre
+2010;23/05/2010;16h00;3;Ceará;1 x 0  ;Vitória;1.0;0.0;1;Castelão;Fortaleza
+2010;22/05/2010;18h30;3;Atlético-GO;1 x 2  ;Santos;1.0;2.0;3;Serra Dourada;Goiânia
+2010;22/05/2010;18h30;3;Palmeiras;4 x 2  ;Grêmio;4.0;2.0;1;Arena Palestra;São Paulo
+2010;23/05/2010;18h30;3;Avaí;2 x 0  ;Vasco;2.0;0.0;1;Ressacada;Florianópolis
+2010;23/05/2010;18h30;3;Flamengo;3 x 1  ;Grêmio Prudente;3.0;1.0;1;Maracanã;Rio de Janeiro
+2010;23/05/2010;18h30;3;Guarani;2 x 2  ;Cruzeiro;2.0;2.0;2;Brinco de Ouro;Campinas
+2010;26/05/2010;19h30;4;Vitória;4 x 3  ;Atlético-MG;4.0;3.0;1;Barradão;Salvador
+2010;26/05/2010;19h30;4;Grêmio;3 x 0  ;Avaí;3.0;0.0;1;Olímpico Monumental;Porto Alegre
+2010;26/05/2010;19h30;4;Fluminense;2 x 1  ;Flamengo;2.0;1.0;1;Maracanã;Rio de Janeiro
+2010;26/05/2010;20h30;4;São Paulo;1 x 0  ;Palmeiras;1.0;0.0;1;Morumbi;São Paulo
+2010;27/05/2010;21h00;4;Vasco;3 x 2  ;Internacional;3.0;2.0;1;São Januário;Rio de Janeiro
+2010;27/05/2010;21h00;4;Atlético-PR;2 x 1  ;Atlético-GO;2.0;1.0;1;Arena da Baixada;Curitiba
+2010;27/05/2010;21h00;4;Goiás;0 x 0  ;Ceará;0.0;0.0;2;Serra Dourada;Goiânia
+2010;26/05/2010;21h50;4;Grêmio Prudente;2 x 2  ;Corinthians;2.0;2.0;2;Prudentão;Presidente Prudente
+2010;26/05/2010;21h50;4;Cruzeiro;1 x 0  ;Botafogo;1.0;0.0;1;Mineirão;Belo Horizonte
+2010;26/05/2010;21h50;4;Santos;3 x 1  ;Guarani;3.0;1.0;1;Vila Belmiro;Santos
+2010;30/05/2010;16h00;5;Corinthians;4 x 2  ;Santos;4.0;2.0;1;Pacaembu;São Paulo
+2010;30/05/2010;16h00;5;Guarani;0 x 0  ;São Paulo;0.0;0.0;2;Brinco de Ouro;Campinas
+2010;30/05/2010;16h00;5;Atlético-MG;1 x 3  ;Fluminense;1.0;3.0;3;Mineirão;Belo Horizonte
+2010;30/05/2010;16h00;5;Internacional;4 x 1  ;Atlético-PR;4.0;1.0;1;Beira-Rio;Porto Alegre
+2010;29/05/2010;18h30;5;Flamengo;1 x 1  ;Grêmio;1.0;1.0;2;Maracanã;Rio de Janeiro
+2010;29/05/2010;18h30;5;Palmeiras;0 x 0  ;Grêmio Prudente;0.0;0.0;2;Arena Barueri;Barueri
+2010;29/05/2010;18h30;5;Avaí;0 x 0  ;Vitória;0.0;0.0;2;Ressacada;Florianópolis
+2010;30/05/2010;18h30;5;Ceará;1 x 0  ;Cruzeiro;1.0;0.0;1;Castelão;Fortaleza
+2010;30/05/2010;18h30;5;Atlético-GO;1 x 3  ;Goiás;1.0;3.0;3;Serra Dourada;Goiânia
+2010;30/05/2010;18h30;5;Botafogo;1 x 1  ;Vasco;1.0;1.0;2;Engenhão;Rio de Janeiro
+2010;02/06/2010;19h30;6;Atlético-PR;3 x 2  ;Botafogo;3.0;2.0;1;Arena da Baixada;Curitiba
+2010;02/06/2010;19h30;6;Fluminense;2 x 1  ;Vitória;2.0;1.0;1;Maracanã;Rio de Janeiro
+2010;02/06/2010;19h30;6;Grêmio Prudente;1 x 0  ;Atlético-GO;1.0;0.0;1;Prudentão;Presidente Prudente
+2010;02/06/2010;21h00;6;Ceará;2 x 0  ;Avaí;2.0;0.0;1;Castelão;Fortaleza
+2010;03/06/2010;21h00;6;Grêmio;2 x 1  ;Atlético-MG;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2010;03/06/2010;21h00;6;Vasco;0 x 1  ;Guarani;0.0;1.0;3;São Januário;Rio de Janeiro
+2010;03/06/2010;21h00;6;Corinthians;2 x 0  ;Internacional;2.0;0.0;1;Pacaembu;São Paulo
+2010;02/06/2010;21h50;6;Palmeiras;0 x 1  ;Flamengo;0.0;1.0;3;Pacaembu;São Paulo
+2010;02/06/2010;21h50;6;Goiás;2 x 1  ;São Paulo;2.0;1.0;1;Serra Dourada;Goiânia
+2010;02/06/2010;21h50;6;Cruzeiro;0 x 0  ;Santos;0.0;0.0;2;Mineirão;Belo Horizonte
+2010;06/06/2010;16h00;7;São Paulo;3 x 1  ;Grêmio;3.0;1.0;1;Morumbi;São Paulo
+2010;06/06/2010;16h00;7;Santos;4 x 0  ;Vasco;4.0;0.0;1;Vila Belmiro;Santos
+2010;06/06/2010;16h00;7;Botafogo;2 x 2  ;Corinthians;2.0;2.0;2;Engenhão;Rio de Janeiro
+2010;06/06/2010;16h00;7;Atlético-MG;0 x 1  ;Ceará;0.0;1.0;3;Mineirão;Belo Horizonte
+2010;05/06/2010;18h30;7;Avaí;0 x 3  ;Fluminense;0.0;3.0;3;Ressacada;Florianópolis
+2010;05/06/2010;18h30;7;Flamengo;1 x 2  ;Goiás;1.0;2.0;3;Maracanã;Rio de Janeiro
+2010;05/06/2010;18h30;7;Vitória;1 x 0  ;Atlético-PR;1.0;0.0;1;Barradão;Salvador
+2010;06/06/2010;18h30;7;Internacional;1 x 1  ;Palmeiras;1.0;1.0;2;Beira-Rio;Porto Alegre
+2010;06/06/2010;18h30;7;Guarani;1 x 0  ;Grêmio Prudente;1.0;0.0;1;Brinco de Ouro;Campinas
+2010;06/06/2010;18h30;7;Atlético-GO;2 x 1  ;Cruzeiro;2.0;1.0;1;Serra Dourada;Goiânia
+2010;14/07/2010;19h30;8;Grêmio;1 x 1  ;Vitória;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2010;14/07/2010;19h30;8;Atlético-PR;0 x 2  ;Cruzeiro;0.0;2.0;3;Arena da Baixada;Curitiba
+2010;14/07/2010;19h30;8;São Paulo;1 x 2  ;Avaí;1.0;2.0;3;Morumbi;São Paulo
+2010;14/07/2010;21h00;8;Flamengo;1 x 0  ;Botafogo;1.0;0.0;1;Maracanã;Rio de Janeiro
+2010;15/07/2010;21h00;8;Palmeiras;2 x 1  ;Santos;2.0;1.0;1;Pacaembu;São Paulo
+2010;15/07/2010;21h00;8;Atlético-MG;3 x 2  ;Atlético-GO;3.0;2.0;1;Arena do Jacaré;Sete Lagoas
+2010;15/07/2010;21h00;8;Fluminense;1 x 1  ;Grêmio Prudente;1.0;1.0;2;Maracanã;Rio de Janeiro
+2010;14/07/2010;21h50;8;Guarani;0 x 3  ;Internacional;0.0;3.0;3;Brinco de Ouro;Campinas
+2010;14/07/2010;21h50;8;Goiás;0 x 0  ;Vasco;0.0;0.0;2;Serra Dourada;Goiânia
+2010;14/07/2010;21h50;8;Ceará;0 x 0  ;Corinthians;0.0;0.0;2;Castelão;Fortaleza
+2010;18/07/2010;16h00;9;Corinthians;1 x 0  ;Atlético-MG;1.0;0.0;1;Pacaembu;São Paulo
+2010;18/07/2010;16h00;9;Atlético-GO;0 x 1  ;Flamengo;0.0;1.0;3;Serra Dourada;Goiânia
+2010;18/07/2010;16h00;9;Avaí;4 x 2  ;Palmeiras;4.0;2.0;1;Ressacada;Florianópolis
+2010;18/07/2010;16h00;9;Internacional;2 x 1  ;Ceará;2.0;1.0;1;Beira-Rio;Porto Alegre
+2010;17/07/2010;18h30;9;Vitória;3 x 2  ;São Paulo;3.0;2.0;1;Barradão;Salvador
+2010;17/07/2010;18h30;9;Vasco;3 x 1  ;Atlético-PR;3.0;1.0;1;São Januário;Rio de Janeiro
+2010;18/07/2010;18h30;9;Cruzeiro;1 x 0  ;Goiás;1.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2010;18/07/2010;18h30;9;Santos;0 x 1  ;Fluminense;0.0;1.0;3;Vila Belmiro;Santos
+2010;18/07/2010;18h30;9;Botafogo;1 x 1  ;Guarani;1.0;1.0;2;Engenhão;Rio de Janeiro
+2010;18/07/2010;18h30;9;Grêmio Prudente;2 x 0  ;Grêmio;2.0;0.0;1;Prudentão;Presidente Prudente
+2010;21/07/2010;19h30;10;Atlético-MG;1 x 2  ;Internacional;1.0;2.0;3;Arena do Jacaré;Sete Lagoas
+2010;21/07/2010;19h30;10;Vitória;2 x 2  ;Goiás;2.0;2.0;2;Barradão;Salvador
+2010;21/07/2010;19h30;10;São Paulo;1 x 1  ;Grêmio Prudente;1.0;1.0;2;Morumbi;São Paulo
+2010;21/07/2010;21h00;10;Flamengo;1 x 1  ;Avaí;1.0;1.0;2;Maracanã;Rio de Janeiro
+2010;22/07/2010;21h00;10;Fluminense;1 x 0  ;Cruzeiro;1.0;0.0;1;Maracanã;Rio de Janeiro
+2010;22/07/2010;21h00;10;Guarani;1 x 1  ;Ceará;1.0;1.0;2;Brinco de Ouro;Campinas
+2010;22/07/2010;21h00;10;Palmeiras;2 x 2  ;Botafogo;2.0;2.0;2;Pacaembu;São Paulo
+2010;21/07/2010;21h50;10;Atlético-PR;2 x 0  ;Santos;2.0;0.0;1;Arena da Baixada;Curitiba
+2010;21/07/2010;21h50;10;Grêmio;1 x 1  ;Vasco;1.0;1.0;2;Olímpico Monumental;Porto Alegre
+2010;21/07/2010;21h50;10;Atlético-GO;3 x 1  ;Corinthians;3.0;1.0;1;Serra Dourada;Goiânia
+2010;25/07/2010;16h00;11;Santos;1 x 0  ;São Paulo;1.0;0.0;1;Vila Belmiro;Santos
+2010;25/07/2010;16h00;11;Cruzeiro;2 x 2  ;Grêmio;2.0;2.0;2;Arena do Jacaré;Sete Lagoas
+2010;25/07/2010;16h00;11;Internacional;1 x 0  ;Flamengo;1.0;0.0;1;Beira-Rio;Porto Alegre
+2010;25/07/2010;16h00;11;Goiás;0 x 2  ;Atlético-PR;0.0;2.0;3;Serra Dourada;Goiânia
+2010;24/07/2010;18h30;11;Avaí;0 x 0  ;Atlético-MG;0.0;0.0;2;Ressacada;Florianópolis
+2010;24/07/2010;18h30;11;Vasco;2 x 0  ;Atlético-GO;2.0;0.0;1;São Januário;Rio de Janeiro
+2010;24/07/2010;18h30;11;Grêmio Prudente;0 x 0  ;Vitória;0.0;0.0;2;Prudentão;Presidente Prudente
+2010;25/07/2010;18h30;11;Ceará;0 x 0  ;Palmeiras;0.0;0.0;2;Castelão;Fortaleza
+2010;25/07/2010;18h30;11;Corinthians;3 x 1  ;Guarani;3.0;1.0;1;Pacaembu;São Paulo
+2010;25/07/2010;18h30;11;Botafogo;1 x 1  ;Fluminense;1.0;1.0;2;Engenhão;Rio de Janeiro
+2010;01/08/2010;16h00;12;Palmeiras;1 x 1  ;Corinthians;1.0;1.0;2;Pacaembu;São Paulo
+2010;01/08/2010;16h00;12;Vitória;1 x 3  ;Botafogo;1.0;3.0;3;Barradão;Salvador
+2010;01/08/2010;16h00;12;Avaí;4 x 1  ;Goiás;4.0;1.0;1;Ressacada;Florianópolis
+2010;01/08/2010;16h00;12;Internacional;0 x 0  ;Grêmio;0.0;0.0;2;Beira-Rio;Porto Alegre
+2010;31/07/2010;18h30;12;Fluminense;3 x 1  ;Atlético-PR;3.0;1.0;1;Maracanã;Rio de Janeiro
+2010;31/07/2010;18h30;12;Atlético-GO;1 x 1  ;Guarani;1.0;1.0;2;Serra Dourada;Goiânia
+2010;31/07/2010;18h30;12;São Paulo;2 x 1  ;Ceará;2.0;1.0;1;Morumbi;São Paulo
+2010;01/08/2010;18h30;12;Atlético-MG;0 x 1  ;Cruzeiro;0.0;1.0;3;Arena do Jacaré;Sete Lagoas
+2010;01/08/2010;18h30;12;Grêmio Prudente;1 x 2  ;Santos;1.0;2.0;3;Prudentão;Presidente Prudente
+2010;01/08/2010;18h30;12;Flamengo;0 x 0  ;Vasco;0.0;0.0;2;Maracanã;Rio de Janeiro
+2010;08/08/2010;16h00;13;Corinthians;1 x 0  ;Flamengo;1.0;0.0;1;Pacaembu;São Paulo
+2010;08/08/2010;16h00;13;Goiás;1 x 1  ;Palmeiras;1.0;1.0;2;Serra Dourada;Goiânia
+2010;08/08/2010;16h00;13;Ceará;0 x 0  ;Atlético-GO;0.0;0.0;2;Castelão;Fortaleza
+2010;08/08/2010;16h00;13;Grêmio;1 x 2  ;Fluminense;1.0;2.0;3;Olímpico Monumental;Porto Alegre
+2010;07/08/2010;18h30;13;Botafogo;3 x 0  ;Atlético-MG;3.0;0.0;1;Engenhão;Rio de Janeiro
+2010;07/08/2010;18h30;13;Guarani;4 x 1  ;Avaí;4.0;1.0;1;Brinco de Ouro;Campinas
+2010;08/08/2010;18h30;13;Atlético-PR;1 x 1  ;São Paulo;1.0;1.0;2;Arena da Baixada;Curitiba
+2010;08/08/2010;18h30;13;Vasco;1 x 0  ;Vitória;1.0;0.0;1;São Januário;Rio de Janeiro
+2010;08/08/2010;18h30;13;Cruzeiro;0 x 0  ;Grêmio Prudente;0.0;0.0;2;Ipatingão;Ipatinga
+2010;13/10/2010;22h00;13;Santos;1 x 0  ;Internacional;1.0;0.0;1;Vila Belmiro;Santos
+2010;15/08/2010;16h00;14;São Paulo;2 x 2  ;Cruzeiro;2.0;2.0;2;Morumbi;São Paulo
+2010;15/08/2010;16h00;14;Grêmio Prudente;1 x 2  ;Vasco;1.0;2.0;3;Prudentão;Presidente Prudente
+2010;15/08/2010;16h00;14;Avaí;3 x 2  ;Corinthians;3.0;2.0;1;Ressacada;Florianópolis
+2010;15/08/2010;16h00;14;Fluminense;3 x 0  ;Internacional;3.0;0.0;1;Maracanã;Rio de Janeiro
+2010;14/08/2010;18h30;14;Atlético-GO;0 x 2  ;Botafogo;0.0;2.0;3;Serra Dourada;Goiânia
+2010;14/08/2010;18h30;14;Palmeiras;2 x 0  ;Atlético-PR;2.0;0.0;1;Pacaembu;São Paulo
+2010;14/08/2010;18h30;14;Flamengo;1 x 0  ;Ceará;1.0;0.0;1;Maracanã;Rio de Janeiro
+2010;14/08/2010;18h30;14;Atlético-MG;3 x 1  ;Guarani;3.0;1.0;1;Ipatingão;Ipatinga
+2010;15/08/2010;18h30;14;Vitória;4 x 2  ;Santos;4.0;2.0;1;Barradão;Salvador
+2010;15/08/2010;18h30;14;Grêmio;2 x 0  ;Goiás;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2010;22/08/2010;16h00;15;Santos;2 x 0  ;Atlético-MG;2.0;0.0;1;Vila Belmiro;Santos
+2010;22/08/2010;16h00;15;Guarani;0 x 0  ;Palmeiras;0.0;0.0;2;Brinco de Ouro;Campinas
+2010;22/08/2010;16h00;15;Atlético-PR;1 x 0  ;Flamengo;1.0;0.0;1;Arena da Baixada;Curitiba
+2010;22/08/2010;16h00;15;Internacional;1 x 1  ;Atlético-GO;1.0;1.0;2;Beira-Rio;Porto Alegre
+2010;21/08/2010;18h30;15;Goiás;1 x 2  ;Grêmio Prudente;1.0;2.0;3;Serra Dourada;Goiânia
+2010;21/08/2010;18h30;15;Botafogo;1 x 0  ;Avaí;1.0;0.0;1;Engenhão;Rio de Janeiro
+2010;21/08/2010;18h30;15;Ceará;2 x 1  ;Grêmio;2.0;1.0;1;Castelão;Fortaleza
+2010;22/08/2010;18h30;15;Corinthians;3 x 0  ;São Paulo;3.0;0.0;1;Pacaembu;São Paulo
+2010;22/08/2010;18h30;15;Vasco;2 x 2  ;Fluminense;2.0;2.0;2;Maracanã;Rio de Janeiro
+2010;22/08/2010;18h30;15;Cruzeiro;0 x 1  ;Vitória;0.0;1.0;3;Ipatingão;Ipatinga
+2010;25/08/2010;19h30;16;Goiás;0 x 3  ;Fluminense;0.0;3.0;3;Serra Dourada;Goiânia
+2010;25/08/2010;19h30;16;Avaí;0 x 1  ;Internacional;0.0;1.0;3;Ressacada;Florianópolis
+2010;25/08/2010;19h30;16;Botafogo;1 x 0  ;Ceará;1.0;0.0;1;Engenhão;Rio de Janeiro
+2010;25/08/2010;21h00;16;Grêmio Prudente;0 x 1  ;Atlético-PR;0.0;1.0;3;Prudentão;Presidente Prudente
+2010;26/08/2010;21h00;16;Flamengo;0 x 0  ;Atlético-MG;0.0;0.0;2;Maracanã;Rio de Janeiro
+2010;26/08/2010;21h00;16;Vitória;1 x 1  ;Guarani;1.0;1.0;2;Barradão;Salvador
+2010;26/08/2010;21h00;16;Palmeiras;0 x 3  ;Atlético-GO;0.0;3.0;3;Pacaembu;São Paulo
+2010;25/08/2010;22h00;16;São Paulo;0 x 0  ;Vasco;0.0;0.0;2;Morumbi;São Paulo
+2010;25/08/2010;22h00;16;Cruzeiro;1 x 0  ;Corinthians;1.0;0.0;1;Parque do Sabiá;Uberlândia
+2010;25/08/2010;22h00;16;Grêmio;1 x 2  ;Santos;1.0;2.0;3;Olímpico Monumental;Porto Alegre
+2010;29/08/2010;16h00;17;Corinthians;2 x 1  ;Vitória;2.0;1.0;1;Pacaembu;São Paulo
+2010;29/08/2010;16h00;17;Guarani;2 x 1  ;Flamengo;2.0;1.0;1;Brinco de Ouro;Campinas
+2010;29/08/2010;16h00;17;Atlético-MG;1 x 2  ;Palmeiras;1.0;2.0;3;Ipatingão;Ipatinga
+2010;28/08/2010;18h30;17;Internacional;1 x 0  ;Botafogo;1.0;0.0;1;Beira-Rio;Porto Alegre
+2010;28/08/2010;18h30;17;Vasco;1 x 1  ;Cruzeiro;1.0;1.0;2;São Januário;Rio de Janeiro
+2010;28/08/2010;18h30;17;Ceará;2 x 2  ;Grêmio Prudente;2.0;2.0;2;Castelão;Fortaleza
+2010;28/08/2010;18h30;17;Santos;2 x 0  ;Goiás;2.0;0.0;1;Pacaembu;São Paulo
+2010;29/08/2010;18h30;17;Fluminense;2 x 2  ;São Paulo;2.0;2.0;2;Maracanã;Rio de Janeiro
+2010;29/08/2010;18h30;17;Atlético-GO;2 x 2  ;Avaí;2.0;2.0;2;Serra Dourada;Goiânia
+2010;29/08/2010;18h30;17;Atlético-PR;1 x 1  ;Grêmio;1.0;1.0;2;Arena da Baixada;Curitiba
+2010;01/09/2010;19h30;18;Vitória;0 x 0  ;Internacional;0.0;0.0;2;Barradão;Salvador
+2010;01/09/2010;19h30;18;Grêmio;1 x 0  ;Guarani;1.0;0.0;1;Olímpico Monumental;Porto Alegre
+2010;01/09/2010;19h30;18;Grêmio Prudente;0 x 1  ;Botafogo;0.0;1.0;3;Prudentão;Presidente Prudente
+2010;01/09/2010;21h00;18;Goiás;1 x 3  ;Atlético-MG;1.0;3.0;3;Serra Dourada;Goiânia
+2010;02/09/2010;21h00;18;Santos;2 x 1  ;Avaí;2.0;1.0;1;Vila Belmiro;Santos
+2010;02/09/2010;21h00;18;São Paulo;2 x 1  ;Atlético-GO;2.0;1.0;1;Morumbi;São Paulo
+2010;01/09/2010;22h00;18;Cruzeiro;1 x 0  ;Flamengo;1.0;0.0;1;Parque do Sabiá;Uberlândia
+2010;01/09/2010;22h00;18;Atlético-PR;2 x 1  ;Ceará;2.0;1.0;1;Arena da Baixada;Curitiba
+2010;01/09/2010;22h00;18;Fluminense;1 x 1  ;Palmeiras;1.0;1.0;2;Maracanã;Rio de Janeiro
+2010;13/10/2010;22h00;18;Vasco;2 x 0  ;Corinthians;2.0;0.0;1;São Januário;Rio de Janeiro
+2010;05/09/2010;16h00;19;Avaí;0 x 1  ;Atlético-PR;0.0;1.0;3;Ressacada;Florianópolis
+2010;05/09/2010;16h00;19;Palmeiras;2 x 3  ;Cruzeiro;2.0;3.0;3;Pacaembu;São Paulo
+2010;05/09/2010;16h00;19;Guarani;2 x 1  ;Fluminense;2.0;1.0;1;Brinco de Ouro;Campinas
+2010;05/09/2010;16h00;19;Flamengo;0 x 0  ;Santos;0.0;0.0;2;Maracanã;Rio de Janeiro
+2010;04/09/2010;18h30;19;Botafogo;2 x 2  ;Grêmio;2.0;2.0;2;Engenhão;Rio de Janeiro
+2010;04/09/2010;18h30;19;Ceará;0 x 2  ;Vasco;0.0;2.0;3;Castelão;Fortaleza
+2010;04/09/2010;18h30;19;Corinthians;5 x 1  ;Goiás;5.0;1.0;1;Pacaembu;São Paulo
+2010;05/09/2010;18h30;19;Atlético-MG;2 x 3  ;São Paulo;2.0;3.0;3;Ipatingão;Ipatinga
+2010;05/09/2010;18h30;19;Atlético-GO;4 x 1  ;Vitória;4.0;1.0;1;Serra Dourada;Goiânia
+2010;05/09/2010;18h30;19;Internacional;2 x 0  ;Grêmio Prudente;2.0;0.0;1;Beira-Rio;Porto Alegre
+2010;08/09/2010;19h30;20;Fluminense;3 x 1  ;Ceará;3.0;1.0;1;Engenhão;Rio de Janeiro
+2010;08/09/2010;19h30;20;Cruzeiro;1 x 0  ;Internacional;1.0;0.0;1;João Havelange (MG);Uberlândia
+2010;08/09/2010;19h30;20;Grêmio;2 x 0  ;Atlético-GO;2.0;0.0;1;Olímpico Monumental;Porto Alegre
+2010;08/09/2010;19h30;20;Goiás;3 x 1  ;Guarani;3.0;1.0;1;Serra Dourada;Goiânia
+2010;09/09/2010;21h00;20;Santos;0 x 1  ;Botafogo;0.0;1.0;3;Pacaembu;São Paulo
+2010;09/09/2010;21h00;20;Vasco;1 x 1  ;Atlético-MG;1.0;1.0;2;São Januário;Rio de Janeiro
+2010;09/09/2010;21h00;20;Grêmio Prudente;1 x 1  ;Avaí;1.0;1.0;2;Prudentão;Presidente Prudente
+2010;08/09/2010;22h00;20;São Paulo;2 x 0  ;Flamengo;2.0;0.0;1;Morumbi;São Paulo
+2010;08/09/2010;22h00;20;Vitória;1 x 1  ;Palmeiras;1.0;1.0;2;Barradão;Salvador
+2010;08/09/2010;22h00;20;Atlético-PR;1 x 1  ;Corinthians;1.0;1.0;2;Arena da Baixada;Curitiba
+2010;12/09/2010;16h00;21;Palmeiras;0 x 0  ;Vasco;0.0;0.0;2;Pacaembu;São Paulo
+2010;12/09/2010;16h00;21;Botafogo;2 x 0  ;São Paulo;2.0;0.0;1;Engenhão;Rio de Janeiro
+2010;12/09/2010;16h00;21;Atlético-MG;1 x 0  ;Grêmio Prudente;1.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2010;12/09/2010;16h00;21;Avaí;1 x 2  ;Cruzeiro;1.0;2.0;3;Ressacada;Florianópolis
+2010;11/09/2010;18h30;21;Corinthians;0 x 1  ;Grêmio;0.0;1.0;3;Pacaembu;São Paulo
+2010;11/09/2010;18h30;21;Flamengo;2 x 2  ;Vitória;2.0;2.0;2;Raulino de Oliveira;Volta Redonda
+2010;11/09/2010;18h30;21;Atlético-GO;2 x 1  ;Fluminense;2.0;1.0;1;Serra Dourada;Goiânia
+2010;12/09/2010;18h30;21;Guarani;1 x 0  ;Atlético-PR;1.0;0.0;1;Brinco de Ouro;Campinas
+2010;12/09/2010;18h30;21;Internacional;0 x 0  ;Goiás;0.0;0.0;2;Beira-Rio;Porto Alegre
+2010;12/09/2010;18h30;21;Ceará;2 x 1  ;Santos;2.0;1.0;1;Castelão;Fortaleza
+2010;15/09/2010;19h30;22;Santos;4 x 2  ;Atlético-GO;4.0;2.0;1;Vila Belmiro;Santos
+2010;15/09/2010;19h30;22;Cruzeiro;4 x 2  ;Guarani;4.0;2.0;1;Arena do Jacaré;Sete Lagoas
+2010;15/09/2010;19h30;22;Grêmio;1 x 2  ;Palmeiras;1.0;2.0;3;Olímpico Monumental;Porto Alegre
+2010;15/09/2010;19h30;22;Goiás;4 x 1  ;Botafogo;4.0;1.0;1;Serra Dourada;Goiânia
+2010;15/09/2010;19h30;22;Atlético-PR;2 x 1  ;Atlético-MG;2.0;1.0;1;Arena da Baixada;Curitiba
+2010;16/09/2010;21h00;22;São Paulo;1 x 3  ;Internacional;1.0;3.0;3;Morumbi;São Paulo
+2010;16/09/2010;21h00;22;Vasco;1 x 1  ;Avaí;1.0;1.0;2;São Januário;Rio de Janeiro
+2010;15/09/2010;22h00;22;Fluminense;1 x 2  ;Corinthians;1.0;2.0;3;Engenhão;Rio de Janeiro
+2010;15/09/2010;22h00;22;Grêmio Prudente;1 x 2  ;Flamengo;1.0;2.0;3;Prudentão;Presidente Prudente
+2010;15/09/2010;22h00;22;Vitória;0 x 0  ;Ceará;0.0;0.0;2;Barradão;Salvador
+2010;19/09/2010;16h00;23;Palmeiras;0 x 2  ;São Paulo;0.0;2.0;3;Pacaembu;São Paulo
+2010;19/09/2010;16h00;23;Guarani;0 x 0  ;Santos;0.0;0.0;2;Brinco de Ouro;Campinas
+2010;19/09/2010;16h00;23;Atlético-MG;2 x 3  ;Vitória;2.0;3.0;3;Arena do Jacaré;Sete Lagoas
+2010;19/09/2010;16h00;23;Internacional;1 x 0  ;Vasco;1.0;0.0;1;Beira-Rio;Porto Alegre
+2010;18/09/2010;18h30;23;Corinthians;3 x 0  ;Grêmio Prudente;3.0;0.0;1;Pacaembu;São Paulo
+2010;18/09/2010;18h30;23;Botafogo;2 x 2  ;Cruzeiro;2.0;2.0;2;Engenhão;Rio de Janeiro
+2010;18/09/2010;18h30;23;Atlético-GO;1 x 2  ;Atlético-PR;1.0;2.0;3;Serra Dourada;Goiânia
+2010;19/09/2010;18h30;23;Flamengo;3 x 3  ;Fluminense;3.0;3.0;2;Engenhão;Rio de Janeiro
+2010;19/09/2010;18h30;23;Ceará;1 x 1  ;Goiás;1.0;1.0;2;Castelão;Fortaleza
+2010;19/09/2010;18h30;23;Avaí;0 x 3  ;Grêmio;0.0;3.0;3;Ressacada;Florianópolis
+2010;22/09/2010;19h30;24;São Paulo;2 x 1  ;Guarani;2.0;1.0;1;Morumbi;São Paulo
+2010;22/09/2010;19h30;24;Grêmio Prudente;0 x 1  ;Palmeiras;0.0;1.0;3;Prudentão;Presidente Prudente
+2010;22/09/2010;19h30;24;Cruzeiro;2 x 0  ;Ceará;2.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2010;22/09/2010;19h30;24;Goiás;1 x 3  ;Atlético-GO;1.0;3.0;3;Serra Dourada;Goiânia
+2010;22/09/2010;21h00;24;Vasco;2 x 2  ;Botafogo;2.0;2.0;2;Engenhão;Rio de Janeiro
+2010;23/09/2010;21h00;24;Fluminense;5 x 1  ;Atlético-MG;5.0;1.0;1;Engenhão;Rio de Janeiro
+2010;23/09/2010;21h00;24;Vitória;3 x 0  ;Avaí;3.0;0.0;1;Barradão;Salvador
+2010;22/09/2010;22h00;24;Santos;2 x 3  ;Corinthians;2.0;3.0;3;Vila Belmiro;Santos
+2010;22/09/2010;22h00;24;Grêmio;2 x 2  ;Flamengo;2.0;2.0;2;Olímpico Monumental;Porto Alegre
+2010;22/09/2010;22h00;24;Atlético-PR;1 x 0  ;Internacional;1.0;0.0;1;Arena da Baixada;Curitiba
+2010;26/09/2010;16h00;25;Botafogo;1 x 1  ;Atlético-PR;1.0;1.0;2;Engenhão;Rio de Janeiro
+2010;26/09/2010;16h00;25;Internacional;3 x 2  ;Corinthians;3.0;2.0;1;Beira-Rio;Porto Alegre
+2010;26/09/2010;16h00;25;Vitória;1 x 2  ;Fluminense;1.0;2.0;3;Barradão;Salvador
+2010;25/09/2010;18h30;25;São Paulo;0 x 3  ;Goiás;0.0;3.0;3;Morumbi;São Paulo
+2010;25/09/2010;18h30;25;Santos;4 x 1  ;Cruzeiro;4.0;1.0;1;Arena Barueri;Barueri
+2010;25/09/2010;18h30;25;Flamengo;1 x 3  ;Palmeiras;1.0;3.0;3;Engenhão;Rio de Janeiro
+2010;25/09/2010;18h30;25;Guarani;1 x 0  ;Vasco;1.0;0.0;1;Brinco de Ouro;Campinas
+2010;25/09/2010;18h30;25;Atlético-GO;3 x 0  ;Grêmio Prudente;3.0;0.0;1;Serra Dourada;Goiânia
+2010;26/09/2010;18h30;25;Atlético-MG;1 x 2  ;Grêmio;1.0;2.0;3;Arena do Jacaré;Sete Lagoas
+2010;26/09/2010;18h30;25;Avaí;5 x 0  ;Ceará;5.0;0.0;1;Ressacada;Florianópolis
+2010;29/09/2010;19h30;26;Palmeiras;2 x 0  ;Internacional;2.0;0.0;1;Arena Barueri;Barueri
+2010;29/09/2010;19h30;26;Grêmio Prudente;4 x 2  ;Guarani;4.0;2.0;1;Prudentão;Presidente Prudente
+2010;29/09/2010;19h30;26;Cruzeiro;3 x 0  ;Atlético-GO;3.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2010;29/09/2010;19h30;26;Atlético-PR;1 x 0  ;Vitória;1.0;0.0;1;Arena da Baixada;Curitiba
+2010;28/09/2010;21h00;26;Vasco;3 x 1  ;Santos;3.0;1.0;1;São Januário;Rio de Janeiro
+2010;29/09/2010;21h00;26;Fluminense;1 x 0  ;Avaí;1.0;0.0;1;Raulino de Oliveira;Volta Redonda
+2010;28/09/2010;21h10;26;Goiás;1 x 1  ;Flamengo;1.0;1.0;2;Serra Dourada;Goiânia
+2010;29/09/2010;22h00;26;Corinthians;1 x 1  ;Botafogo;1.0;1.0;2;Pacaembu;São Paulo
+2010;29/09/2010;22h00;26;Grêmio;4 x 2  ;São Paulo;4.0;2.0;1;Olímpico Monumental;Porto Alegre
+2010;29/09/2010;22h00;26;Ceará;0 x 0  ;Atlético-MG;0.0;0.0;2;Castelão;Fortaleza
+2010;02/10/2010;16h00;27;Corinthians;2 x 2  ;Ceará;2.0;2.0;2;Pacaembu;São Paulo
+2010;02/10/2010;16h00;27;Santos;1 x 1  ;Palmeiras;1.0;1.0;2;Vila Belmiro;Santos
+2010;02/10/2010;16h00;27;Grêmio Prudente;1 x 1  ;Fluminense;1.0;1.0;2;Prudentão;Presidente Prudente
+2010;02/10/2010;16h00;27;Vitória;0 x 3  ;Grêmio;0.0;3.0;3;Barradão;Salvador
+2010;02/10/2010;18h30;27;Botafogo;1 x 1  ;Flamengo;1.0;1.0;2;Engenhão;Rio de Janeiro
+2010;02/10/2010;18h30;27;Cruzeiro;0 x 0  ;Atlético-PR;0.0;0.0;2;Arena do Jacaré;Sete Lagoas
+2010;02/10/2010;18h30;27;Internacional;3 x 0  ;Guarani;3.0;0.0;1;Beira-Rio;Porto Alegre
+2010;01/10/2010;21h00;27;Vasco;3 x 2  ;Goiás;3.0;2.0;1;São Januário;Rio de Janeiro
+2010;02/10/2010;21h00;27;Atlético-GO;2 x 3  ;Atlético-MG;2.0;3.0;3;Serra Dourada;Goiânia
+2010;02/10/2010;21h00;27;Avaí;0 x 0  ;São Paulo;0.0;0.0;2;Ressacada;Florianópolis
+2010;06/10/2010;19h30;28;Fluminense;0 x 3  ;Santos;0.0;3.0;3;Engenhão;Rio de Janeiro
+2010;06/10/2010;19h30;28;Guarani;1 x 1  ;Botafogo;1.0;1.0;2;Brinco de Ouro;Campinas
+2010;06/10/2010;19h30;28;Grêmio;4 x 0  ;Grêmio Prudente;4.0;0.0;1;Olímpico Monumental;Porto Alegre
+2010;07/10/2010;21h00;28;Palmeiras;4 x 1  ;Avaí;4.0;1.0;1;Pacaembu;São Paulo
+2010;07/10/2010;21h00;28;Flamengo;2 x 0  ;Atlético-GO;2.0;0.0;1;Raulino de Oliveira;Volta Redonda
+2010;07/10/2010;21h00;28;Goiás;0 x 1  ;Cruzeiro;0.0;1.0;3;Serra Dourada;Goiânia
+2010;06/10/2010;21h50;28;São Paulo;2 x 0  ;Vitória;2.0;0.0;1;Arena Barueri;Barueri
+2010;06/10/2010;21h50;28;Atlético-MG;2 x 1  ;Corinthians;2.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2010;06/10/2010;21h50;28;Ceará;1 x 0  ;Internacional;1.0;0.0;1;Castelão;Fortaleza
+2010;06/10/2010;21h50;28;Atlético-PR;0 x 0  ;Vasco;0.0;0.0;2;Arena da Baixada;Curitiba
+2010;10/10/2010;16h00;29;Corinthians;3 x 4  ;Atlético-GO;3.0;4.0;3;Pacaembu;São Paulo
+2010;10/10/2010;16h00;29;Botafogo;0 x 0  ;Palmeiras;0.0;0.0;2;Engenhão;Rio de Janeiro
+2010;10/10/2010;16h00;29;Cruzeiro;1 x 0  ;Fluminense;1.0;0.0;1;João Havelange (MG);Uberlândia
+2010;10/10/2010;16h00;29;Goiás;1 x 0  ;Vitória;1.0;0.0;1;Serra Dourada;Goiânia
+2010;10/10/2010;16h00;29;Avaí;2 x 2  ;Flamengo;2.0;2.0;2;Ressacada;Florianópolis
+2010;09/10/2010;18h30;29;Santos;2 x 0  ;Atlético-PR;2.0;0.0;1;Vila Belmiro;Santos
+2010;09/10/2010;18h30;29;Vasco;3 x 3  ;Grêmio;3.0;3.0;2;São Januário;Rio de Janeiro
+2010;09/10/2010;18h30;29;Grêmio Prudente;2 x 3  ;São Paulo;2.0;3.0;3;Prudentão;Presidente Prudente
+2010;10/10/2010;18h30;29;Internacional;1 x 0  ;Atlético-MG;1.0;0.0;1;Beira-Rio;Porto Alegre
+2010;10/10/2010;18h30;29;Ceará;2 x 0  ;Guarani;2.0;0.0;1;Castelão;Fortaleza
+2010;17/10/2010;16h00;30;Guarani;0 x 0  ;Corinthians;0.0;0.0;2;Brinco de Ouro;Campinas
+2010;17/10/2010;16h00;30;Atlético-MG;2 x 0  ;Avaí;2.0;0.0;1;Arena do Jacaré;Sete Lagoas
+2010;17/10/2010;16h00;30;Grêmio;2 x 1  ;Cruzeiro;2.0;1.0;1;Olímpico Monumental;Porto Alegre
+2010;17/10/2010;16h00;30;Atlético-GO;2 x 0  ;Vasco;2.0;0.0;1;Serra Dourada;Goiânia
+2010;16/10/2010;18h30;30;Flamengo;3 x 0  ;Internacional;3.0;0.0;1;Engenhão;Rio de Janeiro
+2010;16/10/2010;18h30;30;Atlético-PR;2 x 1  ;Goiás;2.0;1.0;1;Arena da Baixada;Curitiba
+2010;17/10/2010;18h30;30;São Paulo;4 x 3  ;Santos;4.0;3.0;1;Morumbi;São Paulo
+2010;17/10/2010;18h30;30;Palmeiras;1 x 1  ;Ceará;1.0;1.0;2;Arena Barueri;Barueri
+2010;17/10/2010;18h30;30;Fluminense;0 x 0  ;Botafogo;0.0;0.0;2;Engenhão;Rio de Janeiro
+2010;17/10/2010;18h30;30;Vitória;2 x 0  ;Grêmio Prudente;2.0;0.0;1;Barradão;Salvador
+2010;24/10/2010;16h00;31;Corinthians;1 x 0  ;Palmeiras;1.0;0.0;1;Pacaembu;São Paulo
+2010;24/10/2010;16h00;31;Goiás;1 x 0  ;Avaí;1.0;0.0;1;Serra Dourada;Goiânia
+2010;24/10/2010;16h00;31;Ceará;2 x 0  ;São Paulo;2.0;0.0;1;Castelão;Fortaleza
+2010;24/10/2010;16h00;31;Atlético-PR;2 x 2  ;Fluminense;2.0;2.0;2;Arena da Baixada;Curitiba
+2010;23/10/2010;18h30;31;Botafogo;1 x 0  ;Vitória;1.0;0.0;1;Engenhão;Rio de Janeiro
+2010;23/10/2010;18h30;31;Guarani;0 x 1  ;Atlético-GO;0.0;1.0;3;Brinco de Ouro;Campinas
+2010;24/10/2010;18h30;31;Santos;2 x 3  ;Grêmio Prudente;2.0;3.0;3;Vila Belmiro;Santos
+2010;24/10/2010;18h30;31;Vasco;1 x 1  ;Flamengo;1.0;1.0;2;Engenhão;Rio de Janeiro
+2010;24/10/2010;18h30;31;Cruzeiro;3 x 4  ;Atlético-MG;3.0;4.0;3;João Havelange (MG);Uberlândia
+2010;24/10/2010;18h30;31;Grêmio;2 x 2  ;Internacional;2.0;2.0;2;Olímpico Monumental;Porto Alegre
+2010;30/10/2010;16h00;32;Internacional;1 x 1  ;Santos;1.0;1.0;2;Beira-Rio;Porto Alegre
+2010;30/10/2010;16h00;32;Vitória;4 x 2  ;Vasco;4.0;2.0;1;Barradão;Salvador
+2010;30/10/2010;18h30;32;Palmeiras;3 x 2  ;Goiás;3.0;2.0;1;Arena Barueri;Barueri
+2010;30/10/2010;18h30;32;Grêmio Prudente;0 x 2  ;Cruzeiro;0.0;2.0;3;Prudentão;Presidente Prudente
+2010;30/10/2010;18h30;32;Atlético-MG;0 x 2  ;Botafogo;0.0;2.0;3;Arena do Jacaré;Sete Lagoas
+2010;30/10/2010;18h30;32;Avaí;1 x 0  ;Guarani;1.0;0.0;1;Ressacada;Florianópolis
+2010;28/10/2010;21h00;32;São Paulo;2 x 1  ;Atlético-PR;2.0;1.0;1;Arena Barueri;Barueri
+2010;28/10/2010;21h00;32;Fluminense;2 x 0  ;Grêmio;2.0;0.0;1;Engenhão;Rio de Janeiro
+2010;28/10/2010;21h00;32;Atlético-GO;1 x 1  ;Ceará;1.0;1.0;2;Serra Dourada;Goiânia
+2010;27/10/2010;22h00;32;Flamengo;1 x 1  ;Corinthians;1.0;1.0;2;Engenhão;Rio de Janeiro
+2010;03/11/2010;19h30;33;Santos;1 x 1  ;Vitória;1.0;1.0;2;Vila Belmiro;Santos
+2010;03/11/2010;19h30;33;Botafogo;3 x 2  ;Atlético-GO;3.0;2.0;1;Engenhão;Rio de Janeiro
+2010;03/11/2010;19h30;33;Guarani;0 x 0  ;Atlético-MG;0.0;0.0;2;Brinco de Ouro;Campinas
+2010;03/11/2010;19h30;33;Internacional;0 x 0  ;Fluminense;0.0;0.0;2;Beira-Rio;Porto Alegre
+2010;03/11/2010;19h30;33;Goiás;0 x 2  ;Grêmio;0.0;2.0;3;Serra Dourada;Goiânia
+2010;04/11/2010;21h00;33;Vasco;2 x 1  ;Grêmio Prudente;2.0;1.0;1;São Januário;Rio de Janeiro
+2010;04/11/2010;21h00;33;Atlético-PR;1 x 0  ;Palmeiras;1.0;0.0;1;Arena da Baixada;Curitiba
+2010;03/11/2010;21h50;33;Corinthians;4 x 0  ;Avaí;4.0;0.0;1;Pacaembu;São Paulo
+2010;03/11/2010;21h50;33;Cruzeiro;0 x 2  ;São Paulo;0.0;2.0;3;João Havelange (MG);Uberlândia
+2010;03/11/2010;21h50;33;Ceará;2 x 2  ;Flamengo;2.0;2.0;2;Castelão;Fortaleza
+2010;07/11/2010;17h00;34;São Paulo;0 x 2  ;Corinthians;0.0;2.0;3;Morumbi;São Paulo
+2010;07/11/2010;17h00;34;Grêmio Prudente;4 x 1  ;Goiás;4.0;1.0;1;Prudentão;Presidente Prudente
+2010;07/11/2010;17h00;34;Vitória;0 x 1  ;Cruzeiro;0.0;1.0;3;Barradão;Salvador
+2010;07/11/2010;17h00;34;Avaí;0 x 0  ;Botafogo;0.0;0.0;2;Ressacada;Florianópolis
+2010;06/11/2010;19h30;34;Atlético-MG;2 x 2  ;Santos;2.0;2.0;2;Arena do Jacaré;Sete Lagoas
+2010;06/11/2010;19h30;34;Grêmio;5 x 1  ;Ceará;5.0;1.0;1;Olímpico Monumental;Porto Alegre
+2010;06/11/2010;19h30;34;Atlético-GO;2 x 2  ;Internacional;2.0;2.0;2;Serra Dourada;Goiânia
+2010;07/11/2010;19h30;34;Palmeiras;1 x 0  ;Guarani;1.0;0.0;1;Arena Barueri;Barueri
+2010;07/11/2010;19h30;34;Fluminense;1 x 0  ;Vasco;1.0;0.0;1;Engenhão;Rio de Janeiro
+2010;07/11/2010;19h30;34;Flamengo;0 x 1  ;Atlético-PR;0.0;1.0;3;Raulino de Oliveira;Volta Redonda
+2010;14/11/2010;17h00;35;Fluminense;1 x 1  ;Goiás;1.0;1.0;2;Engenhão;Rio de Janeiro
+2010;14/11/2010;17h00;35;Guarani;1 x 1  ;Vitória;1.0;1.0;2;Brinco de Ouro;Campinas
+2010;14/11/2010;17h00;35;Internacional;2 x 3  ;Avaí;2.0;3.0;3;Beira-Rio;Porto Alegre
+2010;14/11/2010;17h00;35;Atlético-GO;3 x 0  ;Palmeiras;3.0;0.0;1;Serra Dourada;Goiânia
+2010;13/11/2010;19h30;35;Corinthians;1 x 0  ;Cruzeiro;1.0;0.0;1;Pacaembu;São Paulo
+2010;13/11/2010;19h30;35;Santos;0 x 0  ;Grêmio;0.0;0.0;2;Vila Belmiro;Santos
+2010;13/11/2010;19h30;35;Atlético-MG;4 x 1  ;Flamengo;4.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2010;14/11/2010;19h30;35;Vasco;1 x 1  ;São Paulo;1.0;1.0;2;São Januário;Rio de Janeiro
+2010;14/11/2010;19h30;35;Atlético-PR;2 x 1  ;Grêmio Prudente;2.0;1.0;1;Arena da Baixada;Curitiba
+2010;10/11/2010;21h50;35;Ceará;2 x 2  ;Botafogo;2.0;2.0;2;Castelão;Fortaleza
+2010;21/11/2010;17h00;36;São Paulo;1 x 4  ;Fluminense;1.0;4.0;3;Arena Barueri;Barueri
+2010;21/11/2010;17h00;36;Palmeiras;0 x 2  ;Atlético-MG;0.0;2.0;3;Arena da Fonte;Araraquara
+2010;21/11/2010;17h00;36;Botafogo;1 x 2  ;Internacional;1.0;2.0;3;Engenhão;Rio de Janeiro
+2010;21/11/2010;17h00;36;Vitória;1 x 1  ;Corinthians;1.0;1.0;2;Barradão;Salvador
+2010;20/11/2010;19h30;36;Flamengo;2 x 1  ;Guarani;2.0;1.0;1;Engenhão;Rio de Janeiro
+2010;20/11/2010;19h30;36;Grêmio Prudente;1 x 1  ;Ceará;1.0;1.0;2;Prudentão;Presidente Prudente
+2010;20/11/2010;19h30;36;Grêmio;3 x 1  ;Atlético-PR;3.0;1.0;1;Olímpico Monumental;Porto Alegre
+2010;21/11/2010;19h30;36;Cruzeiro;3 x 1  ;Vasco;3.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2010;21/11/2010;19h30;36;Goiás;1 x 4  ;Santos;1.0;4.0;3;Serra Dourada;Goiânia
+2010;21/11/2010;19h30;36;Avaí;3 x 0  ;Atlético-GO;3.0;0.0;1;Ressacada;Florianópolis
+2010;28/11/2010;17h00;37;Corinthians;2 x 0  ;Vasco;2.0;0.0;1;Pacaembu;São Paulo
+2010;28/11/2010;17h00;37;Palmeiras;1 x 2  ;Fluminense;1.0;2.0;3;Arena Barueri;Barueri
+2010;28/11/2010;17h00;37;Flamengo;1 x 2  ;Cruzeiro;1.0;2.0;3;Raulino de Oliveira;Volta Redonda
+2010;28/11/2010;17h00;37;Botafogo;3 x 1  ;Grêmio Prudente;3.0;1.0;1;Engenhão;Rio de Janeiro
+2010;28/11/2010;17h00;37;Guarani;0 x 3  ;Grêmio;0.0;3.0;3;Brinco de Ouro;Campinas
+2010;28/11/2010;17h00;37;Atlético-MG;3 x 1  ;Goiás;3.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2010;28/11/2010;17h00;37;Internacional;1 x 1  ;Vitória;1.0;1.0;2;Beira-Rio;Porto Alegre
+2010;28/11/2010;17h00;37;Atlético-GO;1 x 1  ;São Paulo;1.0;1.0;2;Serra Dourada;Goiânia
+2010;28/11/2010;17h00;37;Ceará;1 x 1  ;Atlético-PR;1.0;1.0;2;Castelão;Fortaleza
+2010;28/11/2010;17h00;37;Avaí;3 x 2  ;Santos;3.0;2.0;1;Ressacada;Florianópolis
+2010;05/12/2010;17h00;38;São Paulo;4 x 0  ;Atlético-MG;4.0;0.0;1;Morumbi;São Paulo
+2010;05/12/2010;17h00;38;Santos;0 x 0  ;Flamengo;0.0;0.0;2;Vila Belmiro;Santos
+2010;05/12/2010;17h00;38;Vasco;2 x 0  ;Ceará;2.0;0.0;1;São Januário;Rio de Janeiro
+2010;05/12/2010;17h00;38;Fluminense;1 x 0  ;Guarani;1.0;0.0;1;Engenhão;Rio de Janeiro
+2010;05/12/2010;17h00;38;Cruzeiro;2 x 1  ;Palmeiras;2.0;1.0;1;Arena do Jacaré;Sete Lagoas
+2010;05/12/2010;17h00;38;Grêmio;3 x 0  ;Botafogo;3.0;0.0;1;Olímpico Monumental;Porto Alegre
+2010;05/12/2010;17h00;38;Goiás;1 x 1  ;Corinthians;1.0;1.0;2;Serra Dourada;Goiânia
+2010;05/12/2010;17h00;38;Vitória;0 x 0  ;Atlético-GO;0.0;0.0;2;Barradão;Salvador
+2010;05/12/2010;17h00;38;Atlético-PR;1 x 0  ;Avaí;1.0;0.0;1;Arena da Baixada;Curitiba
+2010;02/12/2010;21h00;38;Grêmio Barueri;0 x 3  ;Internacional;0.0;3.0;3;Prudentão;Presidente Prudente
