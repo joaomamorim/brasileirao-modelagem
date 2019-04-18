@@ -1,4 +1,4 @@
-# Modelos de previsão de Resultado do Brasileirão
+# Modelos de previsão de resultados do Brasileirão
 
 Os códigos aqui apresentado são resultados da minha própria dissertação. Nela são analisados oito modelos com objetivo de prever o resultado de partidas do Brasileirão. 
 
